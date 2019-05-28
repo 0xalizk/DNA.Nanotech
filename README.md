@@ -7,7 +7,5 @@ A 100x100 nanometer square DNA lattice contains ~ 2 x 10K DNA bases (multiply by
 
 For background take a look at this recent review paper: https://www.nature.com/articles/natrevmats201768
 
-[//]: # (Rothemund, P. W. (2006). Folding DNA to create nanoscale shapes and patterns. Nature, 440(7082), 297.)
-
 
 [//]: # (this is a comment) 
