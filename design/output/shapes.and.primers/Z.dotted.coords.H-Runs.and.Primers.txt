@@ -1,0 +1,71 @@
+01    GCG      CAC      CTT      CCT      TAT      CAC      GGT      CGC      AAG      TAG      TCC      CAG      GAG      ATA      AAG      CAC      TTG      CTT      AGA      ATC      TGC      CCG      TGC      GTC      TTC      TAG      AGA      TAT      AGA      TGC      TGG      GCT      TTT      CTT      TTG      CAT      CGA      AAG      ATC      GGT
+
+02    GCA      TTC      CCG      TTG      CGT      GTA      TAC      ACT      AGA      TGA      TTG      CGC      GTT      TTC      TAG      CGA      TCT      TGA      CTC      ACA      CTC      AGA      GAC      TAC      TGT      GAA      TCC      ATG      GCT      CAC      GGT      CTT      AAT      GAG      CAC      AAA      TAA      TTT      CAT      ACC
+
+03    ATA      ACT      CCT      CAA      GAT      CAC      ACT      TAT      TGT      CGG      TCA      GGT      TAG      TCT      GTC      GAT      ATG      AGA      TTG      TTC      CGT      TTC      TAT      TCC      AAA      GAT      CGA      CAC      CTG      TCG      CTA      ACA      AGG      GCT      ACT      AGT      ATA      ATT      CTG      GAA
+
+04    TAG      GAC      CCG      TCG      CAG      TGC      GGC      GAT      GAC      GCA      CGT      GCT      CGT      ATG      ATT      CTC      AAT      CGA      TAT      ATT      ACT      ATT      CCG      GTG      CTC      AAG      AGC      ACT      CTG      TCA      TGA      TTT      CTT      ATG      AAG      CTT      AAA      GTC      AGG      CGC
+
+05    TAG      TTG      CGT      CTA      ATG      ATG      GAT      CTC      CCG      ATT      GAG      TTG      CGA      ACA      CAT      CTC      AGT      CCA      GTC      TGG      AAC      TAT      AGA      AAG      CAA      TCC      TAG      AGT      GGT      TTG      CGA      ACA      TCC      GCG      AGT      CAA      AAG      GAC      CTA      TCG
+
+06    ATG      TAA      GTT      CTC      TTT      ATT      TCC      TAC      CGC      TTG      GCG      ACG      AGC      GCG      TTG      TAT      GTC      TGA      AGT      CTC      ATT      TCT      TAG      ACA      ACA      AAT      AGA      CAT      TGG      TAC      CAG      TTT      ACT      CGC      GCT      TTC      GCG      CGG      TCT      TGC
+
+07    GGC      AAT      AGG      CTC      TCT      CGC      GAT      AAC      CGT      GTA      AGT      ACC      TGT      AGC      CGT      AAC      GGA      CGT      CCT      TGG      CTA      AGT      CCT      ACC      CCA      GCA      CTC      GAG      TAT      GGC      AGC      GTG      GGT      CTC      GTT      ATA      TCG      AGA      TTG      TGT
+
+08    AGG      TGT      GTT      CGC      GAA      TCA      GCG      TCA      GAG      CAA      GTC      ACG      TGC      AAG      CCT      GTC      TCT      ATT      GCG      CAG      AGT      TGG      AGG      TAG      TTG      GAC      GTA      TAC      TGC      ATC      TCG      ACG      GTA      TGG      CGG      TTA      CAT      GAT      GTT      ATC
+
+09    GGA      ACT      GAG      TTG      TGA      TTT      GGT      ACA      ATA      CAC      GGT      ATA      ACG      GTT      CAG      CGT      TGT      GCG      CAT      GTG      GTT      CAG      AAC      GTA      TTC      TCG      GCG      TAA      AGT      CAA      TCA      TGA      AGA      CTG      TCA      TAG      GAC      ATA      TTT      AAC
+
+10    TTG      TCA      ACT      CCA      GAA      GAA      TTG      GTT      ATC      TCT      GCA      TAC      GCA      AAC      GAA      GTA      CAA      TGT      TTA      CGG      GCC      CCA      GCT      TAC      ATG      GGA      AAT      TTC      TCT      ATT      CAA      CAG      GCA      ATT      GCA      AGA      GTC      CAA      GTT      GTT
+
+11    TAC      ATA      CTT      ACT      GAA      GCT      TTC      CTT      TAG      CTC      GAC      CAC      ATG      CAC      GGC      CAA      ACG      TCA      CGA      AGC      TGA      CAC      CTT      GGC      GAC      GTA      CTA      GGA      TAT      CGT      CTC      TTA      TCC      TTG      CTC      AAC      GCT      CAG      GCT      CTT
+
+12    CCT      CGT      TGC      TGA      GCC      GGT      GTA      GTC      AAC      TGA      AAT      TGA      CTT      CGT      CGC      ACC      TGG      GCT      CCA      ATT      CTC      TAA      TGG      AGA      ATC      ACC      CTC      GTC      ATC      GAT      ATT      CGT      TCC      CTT      TGG      CGA      AAG      TTC      GTT      GTC
+
+13    GAG      AGT      CAT      GCC      TAA      GTA      AGG      TTA      TAC      GAA      GCC      AAG      TAA      TCT      CGG      CGG      AAC      ATG      GAC      TCC      GTC      CGA      GCC      CCA      GTA      CCA      CGA      CGC      GTG      TTG      TTC      GTG      TCG      CTC      ACA      ACA      ATA      CAC      TAT      TTA
+
+14    ACA      GAC      TGT      GTT      TGA      CGA      GTA      CGG      GAG      AGG      ACA      GCC      TGA      CAC      CAA      CAG      CCG      CGT      CTT      CAC      TTT      ATA      GTA      GTA      TCT      TAA      CTA      AGT      AAC      TAC      TCT      AGT      TAC      CAG      TGA      AGC      GAG      TCC      GTC      TTA
+
+15    TAT      GTA      TTT      AAA      TGT      AGA      ATG      TTT      CAG      GCA      CTA      CCT      TTC      TAC      TAA      AGT      GTA      GAG      AGT      TGT      GAG      ACT      GTT      TAT      TGA      ATA      AGT      ACA      CAA      ACA      GAG      GCA      TTA      ACA      TGA      CTA      ATA      ACT      AGA      CCA
+
+16    ATG      GGA      ATA      AAT      CTC      GCA      GCG      TAT      AAC      TAT      AGT      TTC      AAC      CGC      CCA      TGC      CAC      CTT      GAA      ACC      GGA      TAG      GGC      ATG      AAC      ATA      AGC      TAT      TTT      TTC      CAC      CCG      TAT      CGG      GGT      TAT      GCC      TTA      AAC      ACT
+
+17    TCC      GCC      GAC      TGT      TCC      CTA      AGG      CGA      AAT      AAA      ATG      AAG      CGA      CCT      GTG      TGA      CGA      ACG      ACC      ACG      GTA      TTC      TAC      CAG      CTT      GCG      GGC      CGT      CAG      CTG      CCG      CTA      AGA      GTG      GCG      AGA      CAC      GCG      AGT      TGG
+
+18    ACA      CCT      ATA      TCT      CAG      CAT      AGA      ACG      AGC      TCT      TGA      CAT      CTT      CAG      GCT      ATA      GCC      TCA      GCT      TAC      ATG      GTC      CAG      GAC      TGG      TCA      GTT      TGT      GCG      TTG      ACG      TTC      CGA      CGT      TAA      CGT      GTG      TTA      AGA      GCG
+
+19    CTG      TCT      AAC      GAC      CAG      CGG      TCG      CTT      TAG      GGT      ATA      GGC      CGA      CCT      AGA      TAA      CTG      ATT      GCA      GTA      GAA      ACT      CGC      TAG      ATG      ATA      GAG      GCT      AGT      CCA      GGA      CGG      GAA      ATC      ACT      AAG      GTC      GGT      GCC      GTT
+
+20    AGC      GGC      GTA      AAT      ACG      CGT      GGT      TGA      GAC      CTA      ACG      TTA      ACG      CTC      CCT      CAT      TCT      AGT      CAC      CAA      TGA      GAG      ATG      TAC      TTG      AAT      AAA      TGG      GAC      CTC      CCG      CGC      GCT      GAC      AGC      AAC      TGC      CGA      TGC      TAC
+
+21    AAG      AAT      CTA      GTC      ATT      AGC      CGA      GTT      GGT      GTA      GCC      TTC      CAC      GTG      ACA      ACG      GTC      TGC      TAG      TGC      TGC      ACG      GCT      TCT      GTG      AAA      AGG      GTA      TCT      TGC      ATG      GCC      GCG      CAA      CAT      AGT      TCT      CAA      GAC      GGT
+
+22    CAC      TGC      GAT      CTT      CGA      ACG      ATT      CTC      GTG      CGT      TCT      GCT      GCG      AAG      CCT      GTT      ATC      AAG      TGA      GTT      AGT      TCA      CAG      GTT      ATG      TCT      ATC      AAT      GCC      ATG      ACT      ACT      CAC      CGT      GAA      AGG      TTA      ATC      TCA      GAT
+
+23    AAT      TAA      AGT      CCT      ACC      AGC      CCT      GCT      TCG      GTC      TTC      ACA      TGC      AAA      AGA      ACC      CAG      GGC      ATG      GTC      ACA      TCA      TAT      GCA      GAC      AGC      AGA      GAA      TTT      TGA      ACC      TCG      CGC      GAC      CGG      CTT      AGC      AGG      AAA      CGA
+
+24    GAG      CGC      CAC      CGT      CAG      TAT      GTT      CGG      AGT      AAA      CCA      ACG      GAT      GCA      CCG      CAT      AGG      ACT      GCG      TAC      TTG      AGC      AAT      CGG      CGG      AGG      GAA      TTA      AAC      CTT      TTC      GAC      TGC      ATG      GAA      AGG      AGG      AAA      AGA      TTC
+
+25    TCG      CCA      TCG      GTC      AGA      GCG      GAT      TAC      GAT      ACT      GCC      ATC      TAC      AGA      TTG      CAC      AGG      TCC      TCT      CGG      GAA      TGG      AAA      ACT      CCT      CGG      CAC      CCT      GTC      AGG      CGC      TCC      CTA      TGC      CAC      CGT      TTA      TTG      AGT      GGC
+
+26    TGC      CGC      TAT      TCA      AAC      ATC      GCT      ACC      TAT      CTC      CCA      GCT      GCA      AGG      TCA      TAG      CGC      CAG      GTT      CGA      CCA      ATA      CCA      AAG      AGA      TGT      GGT      GAC      TAC      TGC      TTG      ATA      CCT      ACT      CTC      TCC      GGT      GTA      GTA      ATA
+
+27    CAT      GAT      GCT      GTC      CAC      CGG      CTG      CGG      GCC      GGT      ATT      TCT      GGT      GCA      GGT      CGC      TAG      TGG      GAC      CTC      ACG      TGG      ACA      CGA      GCT      TAG      TCT      GCT      AAC      GTC      AGA      GTT      CCT      ACT      TAC      CTC      CGA      CAC      CCT      GCC
+
+28    TCG      CGG      TAG      GGT      AAA      TCT      GCC      GGT      TGT      CGC      CGA      CAT      GCC      GGT      TGA      CTA      CTC      TGC      GTG      CTT      CTC      AAG      TTG      GCT      GAT      CAC      TAT      GAG      AAT      AGC      CAA      TCA      TGC      GAA      GGC      GAG      CAT      ACC      GCA      ACC
+
+29    ACA      ACA      TTC      CGA      CAT      CGT      CCT      ATT      TTA      AGA      CAA      CAG      CGG      CCG      CGG      GCA      TGA      TCC      GTA      GCA      GTG      CAC      AAG      GAG      GCT      CAT      AGT      TGC      GAT      TGT      AAG      TGA      TCA      AGC      CTA      TCG      CAC      CCT      TAC      GTA
+
+30    TCG      GTA      AGC      ACC      CAC      ACT      CAA      ACG      TCA      CTT      ATG      ACA      CCT      CTT      GTG      GCC      TTA      CTT      GCT      AAT      TTA      CGT      GAC      CCT      TCC      TAT      CTA      AAT      TAC      CGC      CGT      TGG      CAG      CGA      AGT      GCG      TCT      ACT      GCG      GAC
+
+31    GTT      GTA      GCA      TGC      CGC      CAA      TCA      GCG      TCT      CGG      ATT      AAC      TTT      TCT      GTT      AGG      ACA      TAG      TTA      CAT      GCG      TCT      CTA      GGT      GAC      GAC      ATG      ACC      CGG      CAG      GAC      GAA      TGA      ACA      TGG      ATA      TCG      CGT      GAT      AGT
+
+32    CCT      CTA      TTC      GTA      ATG      GGA      TCT      CGC      TGA      TTA      CTA      TGT      CTG      GTG      AAC      CAC      TGG      GTA      TGC      GAT      GTC      ATG      ACG      TGA      CCA      CTG      GTC      CAA      GAG      TTA      CAG      CAT      GAT      TGA      GGC      TGT      CCA      TTC      CCT      ACA
+
+33    GGA      ATC      ATC      CTC      TTG      GTT      TCT      ATT      ACT      CAA      CAG      ATA      CGA      GGC      CGC      CTC      TAT      GCC      GCT      CAT      GTG      CTT      AAG      CCT      GCC      GAT      ACG      CTT      ATT      GTG      GAC      TAA      TGA      GTC      TTG      AAG      CTA      CGC      CGC      ATT
+
+34    CAG      GAA      GCC      CCT      AGC      AAA      GTG      GCT      CCG      CAT      CCA      CTC      GTA      GTA      GTG      AGC      AAC      TCC      CCT      AAT      GCG      GTA      TTA      GCG      ATA      CGT      AAC      GCC      GTT      TGA      GAC      GTG      GTT      GTT      ACG      GTC      ACA      TCA      AGG      CAG
+
+
+
+

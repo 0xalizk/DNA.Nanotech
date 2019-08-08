@@ -1,0 +1,2976 @@
+
+Bridges with orientation and h-scaffolds
+
+
+                -01             -02             -03             -04             -05             -06             -07             -08             -09             -10             -11             -12             -13             -14             -15             -16             -17             -18             -19             -20             
+H-01    -GCG-----CAC----.-CTT-----CCT------TAT-----CAC----.-GGT-----CGC------AAG-----TAG----.-TCC-----CAG------GAG-----ATA----.-AAG-----CAC------TTG-----CTT----.-AGA-----ATC------TGC-----CCG----.-TGC-----GTC------TTC-----TAG----.-AGA-----TAT------AGA-----TGC----.-TGG-----GCT------TTT-----CTT----.-TTG-----CAT------CGA-----AAG----.-ATC-----GGT-----
+        _CGC____-5             3-_GGA____._ATA____-5             3-_GCG____._TTC____-5             3-_GTC____._CTC____-5             3-_GTG____._AAC____-5             3-_TAG____._ACG____-5             3-_CAG____._AAG____-5             3-_ATA____._TCT____-5             3-_CGA____._AAA____-5             3-_GTA____._GCT____-5             3-_CCA____.
+        _CGT____-3             5-_AAC____._GCA____-3             5-_TGA____._TCT____-3             5-_GCG____._CAA____-3             5-_GCT____._AGA____-3             5-_TGT____._GAG____-3             5-_ATG____._ACA____-3             5-_TAC____._CGA____-3             5-_GAA____._TTA____-3             5-_TTT____._ATT____-3             5-_TGG____.
+H-02    -GCA-----TTC----.-CCG-----TTG------CGT-----GTA----.-TAC-----ACT------AGA-----TGA----.-TTG-----CGC------GTT-----TTC----.-TAG-----CGA------TCT-----TGA----.-CTC-----ACA------CTC-----AGA----.-GAC-----TAC------TGT-----GAA----.-TCC-----ATG------GCT-----CAC----.-GGT-----CTT------AAT-----GAG----.-CAC-----AAA------TAA-----TTT----.-CAT-----ACC-----
+              5-_AAG____._GGC____-3             5-_CAT____._ATG____-3             5-_ACT____._AAC____-3             5-_AAG____._ATC____-3             5-_ACT____._GAG____-3             5-_TCT____._CTG____-3             5-_CTT____._AGG____-3             5-_GTG____._CCA____-3             5-_CTC____._GTG____-3             5-_AAA____._GTA____-3             
+              3-_TGA____._GGA____-5             3-_GTG____._TGA____-5             3-_GCC____._AGT____-5             3-_AGA____._CAG____-5             3-_TCT____._AAC____-5             3-_AAG____._ATA____-5             3-_CTA____._GCT____-5             3-_AGC____._GAT____-5             3-_CGA____._TGA____-5             3-_TAA____._GAC____-5             
+H-03    -ATA-----ACT----.-CCT-----CAA------GAT-----CAC----.-ACT-----TAT------TGT-----CGG----.-TCA-----GGT------TAG-----TCT----.-GTC-----GAT------ATG-----AGA----.-TTG-----TTC------CGT-----TTC----.-TAT-----TCC------AAA-----GAT----.-CGA-----CAC------CTG-----TCG----.-CTA-----ACA------AGG-----GCT----.-ACT-----AGT------ATA-----ATT----.-CTG-----GAA-----
+        _TAT____-5             3-_GTT____._CTA____-5             3-_ATA____._ACA____-5             3-_CCA____._ATC____-5             3-_CTA____._TAC____-5             3-_AAG____._GCA____-5             3-_AGG____._TTT____-5             3-_GTG____._GAC____-5             3-_TGT____._TCC____-5             3-_TCA____._TAT____-5             3-_CTT____.
+        _ATC____-3             5-_AGC____._GTC____-3             5-_CTA____._CTG____-3             5-_CGA____._GCA____-3             5-_GAG____._TTA____-3             5-_TAA____._TGA____-3             5-_CAC____._GAG____-3             5-_TGA____._GAC____-3             5-_AAA____._GAA____-3             5-_GAA____._TTT____-3             5-_GCG____.
+H-04    -TAG-----GAC----.-CCG-----TCG------CAG-----TGC----.-GGC-----GAT------GAC-----GCA----.-CGT-----GCT------CGT-----ATG----.-ATT-----CTC------AAT-----CGA----.-TAT-----ATT------ACT-----ATT----.-CCG-----GTG------CTC-----AAG----.-AGC-----ACT------CTG-----TCA----.-TGA-----TTT------CTT-----ATG----.-AAG-----CTT------AAA-----GTC----.-AGG-----CGC-----
+              5-_CTG____._GGC____-3             5-_ACG____._CCG____-3             5-_CGT____._GCA____-3             5-_TAC____._TAA____-3             5-_GCT____._ATA____-3             5-_TAA____._GGC____-3             5-_TTC____._TCG____-3             5-_AGT____._ACT____-3             5-_TAC____._TTC____-3             5-_CAG____._TCC____-3             
+              3-_AAC____._GCA____-5             3-_TAC____._CTA____-5             3-_TAA____._CTC____-5             3-_TGT____._GTA____-5             3-_GGT____._CAG____-5             3-_ATA____._TCT____-5             3-_AGG____._ATC____-5             3-_AAC____._GCT____-5             3-_CGC____._TCA____-5             3-_CTG____._GAT____-5             
+H-05    -TAG-----TTG----.-CGT-----CTA------ATG-----ATG----.-GAT-----CTC------CCG-----ATT----.-GAG-----TTG------CGA-----ACA----.-CAT-----CTC------AGT-----CCA----.-GTC-----TGG------AAC-----TAT----.-AGA-----AAG------CAA-----TCC----.-TAG-----AGT------GGT-----TTG----.-CGA-----ACA------TCC-----GCG----.-AGT-----CAA------AAG-----GAC----.-CTA-----TCG-----
+        _ATC____-5             3-_GAT____._TAC____-5             3-_GAG____._GGC____-5             3-_AAC____._GCT____-5             3-_GAG____._TCA____-5             3-_ACC____._TTG____-5             3-_TTC____._GTT____-5             3-_TCA____._CCA____-5             3-_TGT____._AGG____-5             3-_GTT____._TTC____-5             3-_AGC____.
+        _TAC____-3             5-_GAG____._AAA____-3             5-_ATG____._GCG____-3             5-_TGC____._TCG____-3             5-_ATA____._CAG____-3             5-_GAG____._TAA____-3             5-_TGT____._TGT____-3             5-_GTA____._ACC____-3             5-_AAA____._TGA____-3             5-_AAG____._CGC____-3             5-_ACG____.
+H-06    -ATG-----TAA----.-GTT-----CTC------TTT-----ATT----.-TCC-----TAC------CGC-----TTG----.-GCG-----ACG------AGC-----GCG----.-TTG-----TAT------GTC-----TGA----.-AGT-----CTC------ATT-----TCT----.-TAG-----ACA------ACA-----AAT----.-AGA-----CAT------TGG-----TAC----.-CAG-----TTT------ACT-----CGC----.-GCT-----TTC------GCG-----CGG----.-TCT-----TGC-----
+              5-_ATT____._CAA____-3             5-_TAA____._AGG____-3             5-_AAC____._CGC____-3             5-_CGC____._AAC____-3             5-_ACT____._TCA____-3             5-_AGA____._ATC____-3             5-_TTA____._TCT____-3             5-_ATG____._GTC____-3             5-_GCG____._CGA____-3             5-_GCC____._AGA____-3             
+              3-_TTA____._TCC____-5             3-_GCG____._CTA____-5             3-_CAT____._TCA____-5             3-_TCG____._GCA____-5             3-_GCA____._GGA____-5             3-_TCA____._GGA____-5             3-_CGT____._GAG____-5             3-_CCG____._TCG____-5             3-_GAG____._CAA____-5             3-_TCT____._AAC____-5             
+H-07    -GGC-----AAT----.-AGG-----CTC------TCT-----CGC----.-GAT-----AAC------CGT-----GTA----.-AGT-----ACC------TGT-----AGC----.-CGT-----AAC------GGA-----CGT----.-CCT-----TGG------CTA-----AGT----.-CCT-----ACC------CCA-----GCA----.-CTC-----GAG------TAT-----GGC----.-AGC-----GTG------GGT-----CTC----.-GTT-----ATA------TCG-----AGA----.-TTG-----TGT-----
+        _CCG____-5             3-_GAG____._AGA____-5             3-_TTG____._GCA____-5             3-_TGG____._ACA____-5             3-_TTG____._CCT____-5             3-_ACC____._GAT____-5             3-_TGG____._GGT____-5             3-_CTC____._ATA____-5             3-_CAC____._CCA____-5             3-_TAT____._AGC____-5             3-_ACA____.
+        _TCC____-3             5-_GCG____._CTT____-3             5-_AGT____._CTC____-3             5-_TGC____._ACG____-3             5-_CAG____._AGA____-3             5-_GTC____._TCA____-3             5-_ATC____._AAC____-3             5-_ATG____._ACG____-3             5-_TGC____._CAT____-3             5-_AAT____._GTA____-3             5-_TAG____.
+H-08    -AGG-----TGT----.-GTT-----CGC------GAA-----TCA----.-GCG-----TCA------GAG-----CAA----.-GTC-----ACG------TGC-----AAG----.-CCT-----GTC------TCT-----ATT----.-GCG-----CAG------AGT-----TGG----.-AGG-----TAG------TTG-----GAC----.-GTA-----TAC------TGC-----ATC----.-TCG-----ACG------GTA-----TGG----.-CGG-----TTA------CAT-----GAT----.-GTT-----ATC-----
+              5-_ACA____._CAA____-3             5-_AGT____._CGC____-3             5-_GTT____._CAG____-3             5-_TTC____._GGA____-3             5-_TAA____._CGC____-3             5-_ACC____._TCC____-3             5-_CTG____._CAT____-3             5-_TAG____._AGC____-3             5-_ACC____._GCC____-3             5-_CTA____._CAA____-3             
+              3-_TGA____._CTC____-5             3-_AAA____._CCA____-5             3-_GTG____._CCA____-5             3-_CAA____._GTC____-5             3-_CGC____._GTA____-5             3-_GTC____._TTG____-5             3-_AGC____._CGC____-5             3-_GTT____._AGT____-5             3-_GAC____._AGT____-5             3-_TAT____._AAA____-5             
+H-09    -GGA-----ACT----.-GAG-----TTG------TGA-----TTT----.-GGT-----ACA------ATA-----CAC----.-GGT-----ATA------ACG-----GTT----.-CAG-----CGT------TGT-----GCG----.-CAT-----GTG------GTT-----CAG----.-AAC-----GTA------TTC-----TCG----.-GCG-----TAA------AGT-----CAA----.-TCA-----TGA------AGA-----CTG----.-TCA-----TAG------GAC-----ATA----.-TTT-----AAC-----
+        _CCT____-5             3-_AAC____._ACT____-5             3-_TGT____._TAT____-5             3-_TAT____._TGC____-5             3-_GCA____._ACA____-5             3-_CAC____._CAA____-5             3-_CAT____._AAG____-5             3-_ATT____._TCA____-5             3-_ACT____._TCT____-5             3-_ATC____._CTG____-5             3-_TTG____.
+        _AAC____-3             5-_GGT____._CTT____-3             5-_CAA____._TAG____-3             5-_ATG____._CGT____-3             5-_CAT____._GTT____-3             5-_GCC____._CGG____-3             5-_ATG____._TAC____-3             5-_AAG____._AGA____-3             5-_GTC____._CGT____-3             5-_TCT____._CAG____-3             5-_CAA____.
+H-10    -TTG-----TCA----.-ACT-----CCA------GAA-----GAA----.-TTG-----GTT------ATC-----TCT----.-GCA-----TAC------GCA-----AAC----.-GAA-----GTA------CAA-----TGT----.-TTA-----CGG------GCC-----CCA----.-GCT-----TAC------ATG-----GGA----.-AAT-----TTC------TCT-----ATT----.-CAA-----CAG------GCA-----ATT----.-GCA-----AGA------GTC-----CAA----.-GTT-----GTT-----
+              5-_AGT____._TGA____-3             5-_CTT____._AAC____-3             5-_AGA____._CGT____-3             5-_TTG____._CTT____-3             5-_ACA____._AAT____-3             5-_GGT____._CGA____-3             5-_CCT____._TTA____-3             5-_TAA____._GTT____-3             5-_TAA____._CGT____-3             5-_GTT____._CAA____-3             
+              3-_TAT____._GAA____-5             3-_CGA____._AAG____-5             3-_GAG____._CTG____-5             3-_GTG____._CCG____-5             3-_AGT____._GCT____-5             3-_GTG____._GAA____-5             3-_CAT____._GAT____-5             3-_GCA____._GAG____-5             3-_AAC____._GAG____-5             3-_GTC____._CGA____-5             
+H-11    -TAC-----ATA----.-CTT-----ACT------GAA-----GCT----.-TTC-----CTT------TAG-----CTC----.-GAC-----CAC------ATG-----CAC----.-GGC-----CAA------ACG-----TCA----.-CGA-----AGC------TGA-----CAC----.-CTT-----GGC------GAC-----GTA----.-CTA-----GGA------TAT-----CGT----.-CTC-----TTA------TCC-----TTG----.-CTC-----AAC------GCT-----CAG----.-GCT-----CTT-----
+        _ATG____-5             3-_TGA____._CTT____-5             3-_GAA____._ATC____-5             3-_GTG____._TAC____-5             3-_GTT____._TGC____-5             3-_TCG____._ACT____-5             3-_CCG____._CTG____-5             3-_CCT____._ATA____-5             3-_AAT____._AGG____-5             3-_TTG____._CGA____-5             3-_GAA____.
+        _GGA____-3             5-_ACT____._CGG____-3             5-_CAG____._TTG____-3             5-_ACT____._GAA____-3             5-_TGG____._ACC____-3             5-_TAA____._GAG____-3             5-_TCT____._TAG____-3             5-_CAG____._TAG____-3             5-_GCA____._AGG____-3             5-_GCT____._TTC____-3             5-_CAG____.
+H-12    -CCT-----CGT----.-TGC-----TGA------GCC-----GGT----.-GTA-----GTC------AAC-----TGA----.-AAT-----TGA------CTT-----CGT----.-CGC-----ACC------TGG-----GCT----.-CCA-----ATT------CTC-----TAA----.-TGG-----AGA------ATC-----ACC----.-CTC-----GTC------ATC-----GAT----.-ATT-----CGT------TCC-----CTT----.-TGG-----CGA------AAG-----TTC----.-GTT-----GTC-----
+              5-_GCA____._ACG____-3             5-_CCA____._CAT____-3             5-_ACT____._TTA____-3             5-_GCA____._GCG____-3             5-_CGA____._GGT____-3             5-_ATT____._ACC____-3             5-_TGG____._GAG____-3             5-_CTA____._TAA____-3             5-_GAA____._ACC____-3             5-_AAG____._CAA____-3             
+              3-_TCA____._GTA____-5             3-_CAT____._TCC____-5             3-_CTT____._CGG____-5             3-_AGA____._GCC____-5             3-_TAC____._CTG____-5             3-_GCT____._CGG____-5             3-_GGT____._GCT____-5             3-_AAC____._AAG____-5             3-_GAG____._TGT____-5             3-_GTG____._ATA____-5             
+H-13    -GAG-----AGT----.-CAT-----GCC------TAA-----GTA----.-AGG-----TTA------TAC-----GAA----.-GCC-----AAG------TAA-----TCT----.-CGG-----CGG------AAC-----ATG----.-GAC-----TCC------GTC-----CGA----.-GCC-----CCA------GTA-----CCA----.-CGA-----CGC------GTG-----TTG----.-TTC-----GTG------TCG-----CTC----.-ACA-----ACA------ATA-----CAC----.-TAT-----TTA-----
+        _CTC____-5             3-_CGG____._ATT____-5             3-_AAT____._ATG____-5             3-_TTC____._ATT____-5             3-_GCC____._TTG____-5             3-_AGG____._CAG____-5             3-_GGT____._CAT____-5             3-_GCG____._CAC____-5             3-_CAC____._AGC____-5             3-_TGT____._TAT____-5             3-_AAT____.
+        _TGT____-3             5-_CAA____._ACT____-3             5-_GCC____._CTC____-3             5-_CGG____._ACT____-3             5-_GTC____._GGC____-3             5-_GTG____._AAA____-3             5-_CAT____._AGA____-3             5-_TCA____._TTG____-3             5-_TCA____._ATG____-3             5-_TCG____._CTC____-3             5-_AAT____.
+H-14    -ACA-----GAC----.-TGT-----GTT------TGA-----CGA----.-GTA-----CGG------GAG-----AGG----.-ACA-----GCC------TGA-----CAC----.-CAA-----CAG------CCG-----CGT----.-CTT-----CAC------TTT-----ATA----.-GTA-----GTA------TCT-----TAA----.-CTA-----AGT------AAC-----TAC----.-TCT-----AGT------TAC-----CAG----.-TGA-----AGC------GAG-----TCC----.-GTC-----TTA-----
+              5-_CTG____._ACA____-3             5-_GCT____._CAT____-3             5-_TCC____._TGT____-3             5-_GTG____._GTT____-3             5-_GCA____._GAA____-3             5-_TAT____._CAT____-3             5-_ATT____._GAT____-3             5-_ATG____._AGA____-3             5-_GTC____._ACT____-3             5-_AGG____._CAG____-3             
+              3-_CAT____._AAA____-5             3-_TCT____._TAC____-5             3-_CGT____._GAT____-5             3-_ATG____._ATT____-5             3-_CTC____._TCA____-5             3-_TGA____._CAA____-5             3-_TAT____._TCA____-5             3-_TGT____._CTC____-5             3-_TGT____._ACT____-5             3-_TGA____._TCT____-5             
+H-15    -TAT-----GTA----.-TTT-----AAA------TGT-----AGA----.-ATG-----TTT------CAG-----GCA----.-CTA-----CCT------TTC-----TAC----.-TAA-----AGT------GTA-----GAG----.-AGT-----TGT------GAG-----ACT----.-GTT-----TAT------TGA-----ATA----.-AGT-----ACA------CAA-----ACA----.-GAG-----GCA------TTA-----ACA----.-TGA-----CTA------ATA-----ACT----.-AGA-----CCA-----
+        _ATA____-5             3-_TTT____._ACA____-5             3-_AAA____._GTC____-5             3-_GGA____._AAG____-5             3-_TCA____._CAT____-5             3-_ACA____._CTC____-5             3-_ATA____._ACT____-5             3-_TGT____._GTT____-5             3-_CGT____._AAT____-5             3-_GAT____._TAT____-5             3-_GGT____.
+        _TAC____-3             5-_TTA____._GAG____-3             5-_ATA____._TTG____-3             5-_AAG____._TTG____-3             5-_ACG____._GTG____-3             5-_TGG____._CCT____-3             5-_TAC____._TTG____-3             5-_ATA____._AAA____-3             5-_GGC____._ATA____-3             5-_ATA____._CGG____-3             5-_TGA____.
+H-16    -ATG-----GGA----.-ATA-----AAT------CTC-----GCA----.-GCG-----TAT------AAC-----TAT----.-AGT-----TTC------AAC-----CGC----.-CCA-----TGC------CAC-----CTT----.-GAA-----ACC------GGA-----TAG----.-GGC-----ATG------AAC-----ATA----.-AGC-----TAT------TTT-----TTC----.-CAC-----CCG------TAT-----CGG----.-GGT-----TAT------GCC-----TTA----.-AAC-----ACT-----
+              5-_CCT____._TAT____-3             5-_CGT____._CGC____-3             5-_ATA____._TCA____-3             5-_GCG____._GGT____-3             5-_GAA____._CTT____-3             5-_ATC____._CCG____-3             5-_TAT____._TCG____-3             5-_AAG____._GTG____-3             5-_GCC____._CCA____-3             5-_AAT____._TTG____-3             
+              3-_CGG____._CTG____-5             3-_GAT____._TCC____-5             3-_TTT____._TAC____-5             3-_GGA____._CAC____-5             3-_TGC____._TGG____-5             3-_AAG____._ATG____-5             3-_CGC____._CCG____-5             3-_GAC____._GGC____-5             3-_CAC____._CGC____-5             3-_CGC____._TCA____-5             
+H-17    -TCC-----GCC----.-GAC-----TGT------TCC-----CTA----.-AGG-----CGA------AAT-----AAA----.-ATG-----AAG------CGA-----CCT----.-GTG-----TGA------CGA-----ACG----.-ACC-----ACG------GTA-----TTC----.-TAC-----CAG------CTT-----GCG----.-GGC-----CGT------CAG-----CTG----.-CCG-----CTA------AGA-----GTG----.-GCG-----AGA------CAC-----GCG----.-AGT-----TGG-----
+        _AGG____-5             3-_ACA____._AGG____-5             3-_GCT____._TTA____-5             3-_TTC____._GCT____-5             3-_ACT____._GCT____-5             3-_TGC____._CAT____-5             3-_GTC____._GAA____-5             3-_GCA____._GTC____-5             3-_GAT____._TCT____-5             3-_TCT____._GTG____-5             3-_ACC____.
+        _TGT____-3             5-_AGA____._GTC____-3             5-_TGC____._TCG____-3             5-_GTA____._GAA____-3             5-_TAT____._CGG____-3             5-_ATG____._TAC____-3             5-_CTG____._ACC____-3             5-_ACA____._CGC____-3             5-_AAG____._GCT____-3             5-_GCA____._CAC____-3             5-_CGC____.
+H-18    -ACA-----CCT----.-ATA-----TCT------CAG-----CAT----.-AGA-----ACG------AGC-----TCT----.-TGA-----CAT------CTT-----CAG----.-GCT-----ATA------GCC-----TCA----.-GCT-----TAC------ATG-----GTC----.-CAG-----GAC------TGG-----TCA----.-GTT-----TGT------GCG-----TTG----.-ACG-----TTC------CGA-----CGT----.-TAA-----CGT------GTG-----TTA----.-AGA-----GCG-----
+              5-_GGA____._TAT____-3             5-_GTA____._TCT____-3             5-_AGA____._ACT____-3             5-_GTC____._CGA____-3             5-_AGT____._CGA____-3             5-_CAG____._GTC____-3             5-_AGT____._CAA____-3             5-_AAC____._TGC____-3             5-_GCA____._ATT____-3             5-_AAT____._TCT____-3             
+              3-_AGA____._TTG____-5             3-_GCC____._AGC____-5             3-_CCA____._TAT____-5             3-_GGA____._TCT____-5             3-_TAA____._CGT____-5             3-_TGA____._GCG____-5             3-_TAT____._CTC____-5             3-_GGT____._CCT____-5             3-_TAG____._TGA____-5             3-_CCA____._CGG____-5             
+H-19    -CTG-----TCT----.-AAC-----GAC------CAG-----CGG----.-TCG-----CTT------TAG-----GGT----.-ATA-----GGC------CGA-----CCT----.-AGA-----TAA------CTG-----ATT----.-GCA-----GTA------GAA-----ACT----.-CGC-----TAG------ATG-----ATA----.-GAG-----GCT------AGT-----CCA----.-GGA-----CGG------GAA-----ATC----.-ACT-----AAG------GTC-----GGT----.-GCC-----GTT-----
+        _GAC____-5             3-_CTG____._GTC____-5             3-_GAA____._ATC____-5             3-_CCG____._GCT____-5             3-_ATT____._GAC____-5             3-_CAT____._CTT____-5             3-_ATC____._TAC____-5             3-_CGA____._TCA____-5             3-_GCC____._CTT____-5             3-_TTC____._CAG____-5             3-_CAA____.
+        _TCG____-3             5-_TTA____._TGC____-3             5-_ACT____._CTG____-3             5-_AAT____._TGC____-3             5-_GTA____._AGA____-3             5-_GTT____._ACT____-3             5-_ATG____._AAC____-3             5-_ACC____._CTG____-3             5-_GCG____._CGA____-3             5-_TTG____._ACG____-3             5-_ATG____.
+H-20    -AGC-----GGC----.-GTA-----AAT------ACG-----CGT----.-GGT-----TGA------GAC-----CTA----.-ACG-----TTA------ACG-----CTC----.-CCT-----CAT------TCT-----AGT----.-CAC-----CAA------TGA-----GAG----.-ATG-----TAC------TTG-----AAT----.-AAA-----TGG------GAC-----CTC----.-CCG-----CGC------GCT-----GAC----.-AGC-----AAC------TGC-----CGA----.-TGC-----TAC-----
+              5-_CCG____._CAT____-3             5-_GCA____._CCA____-3             5-_GAT____._TGC____-3             5-_GAG____._GGA____-3             5-_TCA____._GTG____-3             5-_CTC____._TAC____-3             5-_TTA____._TTT____-3             5-_GAG____._GGC____-3             5-_CTG____._TCG____-3             5-_GCT____._ACG____-3             
+              3-_TTA____._GAT____-5             3-_TCG____._GCT____-5             3-_CAT____._CGG____-5             3-_CAC____._TGT____-5             3-_ACG____._ATC____-5             3-_TGC____._CGA____-5             3-_TTT____._TCC____-5             3-_ACG____._TAC____-5             3-_GTT____._GTA____-5             3-_GTT____._CTG____-5             
+H-21    -AAG-----AAT----.-CTA-----GTC------ATT-----AGC----.-CGA-----GTT------GGT-----GTA----.-GCC-----TTC------CAC-----GTG----.-ACA-----ACG------GTC-----TGC----.-TAG-----TGC------TGC-----ACG----.-GCT-----TCT------GTG-----AAA----.-AGG-----GTA------TCT-----TGC----.-ATG-----GCC------GCG-----CAA----.-CAT-----AGT------TCT-----CAA----.-GAC-----GGT-----
+        _TTC____-5             3-_CAG____._TAA____-5             3-_CAA____._CCA____-5             3-_AAG____._GTG____-5             3-_TGC____._CAG____-5             3-_ACG____._ACG____-5             3-_AGA____._CAC____-5             3-_CAT____._AGA____-5             3-_CGG____._CGC____-5             3-_TCA____._AGA____-5             3-_CCA____.
+        _GTG____-3             5-_GAA____._GCT____-3             5-_GAG____._CAC____-3             5-_CGA____._CGC____-3             5-_CAA____._TAG____-3             5-_CAA____._TCA____-3             5-_CAA____._TAC____-3             5-_TTA____._CGG____-3             5-_TGA____._GTG____-3             5-_TCC____._AAT____-3             5-_CTA____.
+H-22    -CAC-----TGC----.-GAT-----CTT------CGA-----ACG----.-ATT-----CTC------GTG-----CGT----.-TCT-----GCT------GCG-----AAG----.-CCT-----GTT------ATC-----AAG----.-TGA-----GTT------AGT-----TCA----.-CAG-----GTT------ATG-----TCT----.-ATC-----AAT------GCC-----ATG----.-ACT-----ACT------CAC-----CGT----.-GAA-----AGG------TTA-----ATC----.-TCA-----GAT-----
+              5-_ACG____._CTA____-3             5-_TGC____._TAA____-3             5-_GCA____._AGA____-3             5-_TTC____._GGA____-3             5-_TTC____._ACT____-3             5-_AGT____._GTC____-3             5-_AGA____._TAG____-3             5-_TAC____._TGA____-3             5-_GCA____._CTT____-3             5-_TAG____._AGT____-3             
+              3-_ATT____._TCA____-5             3-_TCG____._GGA____-5             3-_CAG____._AAG____-5             3-_TTT____._TCT____-5             3-_CCG____._TAC____-5             3-_AGT____._ATA____-5             3-_TCG____._TCT____-5             3-_ACT____._TGG____-5             3-_CTG____._GCC____-5             3-_TCC____._TTT____-5             
+H-23    -AAT-----TAA----.-AGT-----CCT------ACC-----AGC----.-CCT-----GCT------TCG-----GTC----.-TTC-----ACA------TGC-----AAA----.-AGA-----ACC------CAG-----GGC----.-ATG-----GTC------ACA-----TCA----.-TAT-----GCA------GAC-----AGC----.-AGA-----GAA------TTT-----TGA----.-ACC-----TCG------CGC-----GAC----.-CGG-----CTT------AGC-----AGG----.-AAA-----CGA-----
+        _TTA____-5             3-_GGA____._TGG____-5             3-_CGA____._AGC____-5             3-_TGT____._ACG____-5             3-_TGG____._GTC____-5             3-_CAG____._TGT____-5             3-_CGT____._CTG____-5             3-_CTT____._AAA____-5             3-_AGC____._GCG____-5             3-_GAA____._TCG____-5             3-_GCT____.
+        _CTC____-3             5-_GCA____._GTC____-3             5-_GCC____._TCA____-3             5-_TGC____._CTA____-3             5-_GTA____._TCC____-3             5-_ATG____._AAC____-3             5-_GCC____._GCC____-3             5-_AAT____._TTG____-3             5-_CTG____._ACG____-3             5-_TCC____._TCC____-3             5-_AAG____.
+H-24    -GAG-----CGC----.-CAC-----CGT------CAG-----TAT----.-GTT-----CGG------AGT-----AAA----.-CCA-----ACG------GAT-----GCA----.-CCG-----CAT------AGG-----ACT----.-GCG-----TAC------TTG-----AGC----.-AAT-----CGG------CGG-----AGG----.-GAA-----TTA------AAC-----CTT----.-TTC-----GAC------TGC-----ATG----.-GAA-----AGG------AGG-----AAA----.-AGA-----TTC-----
+              5-_GCG____._GTG____-3             5-_ATA____._CAA____-3             5-_TTT____._GGT____-3             5-_CGT____._GGC____-3             5-_TGA____._CGC____-3             5-_TCG____._TTA____-3             5-_TCC____._CTT____-3             5-_GAA____._AAG____-3             5-_TAC____._CTT____-3             5-_TTT____._TCT____-3             
+              3-_GGT____._AGC____-5             3-_CGC____._CTA____-5             3-_TGA____._CGG____-5             3-_TCT____._AAC____-5             3-_AGG____._AGA____-5             3-_ACC____._TTT____-5             3-_GCC____._GTG____-5             3-_TCC____._GCG____-5             3-_ACG____._GTG____-5             3-_AAC____._TCA____-5             
+H-25    -TCG-----CCA----.-TCG-----GTC------AGA-----GCG----.-GAT-----TAC------GAT-----ACT----.-GCC-----ATC------TAC-----AGA----.-TTG-----CAC------AGG-----TCC----.-TCT-----CGG------GAA-----TGG----.-AAA-----ACT------CCT-----CGG----.-CAC-----CCT------GTC-----AGG----.-CGC-----TCC------CTA-----TGC----.-CAC-----CGT------TTA-----TTG----.-AGT-----GGC-----
+        _AGC____-5             3-_CAG____._TCT____-5             3-_ATG____._CTA____-5             3-_TAG____._ATG____-5             3-_GTG____._TCC____-5             3-_GCC____._CTT____-5             3-_TGA____._GGA____-5             3-_GGA____._CAG____-5             3-_AGG____._GAT____-5             3-_GCA____._AAT____-5             3-_CCG____.
+        _ACG____-3             5-_AGT____._TTG____-3             5-_TGG____._ATA____-3             5-_CGA____._CGT____-3             5-_ATC____._GCG____-3             5-_GCT____._GGT____-3             5-_TTC____._TCT____-3             5-_CTG____._ATG____-3             5-_TAT____._GGA____-3             5-_AGG____._CCA____-3             5-_TAT____.
+H-26    -TGC-----CGC----.-TAT-----TCA------AAC-----ATC----.-GCT-----ACC------TAT-----CTC----.-CCA-----GCT------GCA-----AGG----.-TCA-----TAG------CGC-----CAG----.-GTT-----CGA------CCA-----ATA----.-CCA-----AAG------AGA-----TGT----.-GGT-----GAC------TAC-----TGC----.-TTG-----ATA------CCT-----ACT----.-CTC-----TCC------GGT-----GTA----.-GTA-----ATA-----
+              5-_GCG____._ATA____-3             5-_TAG____._CGA____-3             5-_GAG____._GGT____-3             5-_TCC____._AGT____-3             5-_GTC____._CAA____-3             5-_TAT____._GGT____-3             5-_ACA____._CCA____-3             5-_ACG____._AAC____-3             5-_TGA____._GAG____-3             5-_CAT____._CAT____-3             
+              3-_CTA____._CGA____-5             3-_GCC____._GAC____-5             3-_CCA____._TAA____-5             3-_CGT____._CCA____-5             3-_ACC____._CTG____-5             3-_ACC____._TGT____-5             3-_ATC____._AGA____-5             3-_CAG____._TCT____-5             3-_TGA____._ATG____-5             3-_GTG____._GGA____-5             
+H-27    -CAT-----GAT----.-GCT-----GTC------CAC-----CGG----.-CTG-----CGG------GCC-----GGT----.-ATT-----TCT------GGT-----GCA----.-GGT-----CGC------TAG-----TGG----.-GAC-----CTC------ACG-----TGG----.-ACA-----CGA------GCT-----TAG----.-TCT-----GCT------AAC-----GTC----.-AGA-----GTT------CCT-----ACT----.-TAC-----CTC------CGA-----CAC----.-CCT-----GCC-----
+        _GTA____-5             3-_CAG____._GTG____-5             3-_GCC____._CGG____-5             3-_AGA____._CCA____-5             3-_GCG____._ATC____-5             3-_GAG____._TGC____-5             3-_GCT____._CGA____-5             3-_CGA____._TTG____-5             3-_CAA____._GGA____-5             3-_GAG____._GCT____-5             3-_CGG____.
+        _AGC____-3             5-_CCA____._TTT____-3             5-_CCA____._ACA____-3             5-_GTA____._CGG____-3             5-_GAT____._GAG____-3             5-_GAA____._GAG____-3             5-_CGA____._CTA____-3             5-_CTC____._TTA____-3             5-_AGT____._ACG____-3             5-_CTC____._GTA____-3             5-_TGG____.
+H-28    -TCG-----CGG----.-TAG-----GGT------AAA-----TCT----.-GCC-----GGT------TGT-----CGC----.-CGA-----CAT------GCC-----GGT----.-TGA-----CTA------CTC-----TGC----.-GTG-----CTT------CTC-----AAG----.-TTG-----GCT------GAT-----CAC----.-TAT-----GAG------AAT-----AGC----.-CAA-----TCA------TGC-----GAA----.-GGC-----GAG------CAT-----ACC----.-GCA-----ACC-----
+              5-_GCC____._ATC____-3             5-_AGA____._CGG____-3             5-_GCG____._GCT____-3             5-_CCA____._ACT____-3             5-_ACG____._CAC____-3             5-_TTC____._AAC____-3             5-_GTG____._ATA____-3             5-_TCG____._GTT____-3             5-_CTT____._CCG____-3             5-_TGG____._CGT____-3             
+              3-_TGT____._AAG____-5             3-_GCA____._GGA____-5             3-_TCT____._GTT____-5             3-_GGC____._GCC____-5             3-_AGG____._CAT____-5             3-_GTG____._TTC____-5             3-_GTA____._TCA____-5             3-_ACA____._TTC____-5             3-_TCG____._GAT____-5             3-_GGA____._ATG____-5             
+H-29    -ACA-----ACA----.-TTC-----CGA------CAT-----CGT----.-CCT-----ATT------TTA-----AGA----.-CAA-----CAG------CGG-----CCG----.-CGG-----GCA------TGA-----TCC----.-GTA-----GCA------GTG-----CAC----.-AAG-----GAG------GCT-----CAT----.-AGT-----TGC------GAT-----TGT----.-AAG-----TGA------TCA-----AGC----.-CTA-----TCG------CAC-----CCT----.-TAC-----GTA-----
+        _TGT____-5             3-_GCT____._GTA____-5             3-_TAA____._AAT____-5             3-_GTC____._GCC____-5             3-_CGT____._ACT____-5             3-_CGT____._CAC____-5             3-_CTC____._CGA____-5             3-_ACG____._CTA____-5             3-_ACT____._AGT____-5             3-_AGC____._GTG____-5             3-_CAT____.
+        _AGC____-3             5-_TGG____._GTG____-3             5-_TGC____._AGT____-3             5-_TGT____._GGA____-3             5-_CGG____._AAT____-3             5-_TTA____._AAT____-3             5-_GGA____._AGG____-3             5-_TTA____._ATG____-3             5-_ACC____._GTC____-3             5-_CGC____._AGA____-3             5-_CTG____.
+H-30    -TCG-----GTA----.-AGC-----ACC------CAC-----ACT----.-CAA-----ACG------TCA-----CTT----.-ATG-----ACA------CCT-----CTT----.-GTG-----GCC------TTA-----CTT----.-GCT-----AAT------TTA-----CGT----.-GAC-----CCT------TCC-----TAT----.-CTA-----AAT------TAC-----CGC----.-CGT-----TGG------CAG-----CGA----.-AGT-----GCG------TCT-----ACT----.-GCG-----GAC-----
+              5-_CAT____._TCG____-3             5-_TGA____._GTT____-3             5-_GAA____._TAC____-3             5-_GAA____._CAC____-3             5-_GAA____._CGA____-3             5-_GCA____._CTG____-3             5-_ATA____._GAT____-3             5-_GCG____._GCA____-3             5-_GCT____._TCA____-3             5-_TGA____._CGC____-3             
+              3-_CAT____._CGT____-5             3-_GTT____._AGT____-5             3-_GCC____._TAA____-5             3-_AGA____._CAA____-5             3-_ATC____._AAT____-5             3-_AGA____._GAT____-5             3-_CTG____._TAC____-5             3-_GTC____._CTG____-5             3-_TGT____._ACC____-5             3-_GCA____._CTA____-5             
+H-31    -GTT-----GTA----.-GCA-----TGC------CGC-----CAA----.-TCA-----GCG------TCT-----CGG----.-ATT-----AAC------TTT-----TCT----.-GTT-----AGG------ACA-----TAG----.-TTA-----CAT------GCG-----TCT----.-CTA-----GGT------GAC-----GAC----.-ATG-----ACC------CGG-----CAG----.-GAC-----GAA------TGA-----ACA----.-TGG-----ATA------TCG-----CGT----.-GAT-----AGT-----
+        _CAA____-5             3-_ACG____._GCG____-5             3-_CGC____._AGA____-5             3-_TTG____._AAA____-5             3-_TCC____._TGT____-5             3-_GTA____._CGC____-5             3-_CCA____._CTG____-5             3-_TGG____._GCC____-5             3-_CTT____._ACT____-5             3-_TAT____._AGC____-5             3-_TCA____.
+        _GGA____-3             5-_CAT____._TAC____-3             5-_GCG____._ACT____-3             5-_ACA____._GAC____-3             5-_GTG____._ACC____-3             5-_CTA____._CAG____-3             5-_ACT____._GGT____-3             5-_GTT____._CTC____-3             5-_GTA____._CTA____-3             5-_ACA____._GGT____-3             5-_TGT____.
+H-32    -CCT-----CTA----.-TTC-----GTA------ATG-----GGA----.-TCT-----CGC------TGA-----TTA----.-CTA-----TGT------CTG-----GTG----.-AAC-----CAC------TGG-----GTA----.-TGC-----GAT------GTC-----ATG----.-ACG-----TGA------CCA-----CTG----.-GTC-----CAA------GAG-----TTA----.-CAG-----CAT------GAT-----TGA----.-GGC-----TGT------CCA-----TTC----.-CCT-----ACA-----
+              5-_GAT____._AAG____-3             5-_CCT____._AGA____-3             5-_AAT____._GAT____-3             5-_CAC____._TTG____-3             5-_CAT____._ACG____-3             5-_TAC____._TGC____-3             5-_GAC____._CAG____-3             5-_AAT____._GTC____-3             5-_ACT____._CCG____-3             5-_AAG____._GGA____-3             
+              3-_TAG____._TAG____-5             3-_CAA____._AGA____-5             3-_GTT____._GTC____-5             3-_CCG____._GCG____-5             3-_CGG____._CGA____-5             3-_GAA____._TTC____-5             3-_CTA____._TGC____-5             3-_CAC____._CTG____-5             3-_CAG____._AAC____-5             3-_GCG____._GCG____-5             
+H-33    -GGA-----ATC----.-ATC-----CTC------TTG-----GTT----.-TCT-----ATT------ACT-----CAA----.-CAG-----ATA------CGA-----GGC----.-CGC-----CTC------TAT-----GCC----.-GCT-----CAT------GTG-----CTT----.-AAG-----CCT------GCC-----GAT----.-ACG-----CTT------ATT-----GTG----.-GAC-----TAA------TGA-----GTC----.-TTG-----AAG------CTA-----CGC----.-CGC-----ATT-----
+        _CCT____-5             3-_GAG____._AAC____-5             3-_TAA____._TGA____-5             3-_TAT____._GCT____-5             3-_GAG____._ATA____-5             3-_GTA____._CAC____-5             3-_GGA____._CGG____-5             3-_GAA____._TAA____-5             3-_ATT____._ACT____-5             3-_TTC____._GAT____-5             3-_TAA____.
+        _GTC____-3             5-_GGA____._TCG____-3             5-_CGA____._GGC____-3             5-_GAG____._CAT____-3             5-_TCG____._TTG____-3             5-_TTA____._CGC____-3             5-_CGC____._TAT____-3             5-_CGG____._CAA____-3             5-_CAC____._CAA____-3             5-_CAG____._TGT____-3             5-_GTC____.
+H-34    -CAG-----GAA----.-GCC-----CCT------AGC-----AAA----.-GTG-----GCT------CCG-----CAT----.-CCA-----CTC------GTA-----GTA----.-GTG-----AGC------AAC-----TCC----.-CCT-----AAT------GCG-----GTA----.-TTA-----GCG------ATA-----CGT----.-AAC-----GCC------GTT-----TGA----.-GAC-----GTG------GTT-----GTT----.-ACG-----GTC------ACA-----TCA----.-AGG-----CAG-----
+
+
+vert_shape_trails:
+
+V-01 ____AAG_____GTG_____CGC__CGT_____AAG________AGT_____TAT__ATC_____CTG________CAA_____CTA__TAC_____ATT________ATT_____GCC__TCC_____ACA________AGT_____TCC__AAC_____AGT________TAT_____GTA__GGA_____GCA________ACT_____CTC__TGT_____CTG________TAC_____ATA__TAC_____CCT________GGC_____GGA__TGT_____GGA________AGA_____CAG__TCG_____CCG________ATT_____CTT__GTG_____ACG________TTA_____ATT__CTC_____GCG________TGG_____CGA__ACG_____GCG________ATC_____ATG__AGC_____GCC________TGT_____TGT__AGC_____CAT________TAC_____AAC__GGA_____GAT________GAT_____TCC__GTC____
+V-02 _CTT_____CGG_____GGA________GAG_____GAT__AAG_____CAT________GCA_____TGC__TCG_____TGG________TCG_____GAA__ATC_____CCA________GAC_____AGC__ATA_____AGT________GAC_____CGA__GTG_____GCA________AGG_____ACT__CTA_____GAA________GAC_____TAG__CAT_____TTA________GTC_____GTT__TAT_____AGA________ACA_____GTC__TAT_____TTA________TTT_____AAA__ACA_____CAA________GGC_____ATG__ACG_____ACT________AGT_____AAG__TGA_____GGT________CAA_____CTC__CAA_____GCG________GAG_____CCT__CAA_____GAG________TAG_____ACG__GGC_____AGC________TTG_____AGG__GGC_____AAC________AGG_
+V-03 ____ACC_____GTG_____ATA__GCA_____CAT________GTG_____ATC__GTC_____ACG________CAT_____CAT__AAA_____TAA________GCG_____AGA__CTT_____AGT________AAA_____TCA__CTT_____CTT________AGC_____TTC__CGG_____CCA________TAC_____TTA__ACT_____GCT________TCT_____ACA__GAG_____CGT________TAG_____GGA__GTC_____GTA________CCG_____CTG__TGC_____GCA________GCT_____AAT__GCT_____TGC________GCT_____GGT__GTC_____ATA________CGC_____TCT__TTG_____TAG________CCG_____GTG__TTT_____AGA________ACG_____ATG__GTG_____TGA________TTG_____GCG__TAC_____CCT________AAC_____CAA__TCG____
+V-04 _TTT_____CAC_____CGA________AAT_____AGA__AGA_____GCG________CGC_____TGA__GTT_____TGC________AAT_____AGG__CGG_____CCA________CCG_____CAG__CGA_____TGG________GTA_____ATC__CAA_____GCC________AGC_____AGG__TAA_____GAG________AAC_____TCG__CCA_____ACT________AAG_____CGA__TCT_____TGC________TCG_____CCT__CGC_____ATA________AAA_____CAT__CAT_____GCC________TAA_____CCT__CAT_____CAG________AAG_____GAA__AAC_____CAA________TGT_____ACC__CGC_____AGT________GTT_____ATC__AGG_____ATG________GAG_____ATC__CCG_____CTA________ATA_____AGT__ATG_____TGA________GCG_
+V-05 ____GGA_____CTA_____CTT__TCT_____ACT________CCG_____ACA__CTG_____CGT________AAT_____CGG__GCG_____AAC________TAC_____ACG__CTC_____GTT________GTG_____TAT__TAG_____AGA________GAG_____CTA__TTG_____ACT________TTC_____GTA__CTC_____TCC________TGC_____CTG__TTG_____ATA________TTT_____ATT__TCG_____AGA________ACC_____CTA__CTG_____GAT________TAC_____ACC__CAC_____GCA________GAC_____CGA__TCA_____TTT________AGT_____ATC__ATA_____GAG________ACC_____GGC__ACA_____GCG________TCT_____TAA__AGT_____GAA________CCG_____AGA__ACT_____AAT________TTG_____AGT__GGC____
+V-06 _GTA_____GGT_____GAG________TAT_____CTG__GAT_____ACA________GTT_____AAT__TAC_____TGT________CTG_____TTG__GCT_____GTA________AGA_____AAT__GGT_____CGA________GAT_____GGC__GGT_____TGC________TGT_____GAA__AGA_____CGA________GAA_____GGC__TGC_____AAT________GCC_____TAT__ACT_____GTA________CTT_____CAT__TCA_____AAG________AGG_____TAG__TGT_____CGG________CTT_____GGC__TTA_____ACT________GTG_____GTC__CGT_____ATG________TAT_____ACC__CAG_____TGC________GGT_____ACT__CGC_____TGC________CAA_____CTC__GCA_____CGA________ACC_____TGA__AAC_____GCG________CTG_
+V-07 ____CTT_____TAT_____CTC__CAA_____AAG________AGA_____CTA__GCA_____TAC________TGT_____TCG__TCG_____CGC________GCT_____ACA__ACG_____TTC________AAC_____CGT__CGT_____TTG________GTG_____CAT__GAA_____GCA________AGA_____TTA__ACT_____GTG________GTA_____GAA__TTG_____GCG________AGG_____TCG__GAA_____GTC________AGG_____TCG__TGC_____GAG________CAC_____GTG__CGC_____TTC________TTT_____GCA__CTA_____CGT________TCT_____GTA__CGT_____TCC________TGC_____ACC__CGG_____CCA________CGG_____CCG__GGA_____GAA________AGA_____AAA__GAC_____CAC________GCC_____TCG__CAT____
+V-08 _CAT_____CAC_____TCG________GAG_____GCG__TTG_____GTG________CCT_____AAC__CAC_____CGG________TGC_____CCG__ACT_____GAT________GCG_____ACC__AGT_____ATC________GTG_____CAA__GGC_____GTA________GGT_____TCT__GGA_____CAA________CGT_____TGT__GGA_____GTA________TTA_____TCT__CGA_____TAT________TCA_____CAC__GGT_____ACG________ACT_____TTA__GTT_____GTC________CCG_____CCG__GCG_____TGG________TTG_____GCC__CTT_____CAT________ACG_____CTG__GGA_____CAG________GTT_____ACG__AAC_____ATA________GAG_____ATG__TAA_____GAG________ATC_____GAC__ATC_____GCT________GTG_
+V-09 ____TCT_____AAG_____CAA__AGA_____ACT________TCT_____CAT__TTA_____GCT________TGG_____ACT__CAG_____ACT________ACG_____TCC__AGA_____TAA________CGC_____ACA__GTT_____ACA________TGA_____CGT__ACC_____CGA________CAT_____GTT__GGC_____GCA________CTC_____TAC__GTG_____GAA________CGT_____TCG__CGG_____AGT________AAT_____CAG__AGA_____TCA________GCA_____GAC__TAG_____TTC________GCC_____CTG__TCC_____TGA________GGA_____CCT__GCG_____GTC________CCA_____CTA__GAG_____ACG________GGA_____TCA__AAT_____GAA________CTA_____TGT__ACC_____CAT________GGC_____ATA__TTG____
+V-10 _AGG_____GGA_____TTA________ATG_____AGC__ACG_____CTA________ATG_____TAA__CGA_____TTA________TGC_____TAC__CAC_____GAA________GAG_____GTC__CAA_____GCT________CCG_____AGA__CGC_____ATG________GAC_____CAT__ACT_____CAA________GCA_____CTA__GTG_____GTT________TAC_____TGC__CGA_____ATG________CGT_____GGT__CTT_____TGG________ACA_____ACT__GAA_____GTG________GGA_____GTC__GGT_____TAA________GCT_____TCG__AAT_____GCC________CAC_____ATG__CGC_____GTC________CCA_____AGG__TCA_____GAG________CCA_____GAC__ATA_____TAA________GAA_____CAA__GAG_____TGT________GAT_
+V-11 ____GCA_____CGG_____GCA__GAG_____TCT________GAA_____ACG__TGA_____TAA________ATA_____GTT__TAA_____AGA________ACT_____TAG__TCA_____ACC________CTG_____AAC__CGG_____GGT________GTG_____TCA__GAG_____ATT________TCG_____GAC__AAA_____TAT________AGT_____CTC__CCT_____ATC________GAA_____TAC__TAC_____CAG________AGT_____TTC__ACT_____CTC________CGT_____GCA__TCA_____AGT________TGA_____TGT__AAC_____TCG________CCA_____TTC__GGT_____TAT________CCA_____CGT__GAG_____TTC________GTG_____CAC__AAT_____GCA________AGA_____CGC__CAG_____TAC________AAG_____CAC__CGC____
+V-12 _CAT_____AAT_____CGC________AGG_____CTT__TGC_____ACT________ACC_____TAG__CTG_____GGA________CTC_____CTT__AAC_____CGA________TCG_____TGT__GGT_____TTC________AGT_____TTT__TTA_____GCC________TGC_____ATA__GTC_____CAA________AGA_____AGC__TAC_____ATG________CTA_____GCG__GTC_____CTG________CTG_____GTA__CCG_____TAC________ATA_____AAC__CAT_____CAT________TGG_____GGC__ACC_____TCT________GCC_____AAG__CGA_____ATG________TAC_____GTT__TCC_____ATC________GGT_____AGG__ATC_____TGT________CTT_____TCT__GGC_____CAC________GGA_____ATA__CTG_____ATG________GAC_
+V-13 ____TCT_____CTA_____GAA__ACA_____CTT________ATC_____TTT__GAG_____TTC________GGA_____TTG__TGT_____TTA________TGC_____TGG__AAC_____CTG________CGA_____GAA__TAC_____CCT________TAC_____GTC__TAG_____TGG________TGG_____TAC__AGA_____ATT________TAT_____TCA__TTG_____TAT________CGC_____AAG__ACC_____AGT________TAT_____CAT__AAC_____TTA________TTT_____CAC__TAC_____AGA________GCT_____GTC__GCC_____TCC________CCG_____AGG__TCT_____ACA________CTA_____AGC__CTA_____GTG________ATG_____AGC__AGG_____ATA________GTC_____GTC__GGT_____GAC________ATC_____GGC__TAT____
+V-14 _GCA_____TTG_____CGG________AAG_____CGT__CAG_____GTT________GGT_____CAT__GAT_____TTA________GCA_____ACT__ATA_____CTC________AGC_____AGA__CCA_____CTG________AGG_____GTG__CTT_____AAT________TTC_____TCT__TAG_____TTA________TAC_____CCT__TTT_____ACC________AGC_____CTC__CAA_____ACA________ACG_____GCC__TCG_____ATA________TGT_____ACT__GAT_____TCA________GCG_____TCG__GAG_____CAG________TCC_____TAG__TTA_____AAG________TTA_____CGC__CAT_____ATG________CTC_____GAG__TCT_____GTA________ACT_____CTA__TCG_____TGA________GTG_____TCG__AGG_____TAC________ATA_
+V-15 ____CCA_____GCA_____TCT__CGA_____GTG________CGA_____CAG__GAC_____AGT________CAA_____ACC__ACC_____ATG________GCC_____ATA__ACG_____TAG________TTG_____ACT__AGA_____TAA________ACG_____ATA__TAG_____CTA________CAA_____CAC__TTG_____ATG________TGT_____TTG__AAA_____AAG________CAG_____CTG__CGC_____AAC________TGG_____ACT__CTG_____GAG________GCA_____AGA__CGG_____TAC________TCA_____AAA__TTG_____GAA________CCT_____GAC__ATG_____ACG________GAC_____GTT__TTA_____TCG________ACA_____ATC__ATG_____GCG________CTG_____CCG__CTC_____AAT________CAC_____AAT__CAA____
+V-16 _ACT_____CTG_____CAC________TTA_____GTC__GTC_____GTA________TTC_____GTC__GCA_____ACC________TCA_____CTT__GTT_____AGT________AAC_____TCT__AAC_____TAT________GGA_____GCG__AAG_____CTG________CGA_____GGT__TGA_____TGA________GGC_____CAT__GGC_____GCG________CCG_____TCC__TGC_____AAG________TAG_____CGG__GTG_____GGC________TGC_____CTC__AGA_____TCA________CAC_____GAA__TAA_____GCA________TAA_____GAG__GTT_____GTC________TCA_____TGA__AGC_____TGC________CAC_____GCT__GTC_____AAA________TGT_____TCG__ACT_____AAA________TGT_____TAG__CCA_____GAA________AGC_
+V-17 ____CAA_____AAG_____AAA__TTA_____CTC________AGC_____CCT__GAA_____TAC________CGC_____GGA__TGA_____GCG________GAG_____ACC__CAT_____ACC________CAG_____TCT__CGT_____TAA________CAA_____GGA__AGG_____GAA________GAG_____CGA__ATG_____GTC________TGT_____TAA__ATA_____GCC________CAC_____TCT__GCT_____GCA________GAT_____TTC__CGA_____CTG________TTG_____CGC__GTG_____GCA________GTC_____GCG__ACG_____TAC________GCA_____TAG__GGA_____TGA________AGT_____AGG__ACG_____CTT________GCT_____TGA__GTC_____GCT________TGT_____TCA__CTA_____ACT________GAC_____TCA__CAA____
+V-18 _CAA_____TGC_____CAG________CTT_____CAA__CCG_____ACA________TAT_____CCA__TCA_____CGC________CGA_____TAG__CCG_____CTC________GAG_____GTA__GAG_____AGG________ACG_____GTG__CTT_____TCC________AAG_____CCG__CTT_____TCC________ACT_____ATG__TCG_____TTG________CTT_____AGT__ATT_____GCA________TCT_____CGC__CCA_____ATA________TAG_____TCA__ACT_____TCG________TGT_____TGT__ACC_____GCT________GTT_____GAG__CGT_____TCT________CTA_____TGA__GCC_____AAT________TAT_____AAC__CGA_____AAG________TTG_____ACT__TTC_____GAA________ACT_____AGT__GTG_____TTT________ATG_
+V-19 ____GAT_____CTT_____TCG__ATT_____AAA________AAT_____TAT__TTT_____CAG________GTC_____CTT__CGC_____GCC________TCT_____CGA__GTA_____CTA________TAT_____GTC__CAG_____GTT________CTG_____AGC__TTC_____AAG________GTG_____TAT__CTC_____AGG________AGT_____TAT__CGG_____AAT________CGC_____GTG__CAC_____AAT________ACC_____GAC__ACG_____GCT________TTG_____AGA__AAT_____TAG________CCT_____GCT__TCC_____TTT________CAA_____TAA__CCA_____CAT________GTG_____TCG__GTA_____TGG________AGG_____GTG__AGA_____TGA________ACG_____CGA__GGT_____AAG________GCG_____TAG__TGT____
+V-20 _AGT_____TCC_____GTC________AAT_____GCG__GGA_____TGT________ACT_____ATC__CGC_____CTG________TAC_____GTA__CGT_____TGG________GGC_____AGG__CAT_____TAT________GCC_____ACT__TCT_____AAG________TCG_____TTT__AGT_____CTA________ACC_____GTC__ACG_____ATG________AAC_____GGC__TCT_____CGC________CCA_____ACT__TTG_____TGA________TGG_____TCT__CAG_____AAT________TAA_____ATA__CAA_____CAG________AAG_____AGC__CAA_____CAA________GTT_____AAA__CAA_____TAG________ACA_____CAA__AGA_____ACG________CGA_____TAG__TCC_____GCG________TTC_____CAG__GTA_____TGG________ACC_
+
+shape_v_runs
+V-01       AAG       GTG       CGC       CGT       AAG       AGT       TAT       ATC       CTG       CAA       CTA       TAC       ATT       ATT       GCC       TCC       ACA       AGT       TCC       AAC       AGT       TAT       GTA       GGA       GCA       ACT       CTC       TGT       CTG       TAC       ATA       TAC       CCT       GGC       GGA       TGT       GGA       AGA       CAG       TCG       CCG       ATT       CTT       GTG       ACG       TTA       ATT       CTC       GCG       TGG       CGA       ACG       GCG       ATC       ATG       AGC       GCC       TGT       TGT       AGC       CAT       TAC       AAC       GGA       GAT       GAT       TCC       GTC
+V-02       CTT       CGG       GGA       GAG       GAT       AAG       CAT       GCA       TGC       TCG       TGG       TCG       GAA       ATC       CCA       GAC       AGC       ATA       AGT       GAC       CGA       GTG       GCA       AGG       ACT       CTA       GAA       GAC       TAG       CAT       TTA       GTC       GTT       TAT       AGA       ACA       GTC       TAT       TTA       TTT       AAA       ACA       CAA       GGC       ATG       ACG       ACT       AGT       AAG       TGA       GGT       CAA       CTC       CAA       GCG       GAG       CCT       CAA       GAG       TAG       ACG       GGC       AGC       TTG       AGG       GGC       AAC       AGG
+V-03       ACC       GTG       ATA       GCA       CAT       GTG       ATC       GTC       ACG       CAT       CAT       AAA       TAA       GCG       AGA       CTT       AGT       AAA       TCA       CTT       CTT       AGC       TTC       CGG       CCA       TAC       TTA       ACT       GCT       TCT       ACA       GAG       CGT       TAG       GGA       GTC       GTA       CCG       CTG       TGC       GCA       GCT       AAT       GCT       TGC       GCT       GGT       GTC       ATA       CGC       TCT       TTG       TAG       CCG       GTG       TTT       AGA       ACG       ATG       GTG       TGA       TTG       GCG       TAC       CCT       AAC       CAA       TCG
+V-04       TTT       CAC       CGA       AAT       AGA       AGA       GCG       CGC       TGA       GTT       TGC       AAT       AGG       CGG       CCA       CCG       CAG       CGA       TGG       GTA       ATC       CAA       GCC       AGC       AGG       TAA       GAG       AAC       TCG       CCA       ACT       AAG       CGA       TCT       TGC       TCG       CCT       CGC       ATA       AAA       CAT       CAT       GCC       TAA       CCT       CAT       CAG       AAG       GAA       AAC       CAA       TGT       ACC       CGC       AGT       GTT       ATC       AGG       ATG       GAG       ATC       CCG       CTA       ATA       AGT       ATG       TGA       GCG
+V-05       GGA       CTA       CTT       TCT       ACT       CCG       ACA       CTG       CGT       AAT       CGG       GCG       AAC       TAC       ACG       CTC       GTT       GTG       TAT       TAG       AGA       GAG       CTA       TTG       ACT       TTC       GTA       CTC       TCC       TGC       CTG       TTG       ATA       TTT       ATT       TCG       AGA       ACC       CTA       CTG       GAT       TAC       ACC       CAC       GCA       GAC       CGA       TCA       TTT       AGT       ATC       ATA       GAG       ACC       GGC       ACA       GCG       TCT       TAA       AGT       GAA       CCG       AGA       ACT       AAT       TTG       AGT       GGC
+V-06       GTA       GGT       GAG       TAT       CTG       GAT       ACA       GTT       AAT       TAC       TGT       CTG       TTG       GCT       GTA       AGA       AAT       GGT       CGA       GAT       GGC       GGT       TGC       TGT       GAA       AGA       CGA       GAA       GGC       TGC       AAT       GCC       TAT       ACT       GTA       CTT       CAT       TCA       AAG       AGG       TAG       TGT       CGG       CTT       GGC       TTA       ACT       GTG       GTC       CGT       ATG       TAT       ACC       CAG       TGC       GGT       ACT       CGC       TGC       CAA       CTC       GCA       CGA       ACC       TGA       AAC       GCG       CTG
+V-07       CTT       TAT       CTC       CAA       AAG       AGA       CTA       GCA       TAC       TGT       TCG       TCG       CGC       GCT       ACA       ACG       TTC       AAC       CGT       CGT       TTG       GTG       CAT       GAA       GCA       AGA       TTA       ACT       GTG       GTA       GAA       TTG       GCG       AGG       TCG       GAA       GTC       AGG       TCG       TGC       GAG       CAC       GTG       CGC       TTC       TTT       GCA       CTA       CGT       TCT       GTA       CGT       TCC       TGC       ACC       CGG       CCA       CGG       CCG       GGA       GAA       AGA       AAA       GAC       CAC       GCC       TCG       CAT
+V-08       CAT       CAC       TCG       GAG       GCG       TTG       GTG       CCT       AAC       CAC       CGG       TGC       CCG       ACT       GAT       GCG       ACC       AGT       ATC       GTG       CAA       GGC       GTA       GGT       TCT       GGA       CAA       CGT       TGT       GGA       GTA       TTA       TCT       CGA       TAT       TCA       CAC       GGT       ACG       ACT       TTA       GTT       GTC       CCG       CCG       GCG       TGG       TTG       GCC       CTT       CAT       ACG       CTG       GGA       CAG       GTT       ACG       AAC       ATA       GAG       ATG       TAA       GAG       ATC       GAC       ATC       GCT       GTG
+V-09       TCT       AAG       CAA       AGA       ACT       TCT       CAT       TTA       GCT       TGG       ACT       CAG       ACT       ACG       TCC       AGA       TAA       CGC       ACA       GTT       ACA       TGA       CGT       ACC       CGA       CAT       GTT       GGC       GCA       CTC       TAC       GTG       GAA       CGT       TCG       CGG       AGT       AAT       CAG       AGA       TCA       GCA       GAC       TAG       TTC       GCC       CTG       TCC       TGA       GGA       CCT       GCG       GTC       CCA       CTA       GAG       ACG       GGA       TCA       AAT       GAA       CTA       TGT       ACC       CAT       GGC       ATA       TTG
+V-10       AGG       GGA       TTA       ATG       AGC       ACG       CTA       ATG       TAA       CGA       TTA       TGC       TAC       CAC       GAA       GAG       GTC       CAA       GCT       CCG       AGA       CGC       ATG       GAC       CAT       ACT       CAA       GCA       CTA       GTG       GTT       TAC       TGC       CGA       ATG       CGT       GGT       CTT       TGG       ACA       ACT       GAA       GTG       GGA       GTC       GGT       TAA       GCT       TCG       AAT       GCC       CAC       ATG       CGC       GTC       CCA       AGG       TCA       GAG       CCA       GAC       ATA       TAA       GAA       CAA       GAG       TGT       GAT
+V-11       GCA       CGG       GCA       GAG       TCT       GAA       ACG       TGA       TAA       ATA       GTT       TAA       AGA       ACT       TAG       TCA       ACC       CTG       AAC       CGG       GGT       GTG       TCA       GAG       ATT       TCG       GAC       AAA       TAT       AGT       CTC       CCT       ATC       GAA       TAC       TAC       CAG       AGT       TTC       ACT       CTC       CGT       GCA       TCA       AGT       TGA       TGT       AAC       TCG       CCA       TTC       GGT       TAT       CCA       CGT       GAG       TTC       GTG       CAC       AAT       GCA       AGA       CGC       CAG       TAC       AAG       CAC       CGC
+V-12       CAT       AAT       CGC       AGG       CTT       TGC       ACT       ACC       TAG       CTG       GGA       CTC       CTT       AAC       CGA       TCG       TGT       GGT       TTC       AGT       TTT       TTA       GCC       TGC       ATA       GTC       CAA       AGA       AGC       TAC       ATG       CTA       GCG       GTC       CTG       CTG       GTA       CCG       TAC       ATA       AAC       CAT       CAT       TGG       GGC       ACC       TCT       GCC       AAG       CGA       ATG       TAC       GTT       TCC       ATC       GGT       AGG       ATC       TGT       CTT       TCT       GGC       CAC       GGA       ATA       CTG       ATG       GAC
+V-13       TCT       CTA       GAA       ACA       CTT       ATC       TTT       GAG       TTC       GGA       TTG       TGT       TTA       TGC       TGG       AAC       CTG       CGA       GAA       TAC       CCT       TAC       GTC       TAG       TGG       TGG       TAC       AGA       ATT       TAT       TCA       TTG       TAT       CGC       AAG       ACC       AGT       TAT       CAT       AAC       TTA       TTT       CAC       TAC       AGA       GCT       GTC       GCC       TCC       CCG       AGG       TCT       ACA       CTA       AGC       CTA       GTG       ATG       AGC       AGG       ATA       GTC       GTC       GGT       GAC       ATC       GGC       TAT
+V-14       GCA       TTG       CGG       AAG       CGT       CAG       GTT       GGT       CAT       GAT       TTA       GCA       ACT       ATA       CTC       AGC       AGA       CCA       CTG       AGG       GTG       CTT       AAT       TTC       TCT       TAG       TTA       TAC       CCT       TTT       ACC       AGC       CTC       CAA       ACA       ACG       GCC       TCG       ATA       TGT       ACT       GAT       TCA       GCG       TCG       GAG       CAG       TCC       TAG       TTA       AAG       TTA       CGC       CAT       ATG       CTC       GAG       TCT       GTA       ACT       CTA       TCG       TGA       GTG       TCG       AGG       TAC       ATA
+V-15       CCA       GCA       TCT       CGA       GTG       CGA       CAG       GAC       AGT       CAA       ACC       ACC       ATG       GCC       ATA       ACG       TAG       TTG       ACT       AGA       TAA       ACG       ATA       TAG       CTA       CAA       CAC       TTG       ATG       TGT       TTG       AAA       AAG       CAG       CTG       CGC       AAC       TGG       ACT       CTG       GAG       GCA       AGA       CGG       TAC       TCA       AAA       TTG       GAA       CCT       GAC       ATG       ACG       GAC       GTT       TTA       TCG       ACA       ATC       ATG       GCG       CTG       CCG       CTC       AAT       CAC       AAT       CAA
+V-16       ACT       CTG       CAC       TTA       GTC       GTC       GTA       TTC       GTC       GCA       ACC       TCA       CTT       GTT       AGT       AAC       TCT       AAC       TAT       GGA       GCG       AAG       CTG       CGA       GGT       TGA       TGA       GGC       CAT       GGC       GCG       CCG       TCC       TGC       AAG       TAG       CGG       GTG       GGC       TGC       CTC       AGA       TCA       CAC       GAA       TAA       GCA       TAA       GAG       GTT       GTC       TCA       TGA       AGC       TGC       CAC       GCT       GTC       AAA       TGT       TCG       ACT       AAA       TGT       TAG       CCA       GAA       AGC
+V-17       CAA       AAG       AAA       TTA       CTC       AGC       CCT       GAA       TAC       CGC       GGA       TGA       GCG       GAG       ACC       CAT       ACC       CAG       TCT       CGT       TAA       CAA       GGA       AGG       GAA       GAG       CGA       ATG       GTC       TGT       TAA       ATA       GCC       CAC       TCT       GCT       GCA       GAT       TTC       CGA       CTG       TTG       CGC       GTG       GCA       GTC       GCG       ACG       TAC       GCA       TAG       GGA       TGA       AGT       AGG       ACG       CTT       GCT       TGA       GTC       GCT       TGT       TCA       CTA       ACT       GAC       TCA       CAA
+V-18       CAA       TGC       CAG       CTT       CAA       CCG       ACA       TAT       CCA       TCA       CGC       CGA       TAG       CCG       CTC       GAG       GTA       GAG       AGG       ACG       GTG       CTT       TCC       AAG       CCG       CTT       TCC       ACT       ATG       TCG       TTG       CTT       AGT       ATT       GCA       TCT       CGC       CCA       ATA       TAG       TCA       ACT       TCG       TGT       TGT       ACC       GCT       GTT       GAG       CGT       TCT       CTA       TGA       GCC       AAT       TAT       AAC       CGA       AAG       TTG       ACT       TTC       GAA       ACT       AGT       GTG       TTT       ATG
+V-19       GAT       CTT       TCG       ATT       AAA       AAT       TAT       TTT       CAG       GTC       CTT       CGC       GCC       TCT       CGA       GTA       CTA       TAT       GTC       CAG       GTT       CTG       AGC       TTC       AAG       GTG       TAT       CTC       AGG       AGT       TAT       CGG       AAT       CGC       GTG       CAC       AAT       ACC       GAC       ACG       GCT       TTG       AGA       AAT       TAG       CCT       GCT       TCC       TTT       CAA       TAA       CCA       CAT       GTG       TCG       GTA       TGG       AGG       GTG       AGA       TGA       ACG       CGA       GGT       AAG       GCG       TAG       TGT
+V-20       AGT       TCC       GTC       AAT       GCG       GGA       TGT       ACT       ATC       CGC       CTG       TAC       GTA       CGT       TGG       GGC       AGG       CAT       TAT       GCC       ACT       TCT       AAG       TCG       TTT       AGT       CTA       ACC       GTC       ACG       ATG       AAC       GGC       TCT       CGC       CCA       ACT       TTG       TGA       TGG       TCT       CAG       AAT       TAA       ATA       CAA       CAG       AAG       AGC       CAA       CAA       GTT       AAA       CAA       TAG       ACA       CAA       AGA       ACG       CGA       TAG       TCC       GCG       TTC       CAG       GTA       TGG       ACC
+
+
+Primers for V-01
+
+
+
+		AAG
+
+		GTG
+
+		CGC
+
+		CGT
+
+		AAG
+
+		AGT
+
+		TAT
+
+		ATC
+
+		CTG
+
+		CAA
+
+		CTA
+
+		TAC
+
+		ATT
+
+		ATT
+
+		GCC
+
+		TCC
+
+		ACA
+
+		AGT
+
+		TCC
+
+		AAC
+
+		AGT
+
+		TAT
+
+		GTA
+
+		GGA
+
+		GCA
+
+		ACT
+
+		CTC
+
+		TGT
+
+		CTG
+
+		TAC
+
+		ATA
+
+		TAC
+
+		CCT
+
+		GGC
+
+		GGA
+
+		TGT
+
+		GGA
+
+		AGA
+
+		CAG
+
+		TCG
+
+		CCG
+
+		ATT
+
+		CTT
+
+		GTG
+
+		ACG
+
+		TTA
+
+		ATT
+
+		CTC
+
+		GCG
+
+		TGG
+
+		CGA
+
+		ACG
+
+		GCG
+
+		ATC
+
+		ATG
+
+		AGC
+
+		GCC
+
+		TGT
+
+		TGT
+
+		AGC
+
+		CAT
+
+		TAC
+
+		AAC
+
+		GGA
+
+		GAT
+
+		GAT
+
+		TCC
+
+		GTC
+
+
+Primers for V-02
+
+
+
+		CTT
+
+		CGG
+
+		GGA
+
+		GAG
+
+		GAT
+
+		AAG
+
+		CAT
+
+		GCA
+
+		TGC
+
+		TCG
+
+		TGG
+
+		TCG
+
+		GAA
+
+		ATC
+
+		CCA
+
+		GAC
+
+		AGC
+
+		ATA
+
+		AGT
+
+		GAC
+
+		CGA
+
+		GTG
+
+		GCA
+
+		AGG
+
+		ACT
+
+		CTA
+
+		GAA
+
+		GAC
+
+		TAG
+
+		CAT
+
+		TTA
+
+		GTC
+
+		GTT
+
+		TAT
+
+		AGA
+
+		ACA
+
+		GTC
+
+		TAT
+
+		TTA
+
+		TTT
+
+		AAA
+
+		ACA
+
+		CAA
+
+		GGC
+
+		ATG
+
+		ACG
+
+		ACT
+
+		AGT
+
+		AAG
+
+		TGA
+
+		GGT
+
+		CAA
+
+		CTC
+
+		CAA
+
+		GCG
+
+		GAG
+
+		CCT
+
+		CAA
+
+		GAG
+
+		TAG
+
+		ACG
+
+		GGC
+
+		AGC
+
+		TTG
+
+		AGG
+
+		GGC
+
+		AAC
+
+		AGG
+
+
+Primers for V-03
+
+
+
+		ACC
+
+		GTG
+
+		ATA
+
+		GCA
+
+		CAT
+
+		GTG
+
+		ATC
+
+		GTC
+
+		ACG
+
+		CAT
+
+		CAT
+
+		AAA
+
+		TAA
+
+		GCG
+
+		AGA
+
+		CTT
+
+		AGT
+
+		AAA
+
+		TCA
+
+		CTT
+
+		CTT
+
+		AGC
+
+		TTC
+
+		CGG
+
+		CCA
+
+		TAC
+
+		TTA
+
+		ACT
+
+		GCT
+
+		TCT
+
+		ACA
+
+		GAG
+
+		CGT
+
+		TAG
+
+		GGA
+
+		GTC
+
+		GTA
+
+		CCG
+
+		CTG
+
+		TGC
+
+		GCA
+
+		GCT
+
+		AAT
+
+		GCT
+
+		TGC
+
+		GCT
+
+		GGT
+
+		GTC
+
+		ATA
+
+		CGC
+
+		TCT
+
+		TTG
+
+		TAG
+
+		CCG
+
+		GTG
+
+		TTT
+
+		AGA
+
+		ACG
+
+		ATG
+
+		GTG
+
+		TGA
+
+		TTG
+
+		GCG
+
+		TAC
+
+		CCT
+
+		AAC
+
+		CAA
+
+		TCG
+
+
+Primers for V-04
+
+
+
+		TTT
+
+		CAC
+
+		CGA
+
+		AAT
+
+		AGA
+
+		AGA
+
+		GCG
+
+		CGC
+
+		TGA
+
+		GTT
+
+		TGC
+
+		AAT
+
+		AGG
+
+		CGG
+
+		CCA
+
+		CCG
+
+		CAG
+
+		CGA
+
+		TGG
+
+		GTA
+
+		ATC
+
+		CAA
+
+		GCC
+
+		AGC
+
+		AGG
+
+		TAA
+
+		GAG
+
+		AAC
+
+		TCG
+
+		CCA
+
+		ACT
+
+		AAG
+
+		CGA
+
+		TCT
+
+		TGC
+
+		TCG
+
+		CCT
+
+		CGC
+
+		ATA
+
+		AAA
+
+		CAT
+
+		CAT
+
+		GCC
+
+		TAA
+
+		CCT
+
+		CAT
+
+		CAG
+
+		AAG
+
+		GAA
+
+		AAC
+
+		CAA
+
+		TGT
+
+		ACC
+
+		CGC
+
+		AGT
+
+		GTT
+
+		ATC
+
+		AGG
+
+		ATG
+
+		GAG
+
+		ATC
+
+		CCG
+
+		CTA
+
+		ATA
+
+		AGT
+
+		ATG
+
+		TGA
+
+		GCG
+
+
+Primers for V-05
+
+
+
+		GGA
+
+		CTA
+
+		CTT
+
+		TCT
+
+		ACT
+
+		CCG
+
+		ACA
+
+		CTG
+
+		CGT
+
+		AAT
+
+		CGG
+
+		GCG
+
+		AAC
+
+		TAC
+
+		ACG
+
+		CTC
+
+		GTT
+
+		GTG
+
+		TAT
+
+		TAG
+
+		AGA
+
+		GAG
+
+		CTA
+
+		TTG
+
+		ACT
+
+		TTC
+
+		GTA
+
+		CTC
+
+		TCC
+
+		TGC
+
+		CTG
+
+		TTG
+
+		ATA
+
+		TTT
+
+		ATT
+
+		TCG
+
+		AGA
+
+		ACC
+
+		CTA
+
+		CTG
+
+		GAT
+
+		TAC
+
+		ACC
+
+		CAC
+
+		GCA
+
+		GAC
+
+		CGA
+
+		TCA
+
+		TTT
+
+		AGT
+
+		ATC
+
+		ATA
+
+		GAG
+
+		ACC
+
+		GGC
+
+		ACA
+
+		GCG
+
+		TCT
+
+		TAA
+
+		AGT
+
+		GAA
+
+		CCG
+
+		AGA
+
+		ACT
+
+		AAT
+
+		TTG
+
+		AGT
+
+		GGC
+
+
+Primers for V-06
+
+
+
+		GTA
+
+		GGT
+
+		GAG
+
+		TAT
+
+		CTG
+
+		GAT
+
+		ACA
+
+		GTT
+
+		AAT
+
+		TAC
+
+		TGT
+
+		CTG
+
+		TTG
+
+		GCT
+
+		GTA
+
+		AGA
+
+		AAT
+
+		GGT
+
+		CGA
+
+		GAT
+
+		GGC
+
+		GGT
+
+		TGC
+
+		TGT
+
+		GAA
+
+		AGA
+
+		CGA
+
+		GAA
+
+		GGC
+
+		TGC
+
+		AAT
+
+		GCC
+
+		TAT
+
+		ACT
+
+		GTA
+
+		CTT
+
+		CAT
+
+		TCA
+
+		AAG
+
+		AGG
+
+		TAG
+
+		TGT
+
+		CGG
+
+		CTT
+
+		GGC
+
+		TTA
+
+		ACT
+
+		GTG
+
+		GTC
+
+		CGT
+
+		ATG
+
+		TAT
+
+		ACC
+
+		CAG
+
+		TGC
+
+		GGT
+
+		ACT
+
+		CGC
+
+		TGC
+
+		CAA
+
+		CTC
+
+		GCA
+
+		CGA
+
+		ACC
+
+		TGA
+
+		AAC
+
+		GCG
+
+		CTG
+
+
+Primers for V-07
+
+
+
+		CTT
+
+		TAT
+
+		CTC
+
+		CAA
+
+		AAG
+
+		AGA
+
+		CTA
+
+		GCA
+
+		TAC
+
+		TGT
+
+		TCG
+
+		TCG
+
+		CGC
+
+		GCT
+
+		ACA
+
+		ACG
+
+		TTC
+
+		AAC
+
+		CGT
+
+		CGT
+
+		TTG
+
+		GTG
+
+		CAT
+
+		GAA
+
+		GCA
+
+		AGA
+
+		TTA
+
+		ACT
+
+		GTG
+
+		GTA
+
+		GAA
+
+		TTG
+
+		GCG
+
+		AGG
+
+		TCG
+
+		GAA
+
+		GTC
+
+		AGG
+
+		TCG
+
+		TGC
+
+		GAG
+
+		CAC
+
+		GTG
+
+		CGC
+
+		TTC
+
+		TTT
+
+		GCA
+
+		CTA
+
+		CGT
+
+		TCT
+
+		GTA
+
+		CGT
+
+		TCC
+
+		TGC
+
+		ACC
+
+		CGG
+
+		CCA
+
+		CGG
+
+		CCG
+
+		GGA
+
+		GAA
+
+		AGA
+
+		AAA
+
+		GAC
+
+		CAC
+
+		GCC
+
+		TCG
+
+		CAT
+
+
+Primers for V-08
+
+
+
+		CAT
+
+		CAC
+
+		TCG
+
+		GAG
+
+		GCG
+
+		TTG
+
+		GTG
+
+		CCT
+
+		AAC
+
+		CAC
+
+		CGG
+
+		TGC
+
+		CCG
+
+		ACT
+
+		GAT
+
+		GCG
+
+		ACC
+
+		AGT
+
+		ATC
+
+		GTG
+
+		CAA
+
+		GGC
+
+		GTA
+
+		GGT
+
+		TCT
+
+		GGA
+
+		CAA
+
+		CGT
+
+		TGT
+
+		GGA
+
+		GTA
+
+		TTA
+
+		TCT
+
+		CGA
+
+		TAT
+
+		TCA
+
+		CAC
+
+		GGT
+
+		ACG
+
+		ACT
+
+		TTA
+
+		GTT
+
+		GTC
+
+		CCG
+
+		CCG
+
+		GCG
+
+		TGG
+
+		TTG
+
+		GCC
+
+		CTT
+
+		CAT
+
+		ACG
+
+		CTG
+
+		GGA
+
+		CAG
+
+		GTT
+
+		ACG
+
+		AAC
+
+		ATA
+
+		GAG
+
+		ATG
+
+		TAA
+
+		GAG
+
+		ATC
+
+		GAC
+
+		ATC
+
+		GCT
+
+		GTG
+
+
+Primers for V-09
+
+
+
+		TCT
+
+		AAG
+
+		CAA
+
+		AGA
+
+		ACT
+
+		TCT
+
+		CAT
+
+		TTA
+
+		GCT
+
+		TGG
+
+		ACT
+
+		CAG
+
+		ACT
+
+		ACG
+
+		TCC
+
+		AGA
+
+		TAA
+
+		CGC
+
+		ACA
+
+		GTT
+
+		ACA
+
+		TGA
+
+		CGT
+
+		ACC
+
+		CGA
+
+		CAT
+
+		GTT
+
+		GGC
+
+		GCA
+
+		CTC
+
+		TAC
+
+		GTG
+
+		GAA
+
+		CGT
+
+		TCG
+
+		CGG
+
+		AGT
+
+		AAT
+
+		CAG
+
+		AGA
+
+		TCA
+
+		GCA
+
+		GAC
+
+		TAG
+
+		TTC
+
+		GCC
+
+		CTG
+
+		TCC
+
+		TGA
+
+		GGA
+
+		CCT
+
+		GCG
+
+		GTC
+
+		CCA
+
+		CTA
+
+		GAG
+
+		ACG
+
+		GGA
+
+		TCA
+
+		AAT
+
+		GAA
+
+		CTA
+
+		TGT
+
+		ACC
+
+		CAT
+
+		GGC
+
+		ATA
+
+		TTG
+
+
+Primers for V-10
+
+
+
+		AGG
+
+		GGA
+
+		TTA
+
+		ATG
+
+		AGC
+
+		ACG
+
+		CTA
+
+		ATG
+
+		TAA
+
+		CGA
+
+		TTA
+
+		TGC
+
+		TAC
+
+		CAC
+
+		GAA
+
+		GAG
+
+		GTC
+
+		CAA
+
+		GCT
+
+		CCG
+
+		AGA
+
+		CGC
+
+		ATG
+
+		GAC
+
+		CAT
+
+		ACT
+
+		CAA
+
+		GCA
+
+		CTA
+
+		GTG
+
+		GTT
+
+		TAC
+
+		TGC
+
+		CGA
+
+		ATG
+
+		CGT
+
+		GGT
+
+		CTT
+
+		TGG
+
+		ACA
+
+		ACT
+
+		GAA
+
+		GTG
+
+		GGA
+
+		GTC
+
+		GGT
+
+		TAA
+
+		GCT
+
+		TCG
+
+		AAT
+
+		GCC
+
+		CAC
+
+		ATG
+
+		CGC
+
+		GTC
+
+		CCA
+
+		AGG
+
+		TCA
+
+		GAG
+
+		CCA
+
+		GAC
+
+		ATA
+
+		TAA
+
+		GAA
+
+		CAA
+
+		GAG
+
+		TGT
+
+		GAT
+
+
+Primers for V-11
+
+
+
+		GCA
+
+		CGG
+
+		GCA
+
+		GAG
+
+		TCT
+
+		GAA
+
+		ACG
+
+		TGA
+
+		TAA
+
+		ATA
+
+		GTT
+
+		TAA
+
+		AGA
+
+		ACT
+
+		TAG
+
+		TCA
+
+		ACC
+
+		CTG
+
+		AAC
+
+		CGG
+
+		GGT
+
+		GTG
+
+		TCA
+
+		GAG
+
+		ATT
+
+		TCG
+
+		GAC
+
+		AAA
+
+		TAT
+
+		AGT
+
+		CTC
+
+		CCT
+
+		ATC
+
+		GAA
+
+		TAC
+
+		TAC
+
+		CAG
+
+		AGT
+
+		TTC
+
+		ACT
+
+		CTC
+
+		CGT
+
+		GCA
+
+		TCA
+
+		AGT
+
+		TGA
+
+		TGT
+
+		AAC
+
+		TCG
+
+		CCA
+
+		TTC
+
+		GGT
+
+		TAT
+
+		CCA
+
+		CGT
+
+		GAG
+
+		TTC
+
+		GTG
+
+		CAC
+
+		AAT
+
+		GCA
+
+		AGA
+
+		CGC
+
+		CAG
+
+		TAC
+
+		AAG
+
+		CAC
+
+		CGC
+
+
+Primers for V-12
+
+
+
+		CAT
+
+		AAT
+
+		CGC
+
+		AGG
+
+		CTT
+
+		TGC
+
+		ACT
+
+		ACC
+
+		TAG
+
+		CTG
+
+		GGA
+
+		CTC
+
+		CTT
+
+		AAC
+
+		CGA
+
+		TCG
+
+		TGT
+
+		GGT
+
+		TTC
+
+		AGT
+
+		TTT
+
+		TTA
+
+		GCC
+
+		TGC
+
+		ATA
+
+		GTC
+
+		CAA
+
+		AGA
+
+		AGC
+
+		TAC
+
+		ATG
+
+		CTA
+
+		GCG
+
+		GTC
+
+		CTG
+
+		CTG
+
+		GTA
+
+		CCG
+
+		TAC
+
+		ATA
+
+		AAC
+
+		CAT
+
+		CAT
+
+		TGG
+
+		GGC
+
+		ACC
+
+		TCT
+
+		GCC
+
+		AAG
+
+		CGA
+
+		ATG
+
+		TAC
+
+		GTT
+
+		TCC
+
+		ATC
+
+		GGT
+
+		AGG
+
+		ATC
+
+		TGT
+
+		CTT
+
+		TCT
+
+		GGC
+
+		CAC
+
+		GGA
+
+		ATA
+
+		CTG
+
+		ATG
+
+		GAC
+
+
+Primers for V-13
+
+
+
+		TCT
+
+		CTA
+
+		GAA
+
+		ACA
+
+		CTT
+
+		ATC
+
+		TTT
+
+		GAG
+
+		TTC
+
+		GGA
+
+		TTG
+
+		TGT
+
+		TTA
+
+		TGC
+
+		TGG
+
+		AAC
+
+		CTG
+
+		CGA
+
+		GAA
+
+		TAC
+
+		CCT
+
+		TAC
+
+		GTC
+
+		TAG
+
+		TGG
+
+		TGG
+
+		TAC
+
+		AGA
+
+		ATT
+
+		TAT
+
+		TCA
+
+		TTG
+
+		TAT
+
+		CGC
+
+		AAG
+
+		ACC
+
+		AGT
+
+		TAT
+
+		CAT
+
+		AAC
+
+		TTA
+
+		TTT
+
+		CAC
+
+		TAC
+
+		AGA
+
+		GCT
+
+		GTC
+
+		GCC
+
+		TCC
+
+		CCG
+
+		AGG
+
+		TCT
+
+		ACA
+
+		CTA
+
+		AGC
+
+		CTA
+
+		GTG
+
+		ATG
+
+		AGC
+
+		AGG
+
+		ATA
+
+		GTC
+
+		GTC
+
+		GGT
+
+		GAC
+
+		ATC
+
+		GGC
+
+		TAT
+
+
+Primers for V-14
+
+
+
+		GCA
+
+		TTG
+
+		CGG
+
+		AAG
+
+		CGT
+
+		CAG
+
+		GTT
+
+		GGT
+
+		CAT
+
+		GAT
+
+		TTA
+
+		GCA
+
+		ACT
+
+		ATA
+
+		CTC
+
+		AGC
+
+		AGA
+
+		CCA
+
+		CTG
+
+		AGG
+
+		GTG
+
+		CTT
+
+		AAT
+
+		TTC
+
+		TCT
+
+		TAG
+
+		TTA
+
+		TAC
+
+		CCT
+
+		TTT
+
+		ACC
+
+		AGC
+
+		CTC
+
+		CAA
+
+		ACA
+
+		ACG
+
+		GCC
+
+		TCG
+
+		ATA
+
+		TGT
+
+		ACT
+
+		GAT
+
+		TCA
+
+		GCG
+
+		TCG
+
+		GAG
+
+		CAG
+
+		TCC
+
+		TAG
+
+		TTA
+
+		AAG
+
+		TTA
+
+		CGC
+
+		CAT
+
+		ATG
+
+		CTC
+
+		GAG
+
+		TCT
+
+		GTA
+
+		ACT
+
+		CTA
+
+		TCG
+
+		TGA
+
+		GTG
+
+		TCG
+
+		AGG
+
+		TAC
+
+		ATA
+
+
+Primers for V-15
+
+
+
+		CCA
+
+		GCA
+
+		TCT
+
+		CGA
+
+		GTG
+
+		CGA
+
+		CAG
+
+		GAC
+
+		AGT
+
+		CAA
+
+		ACC
+
+		ACC
+
+		ATG
+
+		GCC
+
+		ATA
+
+		ACG
+
+		TAG
+
+		TTG
+
+		ACT
+
+		AGA
+
+		TAA
+
+		ACG
+
+		ATA
+
+		TAG
+
+		CTA
+
+		CAA
+
+		CAC
+
+		TTG
+
+		ATG
+
+		TGT
+
+		TTG
+
+		AAA
+
+		AAG
+
+		CAG
+
+		CTG
+
+		CGC
+
+		AAC
+
+		TGG
+
+		ACT
+
+		CTG
+
+		GAG
+
+		GCA
+
+		AGA
+
+		CGG
+
+		TAC
+
+		TCA
+
+		AAA
+
+		TTG
+
+		GAA
+
+		CCT
+
+		GAC
+
+		ATG
+
+		ACG
+
+		GAC
+
+		GTT
+
+		TTA
+
+		TCG
+
+		ACA
+
+		ATC
+
+		ATG
+
+		GCG
+
+		CTG
+
+		CCG
+
+		CTC
+
+		AAT
+
+		CAC
+
+		AAT
+
+		CAA
+
+
+Primers for V-16
+
+
+
+		ACT
+
+		CTG
+
+		CAC
+
+		TTA
+
+		GTC
+
+		GTC
+
+		GTA
+
+		TTC
+
+		GTC
+
+		GCA
+
+		ACC
+
+		TCA
+
+		CTT
+
+		GTT
+
+		AGT
+
+		AAC
+
+		TCT
+
+		AAC
+
+		TAT
+
+		GGA
+
+		GCG
+
+		AAG
+
+		CTG
+
+		CGA
+
+		GGT
+
+		TGA
+
+		TGA
+
+		GGC
+
+		CAT
+
+		GGC
+
+		GCG
+
+		CCG
+
+		TCC
+
+		TGC
+
+		AAG
+
+		TAG
+
+		CGG
+
+		GTG
+
+		GGC
+
+		TGC
+
+		CTC
+
+		AGA
+
+		TCA
+
+		CAC
+
+		GAA
+
+		TAA
+
+		GCA
+
+		TAA
+
+		GAG
+
+		GTT
+
+		GTC
+
+		TCA
+
+		TGA
+
+		AGC
+
+		TGC
+
+		CAC
+
+		GCT
+
+		GTC
+
+		AAA
+
+		TGT
+
+		TCG
+
+		ACT
+
+		AAA
+
+		TGT
+
+		TAG
+
+		CCA
+
+		GAA
+
+		AGC
+
+
+Primers for V-17
+
+
+
+		CAA
+
+		AAG
+
+		AAA
+
+		TTA
+
+		CTC
+
+		AGC
+
+		CCT
+
+		GAA
+
+		TAC
+
+		CGC
+
+		GGA
+
+		TGA
+
+		GCG
+
+		GAG
+
+		ACC
+
+		CAT
+
+		ACC
+
+		CAG
+
+		TCT
+
+		CGT
+
+		TAA
+
+		CAA
+
+		GGA
+
+		AGG
+
+		GAA
+
+		GAG
+
+		CGA
+
+		ATG
+
+		GTC
+
+		TGT
+
+		TAA
+
+		ATA
+
+		GCC
+
+		CAC
+
+		TCT
+
+		GCT
+
+		GCA
+
+		GAT
+
+		TTC
+
+		CGA
+
+		CTG
+
+		TTG
+
+		CGC
+
+		GTG
+
+		GCA
+
+		GTC
+
+		GCG
+
+		ACG
+
+		TAC
+
+		GCA
+
+		TAG
+
+		GGA
+
+		TGA
+
+		AGT
+
+		AGG
+
+		ACG
+
+		CTT
+
+		GCT
+
+		TGA
+
+		GTC
+
+		GCT
+
+		TGT
+
+		TCA
+
+		CTA
+
+		ACT
+
+		GAC
+
+		TCA
+
+		CAA
+
+
+Primers for V-18
+
+
+
+		CAA
+
+		TGC
+
+		CAG
+
+		CTT
+
+		CAA
+
+		CCG
+
+		ACA
+
+		TAT
+
+		CCA
+
+		TCA
+
+		CGC
+
+		CGA
+
+		TAG
+
+		CCG
+
+		CTC
+
+		GAG
+
+		GTA
+
+		GAG
+
+		AGG
+
+		ACG
+
+		GTG
+
+		CTT
+
+		TCC
+
+		AAG
+
+		CCG
+
+		CTT
+
+		TCC
+
+		ACT
+
+		ATG
+
+		TCG
+
+		TTG
+
+		CTT
+
+		AGT
+
+		ATT
+
+		GCA
+
+		TCT
+
+		CGC
+
+		CCA
+
+		ATA
+
+		TAG
+
+		TCA
+
+		ACT
+
+		TCG
+
+		TGT
+
+		TGT
+
+		ACC
+
+		GCT
+
+		GTT
+
+		GAG
+
+		CGT
+
+		TCT
+
+		CTA
+
+		TGA
+
+		GCC
+
+		AAT
+
+		TAT
+
+		AAC
+
+		CGA
+
+		AAG
+
+		TTG
+
+		ACT
+
+		TTC
+
+		GAA
+
+		ACT
+
+		AGT
+
+		GTG
+
+		TTT
+
+		ATG
+
+
+Primers for V-19
+
+
+
+		GAT
+
+		CTT
+
+		TCG
+
+		ATT
+
+		AAA
+
+		AAT
+
+		TAT
+
+		TTT
+
+		CAG
+
+		GTC
+
+		CTT
+
+		CGC
+
+		GCC
+
+		TCT
+
+		CGA
+
+		GTA
+
+		CTA
+
+		TAT
+
+		GTC
+
+		CAG
+
+		GTT
+
+		CTG
+
+		AGC
+
+		TTC
+
+		AAG
+
+		GTG
+
+		TAT
+
+		CTC
+
+		AGG
+
+		AGT
+
+		TAT
+
+		CGG
+
+		AAT
+
+		CGC
+
+		GTG
+
+		CAC
+
+		AAT
+
+		ACC
+
+		GAC
+
+		ACG
+
+		GCT
+
+		TTG
+
+		AGA
+
+		AAT
+
+		TAG
+
+		CCT
+
+		GCT
+
+		TCC
+
+		TTT
+
+		CAA
+
+		TAA
+
+		CCA
+
+		CAT
+
+		GTG
+
+		TCG
+
+		GTA
+
+		TGG
+
+		AGG
+
+		GTG
+
+		AGA
+
+		TGA
+
+		ACG
+
+		CGA
+
+		GGT
+
+		AAG
+
+		GCG
+
+		TAG
+
+		TGT
+
+
+Primers for V-20
+
+
+
+		AGT
+
+		TCC
+
+		GTC
+
+		AAT
+
+		GCG
+
+		GGA
+
+		TGT
+
+		ACT
+
+		ATC
+
+		CGC
+
+		CTG
+
+		TAC
+
+		GTA
+
+		CGT
+
+		TGG
+
+		GGC
+
+		AGG
+
+		CAT
+
+		TAT
+
+		GCC
+
+		ACT
+
+		TCT
+
+		AAG
+
+		TCG
+
+		TTT
+
+		AGT
+
+		CTA
+
+		ACC
+
+		GTC
+
+		ACG
+
+		ATG
+
+		AAC
+
+		GGC
+
+		TCT
+
+		CGC
+
+		CCA
+
+		ACT
+
+		TTG
+
+		TGA
+
+		TGG
+
+		TCT
+
+		CAG
+
+		AAT
+
+		TAA
+
+		ATA
+
+		CAA
+
+		CAG
+
+		AAG
+
+		AGC
+
+		CAA
+
+		CAA
+
+		GTT
+
+		AAA
+
+		CAA
+
+		TAG
+
+		ACA
+
+		CAA
+
+		AGA
+
+		ACG
+
+		CGA
+
+		TAG
+
+		TCC
+
+		GCG
+
+		TTC
+
+		CAG
+
+		GTA
+
+		TGG
+
+		ACC
+
+
+
+Vertical Primers in a list
+

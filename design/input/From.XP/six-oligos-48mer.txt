@@ -1,0 +1,32 @@
+SEQUENCE x1{
+	length = 10880;
+	//GC_ratio = [.43;.49];
+	//Tm = [22;26];
+}
+	
+
+POOL mypool {
+	
+	n_uniqueness = 8; 
+	//Na_conc = .05;
+	//sample_conc = 2e-7;	
+	
+	//winfree's constratints for toe-hold design
+	forbidden = "ggg","ccc","tttt","aaaa";
+	
+	//forbidden ="gc","gg","cg","cc","gag","gtg","gac","gtc","cag","ctg","cac","cag";
+	//forbidden ="gc","gg","cg";
+	//forbidden = "g";
+	//forbidden ="gc","gg","cg","cc","gag","gtg";
+	//violation_tolerance = 2000000;
+	//Tm_method = NNTanaka;
+  }
+
+
+
+
+
+DESIGNTOOL {
+  Random_Seed = 0;
+  //analyze_uniqueness = true;
+}

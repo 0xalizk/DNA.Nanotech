@@ -1,0 +1,527 @@
+
+Bridges with orientation and h-scaffolds
+
+
+                -01             -02             -03             -04             -05             -06             -07             -08             -09             -10             -11             -12             -13             -14             -15             -16             -17             -18             -19             -20             
+H-01    ----------------.---------------------------------.---------------------------------.---------------------------------.----------------------------TTCGT.GCAAAG---------------------------.---------------------------------.---------------------------------.---------------------------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-GGTTGTAT.TTATCTTG-3             5-TATGTCAG.CATTCCAG-3             5-AGCTCGTG.AAACGAAC-3             5-GA______.________-3             5-________.________-3             5-________.________-3             5-________.
+H-02    ----------------.---------------------------------.---------------------------------.--------------------------------G.ATATTCGACCAACATA-AATAGAACAAAGTTGG.TGAATCTTATACAGTC-GTAAGGTCTGCTTGTT.GTTTAGCTTCGAGCAC-TTTGCTTGAGGAGAGT.TGCATTAGCT-----------------------.---------------------------------.---------------------------------.-----------------
+              5-________.________-3             5-________.________-3             5-________.________-3             5-_______C.TATAAGCT-3             5-TTTCAACC.ACTTAGAA-3             5-ACGAACAA.CAAATCGA-3             5-TCCTCTCA.ACGTAATC-3             5-________.________-3             5-________.________-3             5-________.________-3             
+              3-________.________-5             3-________.________-5             3-________.________-5             3-GGAAACTA.CTCACATT-5             3-CATTCTGT.CACTTGAG-5             3-AGTATTTC.TGTAATTC-5             3-GAATATGC.AGTTGAGC-5             3-________.________-5             3-________.________-5             3-________.________-5             
+H-03    ----------------.---------------------------------.---------------------------------.---------------T-TTTGTAGACCTTTGAT.GAGTGTAACGAAATCA-CACGATATGTAAGACA.GTGAACTCACGACTGT-GTGGACTCTCATAAAG.ACATTAAGAAACTAGA-GACCAGCACTTATACG.TCAACTCGTCCTATGG-----------------.---------------------------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-________.________-5             3-_______A.AAACATCT-5             3-GCTTTAGT.GTGCTATA-5             3-TGCTGACA.CACCTGAG-5             3-TTTGATCT.CTGGTCGT-5             3-AGGATACC.________-5             3-________.________-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-________.________-3             5-GCAAATTC.TGCTCCTC-3             5-ATTATTTC.ACACATAC-3             5-TCCAAATT.CTAATTGT-3             5-ATGTTAAG.TGAAAGCT-3             5-ACCACCTA.TTATCTTC-3             5-________.________-3             5-________.________-3             5-________.
+H-04    ----------------.---------------------------------.--------------------------------C.TTCTTGCTCGTTTAAG-ACGAGGAGACCTATAA.TGAGAAGATAATAAAG-TGTGTATGTTCCAAAG.CAGTATTAAGGTTTAA-GATTAACACGACTGGT.CCTCGACCTACAATTC-ACTTTCGAGACAAGTA.CTACCTACTGGTGGAT-AATAGAAGTGAGTAAT.---------------------------------.---------------------------------.-----------------
+              5-________.________-3             5-________.________-3             5-_______G.AAGAACGA-3             5-TGGATATT.ACTCTTCT-3             5-AAGGTTTC.GTCATAAT-3             5-GCTGACCA.GGAGCTGG-3             5-CTGTTCAT.GATGGATG-3             5-ACTCATTA.________-3             5-________.________-3             5-________.________-3             
+              3-________.________-5             3-________.________-5             3-CAATGAAG.TATCATAA-5             3-TTGGATAT.TTCTTACT-5             3-TCGTCAAC.GAAGTAAG-5             3-GTTGTTAG.TCAACTTC-5             3-CACCACTT.TTACTCAG-5             3-CGATGAGG.CAACAACG-5             3-________.________-5             3-________.________-5             
+H-05    ----------------.---------------------------------.---------------C-GTAGACGTGTTACTTC.ATAGTATTGCTTGACT-TCTATACCAACCTATA.AAGAATGATCTGGACG-AATAACGTAGCAGTTG.CTTCATTCATATCTGA-TATCCATTCAACAATC.AGTTGAAGTTGCAGGT-AAATTAGTGTGGTGAA.AATGAGTCTGTCAGAA-TGGATAAAGCTACTCC.GTTGTTGCATTATTCT-----------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-_______G.CATCTGCA-5             3-CGAACTGA.AGATATGG-5             3-AGACCTGC.TTATTGCA-5             3-TATAGACT.ATAGGTAA-5             3-AACGTCCA.TTTAATCA-5             3-ACAGTCTT.ACCTATTT-5             3-TAATAAGA.________-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-CGTCCTCA.CAAGCAGC-3             5-ACAGTTCC.AGGTGAAG-3             5-TGTCTAAT.ACAACATG-3             5-GACTTTCG.CTCCTTAA-3             5-AACACACC.CTCCTGTG-3             5-AGGATTGT.AATAGGAC-3             5-GTTCAATA.CACT____-3             5-________.________-3             5-________.
+H-06    ----------------.---------------------------------.------TAGCAGGAGT-GTTCGTCGTACTCCTC.GACACTGCTGTCAAGG-TCCACTTCAAGTCCTG.GACTGAGTACAGATTA-TGTTGTACTATTCGTT.ACCTGAAGCTGAAAGC-GAGGAATTAAGTGTCA.TATGACCATTGTGTGG-GAGGACACATCATAGT.AGGTCTCATCCTAACA-TTATCCTGGTCATGGT.TCATTCGTCAAGTTAT-GTGA------------.---------------------------------.-----------------
+              5-________.________-3             5-________.______AT-3             5-ATGAGGAG.CTGTGACG-3             5-TTCAGGAC.CTGACTCA-3             5-ATAAGCAA.TGGACTTC-3             5-TTCACAGT.ATACTGGT-3             5-TAGTATCA.TCCAGAGT-3             5-CAGTACCA.AGTAAGCA-3             5-________.________-3             5-________.________-3             
+              3-________.________-5             3-_______G.CACAAGAA-5             3-TCACAGCA.TATGTAAG-5             3-ATACATTT.________-5             3-________.________-5             3-________.________-5             3-TTATATTG.CCTGTAAG-5             3-GACATTAC.CATGATCT-5             3-CAAGACAA.________-5             3-________.________-5             
+H-07    ----------------.--------------------------------C.GTGTTCTTCGATAAAT-TGTCAGAGAGTGTCGT.ATACATTCTCTTGAAC-ACAATCACTATGTAAA.---------------------------------.---------------------------------.---------------G-ACGTCCTAAATATAAC.GGACATTCACATGATT-TTGAGTTGCTGTAATG.GTACTAGACGAAGGTA-TGGTACTTGTTCTGTT.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-GCTATTTA.ACAGTCTC-5             3-AGAACTTG.TGTTAGTG-5             3-________.________-5             3-________.________-5             3-_______C.TGCAGGAT-5             3-TGTACTAA.AACTCAAC-5             3-GCTTCCAT.ACCATGAA-5             3-________.________-5             3-________.
+        ________-3             5-________._______G-3             5-AAGGTGAC.CCACTGTC-3             5-CTATTGAG.ACCAGA__-3             5-TCATGCTC.AGAATCGT-3             5-CACAGATG.ACTATCTT-3             5-C_______.______GT-3             5-CTTCTAAG.AGTTGACC-3             5-GAGCAACC.TTGAGGAA-3             5-________.________-3             5-________.
+H-08    ----------------.------------------------CTTGTGCTT.ATGACTTATTCCACTG-GGTGACAGTTGTAGCT.AAACAAAGGATAACTC-TGGTCT----------.-------AAGTACGAG-TCTTAGCAATCACTAC.ATAGAGGTGTGTCTAC-TGATAGAAAGTTATGG.AGACCACTG--------------CATTACTAAT.GCTTAGCAGAAGATTC-TCAACTGGTTAAGTTC.TTGAAGTCCTCGTTGG-AACTCCTTCTGTCACT.CTTTAAGC-------------------------.-----------------
+              5-________.________-3             5-AACACGAA.TACTGAAT-3             5-AACATCGA.TTTGTTTC-3             5-________._______T-3             5-TAGTGATG.TATCTCCA-3             5-TCAATACC.TCTGGTGA-3             5-AATGATTA.CGAATCGT-3             5-AATTCAAG.AACTTCAG-3             5-GACAGTGA.GAAATTCG-3             5-________.________-3             
+              3-________.________-5             3-GATCCACA.ACACCTGA-5             3-TACTTATG.GTGCTAGG-5             3-________.________-5             3-GAACTCGT.TCTAGGTC-5             3-ACGATTCT.________-5             3-_______T.AAAGGTGT-5             3-TTTGAATG.ATGAGACA-5             3-AATTTGGA.TGTGTGAG-5             3-________.________-5             
+H-09    ----------------.---------------G-TTGCTGAGCTAGGTGT.TGTGGACTAGGTTACC-TCGTTCAGATGAATAC.CACGATCCTCAGATCC-----------------.---------------A-TGGACCTACTTGAGCA.AGATCCAGTAATATCA-ATCGTTGCTGCTAAGA.--------------------------------A.TTTCCACACTTTAGAT-ATCAGATCAAACTTAC.TACTCTGTATAACAGA-GTCCAGAATTAAACCT.ACACACTCAGGTA--------------------.-----------------
+        ________-5             3-_______C.AACGACTC-5             3-TCCAATGG.AGCAAGTC-5             3-AGTCTAGG.________-5             3-_______T.ACCTGGAT-5             3-ATTATAGT.TAGCAACG-5             3-________.________-5             3-GAAATCTA.TAGTCTAG-5             3-TATTGTCT.CAGGTCTT-5             3-TCCAT___.________-5             3-________.
+        ________-3             5-__CTGATC.TCAACTAG-3             5-CAAGAGGA.ATATGCTC-3             5-TGTAACAT.ACCACATA-3             5-AATAAGTG.GTCCATCA-3             5-AGAAGCAA.ACGTTTAT-3             5-AATATAGT.CTTAGAGA-3             5-CACTAACC.TCATACAA-3             5-GTGACCTT.CATGCAAG-3             5-ACGAGCAG.________-3             5-________.
+H-10    ----------------.----------GACTAG-AGTTGATCTCCTTACG.TTCCTATGGTTCTCCT-TATACGAGTAGTGTGC.TGGAGCATACATTGTA-TGGTGTATTCGTACCT.GTCAAGGATTATTCAC-CAGGTAGTCGTCCATA.TTCAACTATCTTCGTT-TGCAAATAATTTGTCG.CTAAGTCCTTATATCA-GAATCTCTTAGGAGTA.TAATAGTGGTGATTGG-AGTATGTTGCTAAAGG.ACAAGATGCACTGGAA-GTACGTTCCACATACA.TATGAACCTGCTCGTC-----------------.-----------------
+              5-________.________-3             5-AGGAATGC.AAGGATAC-3             5-ATCACACG.ACCTCGTA-3             5-AGCATGGA.CAGTTCCT-3             5-GCAGGTAT.AAGTTGAT-3             5-TAAACAGC.GATTCAGG-3             5-ATCCTCAT.ATTATCAC-3             5-CGATTTCC.TGTTCTAC-3             5-GTGTATGT.ATACTTGG-3             5-________.________-3             
+              3-________.________-5             3-TCGAAGGT.ACAATAGT-5             3-TACTGGTA.GTTAAAGT-5             3-ATCAGTTG.TCTAATTC-5             3-TCTAACGA.TACAACCT-5             3-ATCTAAGA.AGAGATAG-5             3-CGTTCGTC.CGATTTGG-5             3-CACCTAGT.GGACACGT-5             3-CTATAAGC.CGTTACAT-5             3-________.________-5             
+H-11    ----------------.--------ACACCAAA-CTCAGATTAGCTTCCA.TGTTATCACATCAGAA-GTATAACCATGACCAT.CAATTTCAGCTCAAAT-TCACAGAATAGTCAAC.AGATTAAGATAAATCT-GCTTGATGAGATTGCT.ATGTTGGATAGCTTGG-AATGCTTGTAGATTCT.TCTCTATCCTTGGTTG-GAGTAAATGCAAGCAG.GCTAAACCAACTTCTG-CAGGTTTGGTGGATCA.CCTGTGCAATATAATC-GGTTGTCTGATATTCG.GCAATGTATTGGAGAT-ACGA------------.-----------------
+        ________-5             3-TGTGGTTT.GAGTCTAA-5             3-GTAGTCTT.CATATTGG-5             3-CGAGTTTA.AGTGTCTT-5             3-TATTTAGA.CGAACTAC-5             3-ATCGAACC.TTACGAAC-5             3-GAACCAAC.CTCATTTA-5             3-TTGAAGAC.GTCCAAAC-5             3-TATATTAG.CCAACAGA-5             3-AACCTCTA.TGCT____-5             3-________.
+        ________-3             5-TATTCGTC.AAGAGACG-3             5-TGACCTGC.TATTGTCT-3             5-AACCAACC.TATGTCTC-3             5-ACTTAACT.ACTCGTCT-3             5-AACGACCA.TCTGTGGA-3             5-TAATTTAG.GAACCTTA-3             5-GTCGAGTA.CTCAATGT-3             5-AAATAGGT.TGATTTAT-3             5-AATTGAAC.ATTAC___-3             5-________.
+H-12    ----------------.------GAATAAGCAG-TTCTCTGCACGTCTGG.ACGACAGGACTGGACG-ATAACAGAAAGGATTC.ATCTGTCCTTGGTTGG-ATACAGAGGATGGACT.TTCGAGCTTGAATTGA-TGAGCAGATGTGGTAT.AACTTCTCTTGCTGGT-AGACACCTAAGTACCA.TGAAACTTATTAAATC-CTTGGAATACCTGCTT.TTGTGTGTCAGCTCAT-GAGTTACAAATCTCCT.ACACTCGATTTATCCA-ACTAAATAACCTAAAG.TTGTTCACTTAACTTG-TAATG-----------.-----------------
+              5-________.______CT-3             5-TGCAGACC.TGCTGTCC-3             5-TTCCTAAG.TAGACAGG-3             5-CTACCTGA.AAGCTCGA-3             5-ACACCATA.TTGAAGAG-3             5-TTCATGGT.ACTTTGAA-3             5-TGGACGAA.AACACACA-3             5-TTAGAGGA.TGTGAGCT-3             5-TGGATTTC.AACAAGTG-3             5-________.________-3             
+              3-________.____TTAC-5             3-TCTAGCTT.CAGCATCT-5             3-TGCATATC.CGAAAGAA-5             3-TAACAAAT.ATTACATC-5             3-AGTGAATT.CACTCCTT-5             3-CCTTCTAG.TTGACATG-5             3-TCTAATTG.GCATATAG-5             3-GAACGATC.TATGACCT-5             3-TCCTAGAG.CGATAAAT-5             3-________.________-5             
+H-13    ----------------.----AATGTCGTCGTA-CTACTTCAAGATCGAA.GTCGTAGAGCTGACAG-GCACCAGGACGTATAG.GCTTTCTTGGAAAGGT-TGTCTTAAATTGTTTA.TAATGTAGGACACGAC-TCCATACTTCACTTAA.GTGAGGAACCTATGTA-TACCTGTAGGAAGATC.AACTGTACCAAAGGTG-AACTTGACAGATTAAC.CGTATATCATCGTTGG-TTCTGAGACTTGCTAG.ATACTGGACTATCCAT-ACGTTAGGAGGATCTC.GCTATTTATGACTCGA-ATTGGT----------.-----------------
+        ________-5             3-AGCAGCAT.GATGAAGT-5             3-CGACTGTC.CGTGGTCC-5             3-CCTTTCCA.ACAGAATT-5             3-CTGTGCTG.AGGTATGA-5             3-GGATACAT.ATGGACAT-5             3-GTTTCCAC.TTGAACTG-5             3-TAGCAACC.AAGACTCT-5             3-GATAGGTA.TGCAATCC-5             3-ACTGAGCT.TAACCA__-5             3-________.
+        ________-3             5-ATAACCTT.CTGTGGTC-3             5-GTATAGGA.AAACTCTG-3             5-TAGTGAAT.CTGCACAA-3             5-ACAACTAC.ATCTGATA-3             5-GCACCACG.CGATCTCC-3             5-ACTGACCT.CTTAGTAG-3             5-CAAGTGAT.TTTAGTAC-3             5-AGGTACTC.GCTTGTGG-3             5-GAGCTATA.CTTGCTT_-3             5-________.
+H-14    ----------------.--ATGAGTTATTGGAA-GACACCAGAATGACTT.GAGTTCAACATATCCT-TTTGAGACAGGTCAAA.CATCAATTATCACTTA-GACGTGTTACAATTTG.AACTTACGTGTTGATG-TAGACTATCAAGTTCC.GATCGTCTCGTGGTGC-GCTAGAGGATATTGGA.TGAGTGTCTGACTGGA-GAATCATCTTCCTCCT.ATGTCCTGGTTCACTA-AAATCATGCTCAAGTA.CAACCTGGTCCATGAG-CGAACACCTACTAGAA.ATGTCTTACTCGATAT-GAACGAA---------.-----------------
+              5-________.__TACTCA-3             5-TTACTGAA.CTCAAGTT-3             5-TCCAGTTT.GTAGTTAA-3             5-TGTTAAAC.TTGAATGC-3             5-GTTCAAGG.CTAGCAGA-3             5-TATAACCT.ACTCACAG-3             5-AAGGAGGA.TACAGGAC-3             5-GAGTTCAT.GTTGGACC-3             5-ATGATCTT.TACAGAAT-3             5-________.________-3             
+              3-________._TAGCTTA-5             3-AGAGATCC.TATCCATG-5             3-TTACTCTA.TTATTGTG-5             3-CTAATGAG.ACAGTCCT-5             3-TTGAGTAA.CTGGAGGT-5             3-GCAATTAC.GCATGACT-5             3-TTATGCTC.AGTTTCAG-5             3-TAGAAACG.AGAGCACA-5             3-CTTGGAGA.TCTATGAG-5             3-________.________-5             
+H-15    ----------------.-ATCGAATTTAACAAG-GCAGTGCATCTCTAGG.ATAGGTACTGTGACCA-CATTACACAATGAGAT.AATAACACAGCTTGCA-TGCTAGTGGATTACTC.TGTCAGGAGGTTAGAT-TGCATCTTAACTCATT.GACCTCCATGACTCAG-GACTGCTTCGTTAATG.CGTACTGAAGATGAAC-GGATGCTGAATACGAG.TCAAAGTCTTTAAGTT-TATTATCAATCTTTGC.TCTCGTGTAAAGCATC-TAATGTGAGAACCTCT.AGATACTCATCATGGA-TGAACTG---------.-----------------
+        ________-5             3-AATTGTTC.CGTCACGT-5             3-ACACTGGT.GTAATGTG-5             3-TCGAACGT.ACGATCAC-5             3-CCAATCTA.ACGTAGAA-5             3-ACTGAGTC.CTGACGAA-5             3-TCTACTTG.CCTACGAC-5             3-AAATTCAA.ATAATAGT-5             3-TTTCGTAG.ATTACACT-5             3-TAGTACCT.ACTTGAC_-5             3-________.
+        ________-3             5-TCAGTGGA.ATGGAATA-3             5-GCTACGTG.CACTTGTA-3             5-AGGTTAGG.GTAAGTGA-3             5-AATTCATC.ATTTATTC-3             5-TTGTCGTC.CTGGAGTT-3             5-GTTGTCTC.ACTCACTA-3             5-ATCAGTTT.ATGGAGCA-3             5-GGATTTGA.TGATGGTG-3             5-CGACAGTG.CGACCAT_-3             5-________.
+H-16    ----------------.-CTTCATCAGTCACCT-TACCTTATCACGAAAC.AAGCAGCTCGATGCAC-GTGAACATCCTATCCT.AGCTCACGTCCAATCC-CATTCACTGTTGGTTA.TATTACCATTAAGTAG-TAAATAAGAGGTCTTT.GTGGAATGAACAGCAG-GACCTCAATGGATAAC.GAATCCAACAACAGAG-TGAGTGATCTCAACAT.GAGACACGTAGTCAAA-TACCTCGTATCTTGAT.CACTACGTCCTAAACT-ACTACCACTGCTATGG.AGCTGAGAGCTGTCAC-GCTGGTA---------.-----------------
+              5-________._GAAGTAG-3             5-GTGCTTTG.TTCGTCGA-3             5-GGATAGGA.TCGAGTGC-3             5-CAACCAAT.ATAATGGT-3             5-TCCAGAAA.CACCTTAC-3             5-ACCTATTG.CTTAGGTT-3             5-GAGTTGTA.CTCTGTGC-3             5-TAGAACTA.GTGATGCA-3             5-ACGATACC.TCGACTCT-3             5-________.________-3             
+              3-________.ACACATCG-5             3-TCCTCACA.AGGTATGC-5             3-TTAAATAC.TCTATCGT-5             3-TACAAAGG.CACTTGCA-5             3-CAGCTCAG.AGTTGGTA-5             3-CTAAATAT.TGATAATA-5             3-ATGTATGG.GTAGACCA-5             3-CTGCACTT.AGCAATCG-5             3-GAGGACGA.TTGACTGG-5             3-________.________-5             
+H-17    ----------------.TGTGTAGCTCCTATTA-GTTAGGACAGGAGTGT.TCCATACGTTAATAAT-CACTAAGGAATTTATG.AGATAGCACTAGATAA-GCTCGATGATGTTTCC.GTGAACGTGCAAGTAG-GCTGTATTGTCGAGTC.TCAACCATCGAGAGAC-TCATACACGATTTATA.ACTATTATGCACTAAA-AGATAGGATACATACC.CATCTGGTGGAGTTTC-TAGGATTCGACGTGAA.TCGTTAGCAATTTGGT-TTCCTGGTCTCCTGCT.AACTGACCACTTACCA-CTTAGTT---------.-----------------
+        ________-5             3-AGGATAAT.CAATCCTG-5             3-AATTATTA.GTGATTCC-5             3-GATCTATT.CGAGCTAC-5             3-CGTTCATC.CGACATAA-5             3-GCTCTCTG.AGTATGTG-5             3-CGTGATTT.TCTATCCT-5             3-CCTCAAAG.ATCCTAAG-5             3-TTAAACCA.AAGGACCA-5             3-TGAATGGT.GAATCAA_-5             3-________.
+        ________-3             5-AGATATGC.ATAGTTAC-3             5-GAATTACA.AACTAGCT-3             5-GGAGAAAC.ACGTCCTT-3             5-GGTATCTG.TTCATCGT-3             5-CAGTGATC.CTAATGGT-3             5-GAATTGAG.ATTTCGTG-3             5-CATTTCTT.GAAGTTAT-3             5-GAAACATT.ACTTGGTT-3             5-ATACAGTC.GTGCTG__-3             5-________.
+H-18    ----------------.--TGTATCTCTATACG-TATCAATGCTACGAAG.TGCAGATCCTTAATGT-TTGATCGACTAAGATA.CAAACCTACCTCTTTG-TGCAGGAATAAAGCTA.AGGACCTTCCATAGAC-AAGTAGCAGTTAGTCA.GTGTTGTGGTCACTAG-GATTACCAGGAGACAG.TGTAGCATCTTAACTC-TAAAGCACTTCGTATT.TAACTCTTGTAAAGAA-CTTCAATATCGACTGA.TTCCTTCACTTTGTAA-TGAACCAAGCTACACA.CACTAGAGTATGTCAG-CACGAC----------.-----------------
+              5-________.__ACATAG-3             5-GATGCTTC.ACGTCTAG-3             5-GATTCTAT.GTTTGGAT-3             5-ATTTCGAT.TCCTGGAA-3             5-CAATCAGT.CACAACAC-3             5-CCTCTGTC.ACATCGTA-3             5-AAGCATAA.ATTGAGAA-3             5-AGCTGACT.AAGGAAGT-3             5-CGATGTGT.GTGATCTC-3             5-________.________-3             
+              3-________.__AAATGT-5             3-TAGAGGAG.AACGATCT-5             3-CGAAGTTA.AGTATCGA-5             3-CTTTAAGT.TAGAAATG-5             3-TTTCTCAG.TATGTGAT-5             3-TCACCAAT.TCAAGAGC-5             3-GACTTGAC.TACCTGAT-5             3-GTTGTCAA.TTGTGTAA-5             3-CTCATTCC.ATGTTGGA-5             3-________.________-5             
+H-19    ----------------.--TTTACAGTAGAAAT-CAATCGTCATCTCCTC.TTGCTAGAGTACATCT-AAGTTAGAGCTTCAAT.TCATAGCTGGACAACA-ATGTGTAAGAAATTCA.ATCTTTACAGGATGGT-TAGGTAGTAAAGAGTC.ATACACTATTGCAGAA-TAGTGGAAAGTGGTTA.AGTTCTCGACCAACGA-TCTTACCACTGAACTG.ATGGACTACACGTCAA-ATGACTGACAACAGTT.AACACATTCAGATAAC-CGTTGACTGAGTAAGG.TACAACCTTTGCAGTT-ATTCTC----------.-----------------
+        ________-5             3-CATCTTTA.GTTAGCAG-5             3-CATGTAGA.TTCAATCT-5             3-CCTGTTGT.TACACATT-5             3-TCCTACCA.ATCCATCA-5             3-AACGTCTT.ATCACCTT-5             3-TGGTTGCT.AGAATGGT-5             3-GTGCAGTT.TACTGACT-5             3-GTCTATTG.GCAACTGA-5             3-AACGTCAA.TAAGAG__-5             3-________.
+        ________-3             5-ACACAAGG.ACAAAGAA-3             5-TTTATGCA.GCATCAAG-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-ATGGTCAG.TCCATCTG-3             5-ATTAAATT.CTCACACG-3             5-________.
+H-20    ----------------.--CTACTTTGTGTTCC-TGTTTCTTTCCTTGTG.CTTCCTGGAAATACGT-CGTAGTTCTTAACAAC.---------------------------------.---------------------------------.---------------------------------.---------------------------------.--------------------------------G.GTATTATTTACCAGTC-AGGTAGACATAAGGTC.ACTTATCCTAATTTAA-GAGTGTGC--------.-----------------
+              5-________.__GATGAA-3             5-AGGAACAC.GAAGGACC-3             5-AATTGTTG.________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-_______C.CATAATAA-3             5-TATTCCAG.TGAATAGG-3             5-________.________-3             
+              3-________.___TGAAG-5             3-CTCGTGCT.CAAGACGA-5             3-GGATACTT.CAGAGTAA-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-CAACCTCT.CATGTGTG-5             3-TCGAGTTC.TCAGGAAG-5             3-________.________-5             
+H-21    ----------------.---ACTTCTAATGTGC-GGAGGTATGAGCACGA.GTTCTGCTCCTTGTCC-GGTTACGACCTATGAA.GTCTCATTA------------------------.---------------------------------.---------------------------------.---------------------------------.----------------------GAGGTTGGAGA.GTACACACTTGGAATC-CTTAGCAAAGCTCAAG.AGTCCTTCTGACTGAT-AAACGT----------.-----------------
+        ________-5             3-ATTACACG.CCTCCATA-5             3-GGAACAGG.CCAATGCT-5             3-T_______.________-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________._____CTC-5             3-AACCTTAG.GAATCGTT-5             3-ACTGACTA.TTTGCA__-5             3-________.
+        ________-3             5-AGTAAGCT.AACACTGT-3             5-ATGTTGTT.TGTAAGTC-3             5-AGACTTAG.TACA____-3             5-________.________-3             5-________.________-3             5-________.________-3             5-ATCTTGTG.ATGCAGTA-3             5-GACTTCTC.GTAGAAGT-3             5-TGTCAATA.GGAG____-3             5-________.
+H-22    ----------------.--------TCATTCGA-TTGTGACATTCCTAGT.CACTTCGATACAACAA-ACATTCAGCTCTGACA.CCACTTCTTCTGAATC-ATGT------------.---------------------------------.---------------------------------.---------------------------------.------AGTAGAACAC-TACGTCATCCAAGACC.CTTTCAGTCTGAAGAG-CATCTTCATCTCAAAT.TGTACTGGACAGTTAT-CCTC------------.-----------------
+              5-________.________-3             5-AAGGATCA.GTGAAGCT-3             5-GAGACTGT.GGTGAAGA-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________.______TC-3             5-GGTTCTGG.GAAAGTCA-3             5-AGAGTTTA.ACATGACC-3             5-________.________-3             
+              3-________.________-5             3-AACTACAC.TTACCTCA-5             3-GTGCTCCT.TCAACACA-5             3-ACGAAGTC.TATGACTA-5             3-________.________-5             3-________.________-5             3-TGATACTT.GTTAAAGG-5             3-CTCGTGAA.TATATGGT-5             3-GAATTTAC.GCAAGCAA-5             3-________.________-5             
+H-23    ----------------.-------------AGT-GTGTCTTGTTGATGTG.AATGGAGTGAAAGTAA-TTGTGCTCCACGAGGA.AGTTGTGTATGCTGAG-AGTTCTTCTGCTTCAG.ATACTGATAATTT--------------------.---------------------------------.----------------------CTTACTATGAA.CAATTTCCTCGATAGA-TCGTTAAAGAGCACTT.ATATACCACCACAGAT-TCTAATTGCTTAAATG.CGTTCGTTGCACTTTG-----------------.-----------------
+        ________-5             3-_____TCA.CACAGAAC-5             3-CTTTCATT.AACACGAG-5             3-TACGACTC.TCAAGAAG-5             3-TTAAA___.________-5             3-________.________-5             3-________._____GAA-5             3-AGCTATCT.AGCAATTT-5             3-GGTGTCTA.AGATTAAC-5             3-CGTGAAAC.________-5             3-________.
+        ________-3             5-_______A.GTATTGGT-3             5-TAACGATC.CCTCACTC-3             5-TACATGCT.GTAACTAC-3             5-AGAACTAA.TTGTG___-3             5-________.________-3             5-GACAATGG.TTGTTTGG-3             5-CAGGTAGC.GCTAAGCA-3             5-AAACTCGA.ATGAACTG-3             5-GTGC____.________-3             5-________.
+H-24    ----------------.---------------T-CATAACCACTACGATA.GTAAAGATATTGCTAG-GGAGTGAGTCATCAGC.AATATAGCATGTACGA-CATTGATGATTAGATG.CCATGCTGTCTTGATT-AACAC-----------.---------------------------------.------TACTGTTACC-AACAAACCTGATTGTT.GTCACAGTGTCCATCG-CGATTCGTCTGGTAGA.ATTCATGCTTTGAGCT-TACTTGACCAAAGCAG.CATGGAACCACG---------------------.-----------------
+              5-________.________-3             5-GATGCTAT.CATTTCTA-3             5-AGTAGTCG.TTATATCG-3             5-TAATCTAC.GGTACGAC-3             5-________.________-3             5-________.______AT-3             5-ACTAACAA.CAGTGTCA-3             5-GACCATCT.TAAGTACG-3             5-GTTTCGTC.GTACCTTG-3             5-________.________-3             
+              3-________.________-5             3-GCTTGCAG.CACTTAGA-5             3-AAGAGTTT.TGCTAATT-5             3-ACCTGTAC.TTGTTTAT-5             3-CTTCCTAG.________-5             3-_______T.ATGAGTAT-5             3-CTGACAGG.TCGTGAGT-5             3-ATGTCACG.AGCTGTTC-5             3-TTAGGACT.AATTA___-5             3-________.________-5             
+H-25    ----------------.--------------------AATATCGAACGTC.GTGAATCTATTCTAGT-AATCATCCTTCTCAAA.ACGATTAAAGGAGTTA-GCTCCACCTGGACATG.AACAAATACGATGAGA-AACGTCTCGAAGGATC.--------------------------------A.TACTCATACTCTTATG-GTCTCTTTGACTGTCC.AGCACTCAGCAGAGAG-AGACGTAATACAGTGC.TCGACAAGAAACGTCA-CTTGCTGCAATCCTGA.TTAAT----------------------------.-----------------
+        ________-5             3-________.___TTATA-5             3-TAAGATCA.TTAGTAGG-5             3-TCCTCAAT.CGAGGTGG-5             3-GCTACTCT.TTGCAGAG-5             3-________.________-5             3-GAGAATAC.CAGAGAAA-5             3-CGTCTCTC.TCTGCATT-5             3-TTTGCAGT.GAACGACG-5             3-________.________-5             3-________.
+        ________-3             5-________._______T-3             5-ATTTACGA.TGTCGAAC-3             5-TACGTTGA.TTCCTGCA-3             5-TGATTACT.GTCCTGCA-3             5-ACCTCGAA.AAGACCAA-3             5-ACACCTAT.AGCTATTG-3             5-TTCCAATT.ATCACTGA-3             5-TACCTAAC.ACTCCTCG-3             5-________.________-3             5-________.
+H-26    ----------------.------------------------ATAGATAGC.GACTAGATTAAATGCT-ACAGCTTGTGATGTCA.AACTTAGAATGCAACT-AAGGACGTTCTCAGAG.GACCACTCACTAATGA-CAGGACGTGTGCTGGA.CTCACAGATGGAGCTT-TTCTGGTTCTACCTTG.AACATGAATGTGGATA-TCGATAACCTTCTTAA.CTAGTATCAAGGTTAA-TAGTGACTTCATGTCC.ATACTACTATGGATTG-TGAGGAGCAGCTATCG.GA-------------------------------.-----------------
+              5-________.________-3             5-ATCTATCG.CTGATCTA-3             5-ACTACAGT.TTGAATCT-3             5-AGAGTCTC.CTGGTGAG-3             5-CACGACCT.GAGTGTCT-3             5-GATGGAAC.TTGTACTT-3             5-GAAGAATT.GATCATAG-3             5-AGTACAGG.TATGATGA-3             5-TCGATAGC.CT______-3             5-________.________-3             
+              3-________.________-5             3-_____TTT.AACGAACG-5             3-AATCAACA.GATTGCAG-5             3-CAGAACTG.CACAGAAG-5             3-GGAGGATC.TTGCACTG-5             3-CTACTGTG.TGTCTTCT-5             3-ACCTGTGT.CACTAAAG-5             3-ACCTGAGT.CCTCACCT-5             3-TTGTGTGA.________-5             3-________.________-5             
+H-27    ----------------.------------------------------AAA.TTGCTTGCTGGTGTAT-GAAGAGATTTAGTTGT.CTAACGTCGAGATTAC-AGATCCAAGTCTTGAC.GTGTCTTCGTGGATTG-GATATTCACCTCCTAG.AACGTGACTGAATTGT-AAAGACGTGATGACAC.ACAGAAGAGCTAGTGT-TCATATTGTGGACACA.GTGATTTCAGAGGTGC-GATACACATGGACTCA.GGAGTGGACGACGATC-TGACTATAAACACACT.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-ACCACATA.CTTCTCTA-5             3-CTCTAATG.TCTAGGTT-5             3-CACCTAAC.CTATAAGT-5             3-ACTTAACA.TTTCTGCA-5             3-CGATCACA.AGTATAAC-5             3-TCTCCACG.CTATGTGT-5             3-GCTGCTAG.ACTGATAT-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-GAGTTCAA.CTGTTTCG-3             5-GTACCTCT.CACTGTGC-3             5-ATAGTGGA.TAACTAAT-3             5-CCATACAG.AGAACCAA-3             5-TGTTGAGG.TCTAGCAT-3             5-GGTGTGCT.TACTTTCT-3             5-CTGATATA.CGAATCTA-3             5-________.________-3             5-________.
+H-28    ----------------.--------------------------------T.TGCTCTTTCTCAAGTT-GACAAAGCTAGGTAAC.CTTGTCATCATGGAGA-GTGACACGATATAATT.GGTCACACTATCACCT-ATTGATTAGGTTTCGA.CAACAAATGGTATGTC-TCTTGGTTATATGATC.TTCACCTCACAACTCC-AGATCGTAAGTGACGA.ATCTCAGTCCACACGA-ATGAAAGAGTGCTCCA.TGAGATGTGACTATAT-GCTTAGATTGTA----.---------------------------------.-----------------
+              5-________.________-3             5-_______A.ACGAGAAA-3             5-ATCCATTG.GAACAGTA-3             5-TATATTAA.CCAGTGTG-3             5-CCAAAGCT.GTTGTTTA-3             5-TATACTAG.AAGTGGAG-3             5-TCACTGCT.TAGAGTCA-3             5-CACGAGGT.ACTCTACA-3             5-ACAT____.________-3             5-________.________-3             
+              3-________.________-5             3-________.______GT-5             3-GCAGTATA.ATAAGGAA-5             3-AGGATTCC.ATATTTGA-5             3-TTAATGAA.CTCAATCC-5             3-TGCTCCAC.CGACAGCT-5             3-ACCTCAGC.TGTCGTTA-5             3-ATCGTGCA.GATAGAAT-5             3-________.________-5             3-________.________-5             
+H-29    ----------------.---------------------------------.------CATAATCCTG-GCTAGACTCGTCATAT.TATTCCTTCCACAAAT-ACACTTGATCCTAAGG.TATAAACTTGTGTCAT-AATCAACGAATTACTT.GAGTTAGGATTTAGAC-TCAATGAAACGAGGTG.GCTGTCGAAATGTGGA-GAGTACGTTGGAGTCG.ACAGCAATGTGTCTCT-CAATGACATAGCACGT.CTATCTTAGTCAAACC-ATGT------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-ATTAGGAC.CGATCTGA-5             3-GGTGTTTA.TGTGAACT-5             3-ACACAGTA.TTAGTTGC-5             3-TAAATCTG.AGTTACTT-5             3-TTACACCT.CTCATGCA-5             3-CACAGAGA.GTTACTGT-5             3-CAGTTTGG.TACA____-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-_______C.ACTGGTTC-3             5-GGAGGTGG.TTGGTCTC-3             5-CGTTAAAT.ACGAGCAT-3             5-GTGCTTTA.GACACCAA-3             5-TAGAAAGT.AAACTATA-3             5-ACAACTGT.TTAGAAAT-3             5-AGTCG___.________-3             5-________.________-3             5-________.
+H-30    ----------------.---------------------------------.---------------G-TGACCAAGAAATGGAG.ACGAATCACCTCCACC-AACCAGAGAATAGGAG.GATTAACTGCAATTTA-TGCTCGTAATCTCATC.TGTTACGACACGAAAT-CTGTGGTTGAGCTAGT.CAGTTCTAATCTTTCA-TTTGATATTAACCACG.TTACTTATTGTTGACA-AATCTTTATGGTACTC.TATGTAGTTCAGC--------------------.---------------------------------.-----------------
+              5-________.________-3             5-________.________-3             5-TTTACCTC.TGCTTAGT-3             5-TTATCCTC.CTAATTGA-3             5-TAGAGTAG.ACAATGCT-3             5-CTCGATCA.GTCAAGAT-3             5-ATTGGTGC.AATGAATA-3             5-ACCATGAG.ATACATCA-3             5-________.________-3             5-________.________-3             
+              3-________.________-5             3-________.________-5             3-CTATTGCT.GTAACCTG-5             3-AGAACACA.GTTCTCGT-5             3-GTTCAGTA.TTCGAGGA-5             3-TGTAGTTT.AAGGTACA-5             3-TTTGGAGA.TGACAGAC-5             3-CCAGTGTA.________-5             3-________.________-5             3-________.________-5             
+H-31    ----------------.---------------------------------.----------------------TCTGATAACGA.CATTGGACCTTCTCGT-AAATGACTTCTTGTGT.CAAGAGCAGTTTCTAA-ATGTACTGCAAGTCAT.AAGCTCCTGGTTTGAA-GACCTTGGACATCAAA.TTCCATGTAACGTGGA-GGAAATCTAAACCTCT.ACTGTCTGCAACGTGG-CATACTTAGGTCACAT.---------------------------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-________._____AGA-5             3-GAAGAGCA.TTTACTGA-5             3-CAAAGATT.TACATGAC-5             3-CCAAACTT.CTGGAACC-5             3-TTGCACCT.CCTTTAGA-5             3-GTTGCACC.GTATGAAT-5             3-________.________-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-________.________-3             5-CAGACAAG.CCTAGTTG-3             5-TCTTTCAT.TATCGAGC-3             5-CATTATTG.TCTGAGAT-3             5-CTCCTACG.AGTGTCGA-3             5-TAAGCATA.TAGTAA__-3             5-________.________-3             5-________.________-3             5-________.
+H-32    ----------------.---------------------------------.--------------------------------A.CTGCACTCGTCTGTTC-GGATCAACGTATCGAG.ATTGAAGGAGAAAGTA-ATAGCTCGACTCATAA.CTTTGACAGTAATAAC-AGACTCTATGTCATAC.TGTGTCACGAGGATGC-TCACAGCTACAGCATC.ACTAATCCATTCGTAT-ATCATT----------.---------------------------------.---------------------------------.-----------------
+              5-________.________-3             5-________.________-3             5-_______T.GACGTGAG-3             5-CATAGCTC.TAACTTCC-3             5-TGAGTATT.GAAACTGT-3             5-ACAGTATG.ACACAGTG-3             5-TGTCGTAG.TGATTAGG-3             5-________.________-3             5-________.________-3             5-________.________-3             
+              3-________.________-5             3-________.________-5             3-________.________-5             3-GAATTAGT.CGACAACA-5             3-CATGGAAT.TCCACGTA-5             3-TATATCTC.GAAACACT-5             3-CCTTATTC.________-5             3-________.________-5             3-________.________-5             3-________.________-5             
+H-33    ----------------.---------------------------------.---------------------------------.---------GGTTACC-TTGAACAGCTTAATCA.GCTGTTGTTAGGTTTA-CCAACAGTGTACCTTA.AGGTGCATCGTGCTAA-AAGTCTCCATATAGAG.CTTTGTGACAGGATCA-AGAATGGTGGAATAAG.---------------------------------.---------------------------------.---------------------------------.-----------------
+        ________-5             3-________.________-5             3-________.________-5             3-_CCAATGG.AACTTGTC-5             3-ATCCAAAT.GGTTGTCA-5             3-GCACGATT.TTCAGAGG-5             3-GTCCTAGT.TCTTACCA-5             3-________.________-5             3-________.________-5             3-________.________-5             3-________.
+        ________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________._TATGAAA-3             5-TCGTAACA.CAGCTAAA-3             5-AACTCT__.________-3             5-________.________-3             5-________.________-3             5-________.________-3             5-________.
+H-34    ----------------.---------------------------------.---------------------------------.---------------------------------.------------------ATACTTTGTTACCTG.TTTGAAGAAGCATTGT-GTCGATTTCTCGTAGT.TATCTGTATTGAGA-------------------.---------------------------------.---------------------------------.---------------------------------.-----------------
+
+
+vert_shape_trails:
+
+V-01 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+V-02 _______________________________________________________________________________________________________________________________________________________________________________________AACT_____________________AGTAAGCTGCACATTAGAAGT_____GATGAAACACAAGGATTTCTACTGTAAA____ACATAGAGATATGCTAATAGGAGCTACACA_GAAGTAGTCAGTGGACTTGTTAAATTCGAT___TACTCAATAACCTTTACGACGACATT__________CTTATTCGTCTTTGGTGT__________________CTGATCC_______________________________________________________________________________________________________________________________________
+V-03 ________________________________________________________________________________________________________G______________________GAACACGAAACACCTAGCTCAGCAATCAACTAGAGGAATGCTGGAAGCTAATCTGAGAAGAGACGTGCAGACCTTCGATCTTGAAGTAGCTGTGGTCTTACTGAACCTAGAGATGCACTGCATGGAATAGTGCTTTGACACTCCTGTCCTAACATAGTTACGATGCTTCGAGGAGATGACGATTGACAAAGAAAGGAACACTCGTGCTCATACCTCCAACACTGTAAGGATCACACATCAACAAGACACGTATTGGTGATGCTATGACGTTCGATATT__________TATCTATCGTTT____________________________A________________________________________________________________________________________
+V-04 _______________________________________________________________________________________CCAGGATTATG______ACGAGAAAGAGTTCAAATACACCAGCAAGCAACTGATCTAATTTACGAACTAGAATAGATTCACCATTTCTATAACGATCTTACTTTCACTCCATTGTGAAGCTATGTTGTTGGACAAGGAGCAGAACGAAGGACCTTTATGCAAGATGTACTCTAGCAAACGTCTAGGAATTACAATTATTAACGTATGGATTCGTCGAGCTACGTGTGGTCACAGTACCTATCTCAAGTTGTATAGGACTGTCAGCTCTACGACTGCTGTCCTGACCTGCTTCTGATGTGATAACAAAGGATACCAAGAGGAGGTAACCTAGTCCACATACTGAATAAGGTGACATTTATCGAAGAACAC______ATCGTCCTCAG_______________________________________________________________________
+V-05 _______________________________________________________________________GGAAGTAACACGTCTACCAAGCAGCATGAGGAGACGACACTCTCTGACACCACTGTCAACATCGAGTATTCATCTGAACGAATATGCTCATCACACGATGGTCATGGTTATACTATTGTCTTTCCTAAGCTATACGTCCTGGTGCAAACTCTGTCCAGTTTATCTCATTGTGTAATGCACTTGTAGGATAGGACATAAATTCCTTAGTGAACTAGCTGATTCTATATTGAAGCTCTAACTTGCATCAAGAATTGTTGTTCATAGGTCGTAACCTGTAAGTCGAGACTGTTCCTCGTGGAGCACAACCTCACTCAGTAGTCGTTTGAGAAGGATGATTTGTCGAACACTACAGTACAACTAAATCTCTTCCTGTTTCGATCCATTGATATGACGAGTCTAGCACTGGTTCTTTACCTCTCGTTATCAGA____________________T________________________
+V-06 ________________________GGTAACC_________GACGTGAGCAGACAAGACGAGAAGGTCCAATGTGCTTAGTGGAGGTGGATTTGTGGAAGGAATAGAACAGTAGTACCTCTGTAATCTCGACGTTAGTTGAATCTTACGTTGATAACTCCTTTAATCGTTTATATCGTACATGCTCTCAGCATACACAACTGGTGAAGAAGACTTAG_______TAATGAGAC________________TGTTGTCCAGCTATGAGTTTGGATGGAGAAACTTATCTAGTGCTATCTTCGAGTGCAGGTTAGGTGCAAGCTGTGTTATTGTAGTTAATAGTGAATACCTTTCCAAGAAAGCTAGACAGGAACCAACCATTTGAGCTGAAATTGACCTCGTATGTAACATGGATCTGAGGATCGTGTTTGTTTCCTATTGAGGTTCAAGAGAATGTATCTGTGACGACAGTTCCAGTCAAGCAATACTATAAGAACGAGCAAATTCA_______________________________________
+V-07 _______________________________________CATCAAAGGTCTACAAATGCTCCTCTGGATATTTATAGGTTGGTATAGAAGGTGAAGTTCAGGACTTTACATAGTGATTGTACCAGA__________________________ACCACATAAGCATGGAGTTGACTATTCTGTGATATGTCTCCTACCTGATAAACAATTTAAGACACTGCACAATGTTAAACGAGTAATCCACTAGCAGTAAGTGACAACCAATGGAAACATCATCGAGCACGTCCTTATTTCGATTGAATTTCTTACACAT________________________________TACA____________CTGAAGCAGAAGAACTGTAACTACTAATCTACCATGTCCAGGTGGAGCTTCCTGCAAGAGTCTCGTCAAGACTTGGATCTCACTGTGCTATATTAACCTTAGGATCAAGTGTTTGGTCTCTTATCCTCACACAAGAAGTCATTTCCTAGTTGCATAGCTCTGATTAAGCTGTTCAA________
+V-08 ________________________TAAACCTAACAACAGCTAACTTCCTCTTTCATTTAGAAACTGCTCTTGCTAATTGACGTTAAATATGACACAAGTTTATACCAGTGTGATAGTGGACAATCCACGAAGACACCTGGTGAGTGATTACTTCTCATCGTATTTGTTGGTACGACAGAACTAA___AAATTATCAGTAT________________________________________________ACCATCCTGTAAAGATTCCTGGAAGGTATCTGCTACTTGCACGTTCACATAATGGTAATTCATCATCTAACCTCCTGACATTGAATGCACAACTACGTCGTGTCCTACATTAAAGCTCGAACTTAACTAGATTTATCTTAATCTCAGTTCCTAATAAGTGT______________________TTCATGCTC________________CTGACTCATGTCTAATCGTCCAGATCATTCTTACTCTTCTATTATTTCTGATTTCGTTACACTCTATAAGCTGGTTGTAT________
+V-09 __CTTTGCACGAA___________TTATCTTGTTTCAACCTGTCTTACATATCGTGACACATACAAGGTTTCCAACTGCTACGTTATTACAACATGATAAGCAA________________AGAATCGTTAGTGATGTGCTCAAGTAGGTCCAGTCCATCAGCAGGTATAGCAATCTCATCAAGCACTCGTCTACACCATATTAAGTGAAGTATGGAATCTGATAGTTCAAGGAATGAGTTAAGATGCAATTTATTCTCCAGAAAGACTCGACAATACAGCTTCATCGTCAATCAGTGACTCTTTACTACCTA________________________________________________________________TTGTG___________GATCCTTCGAGACGTTGTCCTGCACACGACCTCTAGGAGGTGAATATCTAACTAATCCAAAGCTAAGTAATTCGTTGATTACGAGCATTAGAGTAGATGACTTGCAGTACATTATCGAGCTGAGTATTTAAGGTACACTGTTGG_TATGAAA
+V-10 CAATGGACAAACTTCTTCGTAACATTAGCACGATGCACCTGAAACTGTCATTATTGTTCAAACCAGGAGCTTACAATGCTGTGCTTTAGTCTAAATCCTAACTCGTTGTTTACCATACAGACAATTCAGTCACGTTGAGTGTCTACCTCGAA________________________________________________________________________________________________TTCTGCAATAGTGTATCACAACACCAGTGATCGTCTCTCGATGGTTGACACCTTACTTGTCGTCCTGAGTCATGGAGGTCCTAGCAGAGCACCACGTACATAGGTTCCTCACTTGAAGAGAACGACCACCAAGCTATCCAACATAAGTTGATAGAAGCAATGATATTACTGGATCTTATCTCCACACAGATG________________TGGACTTCGACTTTCGTCAGATATGAATGAAGGTCATAATTCCAAATTACAGTCGTGAGTTCACACTTAGAATATGTCAG________
+V-11 ________________________CATTCCAGACGAACAACTTTATGAGAGTCCACCTAATTGTGCTGACCAGATTGTTGAATGGATACTCCTTAATTCACAGT________________ACTATCTTTCAATACCTCTTAGCAGCAACGATACGTTTATTAAACAGCAGAATCTACAAGCATTTCTGTGGATTCATGGTGATCTTCCTACAGGTACGATCTCCTATAACCTCATTAACGAAGCAGTCCTGGAGTTACCTATTGTATAAATCGTGTATGACTAATGGTCCTCTGTCTAACCACTTTCCACTA________________________________________________________________________________T_______________AAGACCAAGATGGAACGTGTCATCACGTCTTTAGAACCAATATACTAGCACCTCGTTTCATTGAGACACCAACTCGATCATTTGATGTCCAAGGTCTCTGAGATACAGTATGCTCTATATGGAGACTTCAGCTAAA
+V-12 GAGCATCAATAGACATAACTCT__TGATCCTGTCACAAAGACACAGTGCTCCTACGTCCACGTTACATGGAAGTCAAGATTAGAAAGTTCCACATTTCGACAGCAAGTGGAGTGTTGAGGACACTAGCTCTTCTGTTTGTACTTACACCTATCATAAGAGTATGAGTA______ATGACAATGG________________________________________________________________TCGTTGGTCGAGAACTACATCGTAGAATTGAGTTTAGTGCATAATAGTCTTAGGTTGTTGTCTCGTTCATCTTCAGTACGACTCACAGACTGACCTCACCTTTGGTACAGTTACTTTGAATAATTTAGCAACCAAGGATAGAGAGATTCAGGAATATAGT________________TCTGGTGAC_______C_______________ATACTGGTAACACACCACCTGCAACTTCAACTGGAGCTGGATGTTAAGTCTAGTTTCTTAATGTCAAATCGAAGCTCGTG________
+V-13 ________________________AAACGAACTCCTCTCACGTATAAGTGCTGGTCTGAAAGCTCTGTTCATTTCACCACACTAATTTCTCCTGTGTAGTATCAGTTATATTTAGGACGT______GTAATGATTAT_______________CTTAGAGAATCCTCATCTGCTTGCATTTACTCGAACCTTATGGACGAAGTTAATCTGTCAAGTTCTTAGTAGAAGGAGGACTCGTATTCAGCATCCACTCACTAGAGTTGTAGGTATGTATCCTATCTATTTCGTGAAGCATAACAGTTCAGTGGTAAGA________________________________________________TTCATAGTAAG_____TTGTTTGGACTAACAAGGACAGTCAAAGAGACAGCTATTGGAAGAATTTGTGTCCACAATATGATCTAGCATTCACTGCTCGACTCCAACGTACTCAAACTATAATTGGTGCAGAGGTTTAGATTTCCAGTGTCGATGTCGTAGCTTATTCCACCATTCT________
+V-14 ________________________________________TGATTAGGTAAGCATACCACGTTGCAGACAGTAATGAATAACAACTGTAGAGACACATTGCTGTTAGAGTCAGGTGTGCTGCACCTCTGAAATCACGATCATAGTTCCAATTCTCTCTGCTGAGTGCTCAGTGTCACAGGTAGCTCTATCGAGGAAATTG______TCATCTTGTG________________________________TTGACGTGTAGTCCATATTGAGAACATTTCTTGAAACTCCACCAGATGCTCTGTGCATCAGTTTAACTTAAAGACTTTGATACAGGACCAAGTGATCCAACGATGATATACGAACACACAGTCGAGTACAGAAGTTGGTTTAGCATTATCACCACTAACCATCTAAAGTGTGGAAACGAATCGTCTTCTAAGAATCATGTGAATGTCCTCCAGAGTAGGATTGTTTCTGACAGACTCATTGATGGATGACCACCTACCATAGGACGAGTTGAACGTAATCGA______________
+V-15 ________________________________________________________TTATCTTCACTCATTAGGAGTAGCTTTATCCAAATAGGACCAGTACCACATTACAGCAACTCAAAGTTGACCAATTCAAGGTAAGTTTGATCTGATTCATACAACGATTTCCTGATCCACCAAACCTGCTCAATGTTTAGAGGACTAGCAAGTCTCAGAATTTAGTACGAGTTCATGCAAAGATTGATAATAATGGAGCATAGAACTATTCACGTCGAATCCTAGAAGTTATAGCTGACTAACTGTTGTCAGTCAT_______________CTCTCCAACCTC_____ATGCAGTAGGTTCTGGAAGTGCTCTTTAACGAGCTAAGCAGACCATCTGCACTGTATTACGTCTATCACTGAAGTACAGGTGAGTCCATGTGTATCTACTTTCTCACGAGGTACGTGCTATGTCATTGTTAGAAATACCATGAGATGTGACCTAAGTATGTAGTAA__________________________________
+V-16 ________________________________________________________________________ATACATCAAGTCG___GGTTTGACTAAGATAGACTCTACACTGATATAGATCGTCGTCCACTCCTATGATGATACCTAACTGACGTTTCTTGTCGATAAGTACGAAACTCGAATCTGTGGTGGTATATGAAAGTCAGACTTCTCGATTCCAAGTGTGTACCATAATAAATGGTCAGGTTATCTGAATGTGTTAAGGAAGTGAAACATTACCAAATTGCTAACGAGTGATGCAGGATTTGAGATGCTTTACACGAGAGTTGGACCAGGTACTCATGGATAGTCCAGTATTGTGAGCTAAATAGGTGATTATATTGCACAGGTGTTCTACGTGACCTTTCTGTTATACAGAGTAAACTTCAGGAGCAACCTACCTTCGTCTAGTACAGTAAGCAGTTCAATAAGAATAATGCAACAAC________________________________________________________
+V-17 ________________________________________________________________________________________CACT____________AACAGAACAAGTACCATTGAGGAAGACAGTGAAGGTTTAATTCTGGACCATGCAAGGTGTATGTCGAATATCAGACAACCTGATTTATTGGATTTCGAGATCCTCCTAACGTGCTTGTGGATGATCTTAGAGGTTCTCACATTATGATGGTGACGATACCAGCAGGAGACCAGGAAACTTGGTTCGATGTGTCCTTACTCAGTCAACGTCCATCTGTATTCCAGCTTGAGCTTTGCTAAGGTAGAAGTAGAGTTTACATTTAAGCAATTAGAATGAACTGGTTTCGTCTCAGGATTGCAGCAAGACTCCTCGTCGATAGCAGTGTGTTTATAGTCACGAATCTAACAT________________ACAT________________________________________________________________________
+V-18 ________________________________________________________________________________________________________________________________________CT_________________________ATTAAGTACCTTGGTGC____CAAAGTGCAACGAACGACATGACCTGTCAATAATCAGTCAGAAGGACTTGAATAGGATTAAATTAACTGCAAAGGTTGTAGTGATCTCATACAGTCTGGTAAGTGGTCAGTTTCGACTCTCGACAGTGTCCATGATGAGTATCTTACAGAATGAGCTATATCGAGTCATAAATAGCAACAAGTGAATTGAACATCTCCAATACATTGCATACTTGGACGAGCAG___TACCTGAGTGTGTGAAATTCG________________________________________________________________________________________________________________
+V-19 ____________________________________________________________________________________________________________________________________________________________________________________TCGTATTAC_____________________ACCAATCTTGCTT__________________CAGTTCACGACCAT__________________AACTAAGGTGCTG____________________GAGAATCTCACACG__________________ACGTTTGGAG____________________________________________________________________________________________________________________________________________________________________________________________________
+V-20 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+shape_v_runs
+V-01
+V-02       AACT       AGTAAGCTGCACATTAGAAGT       GATGAAACACAAGGATTTCTACTGTAAA       ACATAGAGATATGCTAATAGGAGCTACACA       GAAGTAGTCAGTGGACTTGTTAAATTCGAT       TACTCAATAACCTTTACGACGACATT       CTTATTCGTCTTTGGTGT       CTGATCC
+V-03       GAACACGAAACACCTAGCTCAGCAATCAACTAGAGGAATGCTGGAAGCTAATCTGAGAAGAGACGTGCAGACCTTCGATCTTGAAGTAGCTGTGGTCTTACTGAACCTAGAGATGCACTGCATGGAATAGTGCTTTGACACTCCTGTCCTAACATAGTTACGATGCTTCGAGGAGATGACGATTGACAAAGAAAGGAACACTCGTGCTCATACCTCCAACACTGTAAGGATCACACATCAACAAGACACGTATTGGTGATGCTATGACGTTCGATATT       TATCTATCGTTT
+V-04       CCAGGATTATG       ACGAGAAAGAGTTCAAATACACCAGCAAGCAACTGATCTAATTTACGAACTAGAATAGATTCACCATTTCTATAACGATCTTACTTTCACTCCATTGTGAAGCTATGTTGTTGGACAAGGAGCAGAACGAAGGACCTTTATGCAAGATGTACTCTAGCAAACGTCTAGGAATTACAATTATTAACGTATGGATTCGTCGAGCTACGTGTGGTCACAGTACCTATCTCAAGTTGTATAGGACTGTCAGCTCTACGACTGCTGTCCTGACCTGCTTCTGATGTGATAACAAAGGATACCAAGAGGAGGTAACCTAGTCCACATACTGAATAAGGTGACATTTATCGAAGAACAC       ATCGTCCTCAG
+V-05       GGAAGTAACACGTCTACCAAGCAGCATGAGGAGACGACACTCTCTGACACCACTGTCAACATCGAGTATTCATCTGAACGAATATGCTCATCACACGATGGTCATGGTTATACTATTGTCTTTCCTAAGCTATACGTCCTGGTGCAAACTCTGTCCAGTTTATCTCATTGTGTAATGCACTTGTAGGATAGGACATAAATTCCTTAGTGAACTAGCTGATTCTATATTGAAGCTCTAACTTGCATCAAGAATTGTTGTTCATAGGTCGTAACCTGTAAGTCGAGACTGTTCCTCGTGGAGCACAACCTCACTCAGTAGTCGTTTGAGAAGGATGATTTGTCGAACACTACAGTACAACTAAATCTCTTCCTGTTTCGATCCATTGATATGACGAGTCTAGCACTGGTTCTTTACCTCTCGTTATCAGA
+V-06       GGTAACC       GACGTGAGCAGACAAGACGAGAAGGTCCAATGTGCTTAGTGGAGGTGGATTTGTGGAAGGAATAGAACAGTAGTACCTCTGTAATCTCGACGTTAGTTGAATCTTACGTTGATAACTCCTTTAATCGTTTATATCGTACATGCTCTCAGCATACACAACTGGTGAAGAAGACTTAG       TAATGAGAC       TGTTGTCCAGCTATGAGTTTGGATGGAGAAACTTATCTAGTGCTATCTTCGAGTGCAGGTTAGGTGCAAGCTGTGTTATTGTAGTTAATAGTGAATACCTTTCCAAGAAAGCTAGACAGGAACCAACCATTTGAGCTGAAATTGACCTCGTATGTAACATGGATCTGAGGATCGTGTTTGTTTCCTATTGAGGTTCAAGAGAATGTATCTGTGACGACAGTTCCAGTCAAGCAATACTATAAGAACGAGCAAATTCA
+V-07       CATCAAAGGTCTACAAATGCTCCTCTGGATATTTATAGGTTGGTATAGAAGGTGAAGTTCAGGACTTTACATAGTGATTGTACCAGA       ACCACATAAGCATGGAGTTGACTATTCTGTGATATGTCTCCTACCTGATAAACAATTTAAGACACTGCACAATGTTAAACGAGTAATCCACTAGCAGTAAGTGACAACCAATGGAAACATCATCGAGCACGTCCTTATTTCGATTGAATTTCTTACACAT       TACA       CTGAAGCAGAAGAACTGTAACTACTAATCTACCATGTCCAGGTGGAGCTTCCTGCAAGAGTCTCGTCAAGACTTGGATCTCACTGTGCTATATTAACCTTAGGATCAAGTGTTTGGTCTCTTATCCTCACACAAGAAGTCATTTCCTAGTTGCATAGCTCTGATTAAGCTGTTCAA
+V-08       TAAACCTAACAACAGCTAACTTCCTCTTTCATTTAGAAACTGCTCTTGCTAATTGACGTTAAATATGACACAAGTTTATACCAGTGTGATAGTGGACAATCCACGAAGACACCTGGTGAGTGATTACTTCTCATCGTATTTGTTGGTACGACAGAACTAA       AAATTATCAGTAT       ACCATCCTGTAAAGATTCCTGGAAGGTATCTGCTACTTGCACGTTCACATAATGGTAATTCATCATCTAACCTCCTGACATTGAATGCACAACTACGTCGTGTCCTACATTAAAGCTCGAACTTAACTAGATTTATCTTAATCTCAGTTCCTAATAAGTGT       TTCATGCTC       CTGACTCATGTCTAATCGTCCAGATCATTCTTACTCTTCTATTATTTCTGATTTCGTTACACTCTATAAGCTGGTTGTAT
+V-09       CTTTGCACGAA       TTATCTTGTTTCAACCTGTCTTACATATCGTGACACATACAAGGTTTCCAACTGCTACGTTATTACAACATGATAAGCAA       AGAATCGTTAGTGATGTGCTCAAGTAGGTCCAGTCCATCAGCAGGTATAGCAATCTCATCAAGCACTCGTCTACACCATATTAAGTGAAGTATGGAATCTGATAGTTCAAGGAATGAGTTAAGATGCAATTTATTCTCCAGAAAGACTCGACAATACAGCTTCATCGTCAATCAGTGACTCTTTACTACCTA       TTGTG       GATCCTTCGAGACGTTGTCCTGCACACGACCTCTAGGAGGTGAATATCTAACTAATCCAAAGCTAAGTAATTCGTTGATTACGAGCATTAGAGTAGATGACTTGCAGTACATTATCGAGCTGAGTATTTAAGGTACACTGTTGG       TATGAAA
+V-10       CAATGGACAAACTTCTTCGTAACATTAGCACGATGCACCTGAAACTGTCATTATTGTTCAAACCAGGAGCTTACAATGCTGTGCTTTAGTCTAAATCCTAACTCGTTGTTTACCATACAGACAATTCAGTCACGTTGAGTGTCTACCTCGAA       TTCTGCAATAGTGTATCACAACACCAGTGATCGTCTCTCGATGGTTGACACCTTACTTGTCGTCCTGAGTCATGGAGGTCCTAGCAGAGCACCACGTACATAGGTTCCTCACTTGAAGAGAACGACCACCAAGCTATCCAACATAAGTTGATAGAAGCAATGATATTACTGGATCTTATCTCCACACAGATG       TGGACTTCGACTTTCGTCAGATATGAATGAAGGTCATAATTCCAAATTACAGTCGTGAGTTCACACTTAGAATATGTCAG
+V-11       CATTCCAGACGAACAACTTTATGAGAGTCCACCTAATTGTGCTGACCAGATTGTTGAATGGATACTCCTTAATTCACAGT       ACTATCTTTCAATACCTCTTAGCAGCAACGATACGTTTATTAAACAGCAGAATCTACAAGCATTTCTGTGGATTCATGGTGATCTTCCTACAGGTACGATCTCCTATAACCTCATTAACGAAGCAGTCCTGGAGTTACCTATTGTATAAATCGTGTATGACTAATGGTCCTCTGTCTAACCACTTTCCACTA       AAGACCAAGATGGAACGTGTCATCACGTCTTTAGAACCAATATACTAGCACCTCGTTTCATTGAGACACCAACTCGATCATTTGATGTCCAAGGTCTCTGAGATACAGTATGCTCTATATGGAGACTTCAGCTAAA
+V-12       GAGCATCAATAGACATAACTCT       TGATCCTGTCACAAAGACACAGTGCTCCTACGTCCACGTTACATGGAAGTCAAGATTAGAAAGTTCCACATTTCGACAGCAAGTGGAGTGTTGAGGACACTAGCTCTTCTGTTTGTACTTACACCTATCATAAGAGTATGAGTA       ATGACAATGG       TCGTTGGTCGAGAACTACATCGTAGAATTGAGTTTAGTGCATAATAGTCTTAGGTTGTTGTCTCGTTCATCTTCAGTACGACTCACAGACTGACCTCACCTTTGGTACAGTTACTTTGAATAATTTAGCAACCAAGGATAGAGAGATTCAGGAATATAGT       TCTGGTGAC       ATACTGGTAACACACCACCTGCAACTTCAACTGGAGCTGGATGTTAAGTCTAGTTTCTTAATGTCAAATCGAAGCTCGTG
+V-13       AAACGAACTCCTCTCACGTATAAGTGCTGGTCTGAAAGCTCTGTTCATTTCACCACACTAATTTCTCCTGTGTAGTATCAGTTATATTTAGGACGT       GTAATGATTAT       CTTAGAGAATCCTCATCTGCTTGCATTTACTCGAACCTTATGGACGAAGTTAATCTGTCAAGTTCTTAGTAGAAGGAGGACTCGTATTCAGCATCCACTCACTAGAGTTGTAGGTATGTATCCTATCTATTTCGTGAAGCATAACAGTTCAGTGGTAAGA       TTCATAGTAAG       TTGTTTGGACTAACAAGGACAGTCAAAGAGACAGCTATTGGAAGAATTTGTGTCCACAATATGATCTAGCATTCACTGCTCGACTCCAACGTACTCAAACTATAATTGGTGCAGAGGTTTAGATTTCCAGTGTCGATGTCGTAGCTTATTCCACCATTCT
+V-14       TGATTAGGTAAGCATACCACGTTGCAGACAGTAATGAATAACAACTGTAGAGACACATTGCTGTTAGAGTCAGGTGTGCTGCACCTCTGAAATCACGATCATAGTTCCAATTCTCTCTGCTGAGTGCTCAGTGTCACAGGTAGCTCTATCGAGGAAATTG       TCATCTTGTG       TTGACGTGTAGTCCATATTGAGAACATTTCTTGAAACTCCACCAGATGCTCTGTGCATCAGTTTAACTTAAAGACTTTGATACAGGACCAAGTGATCCAACGATGATATACGAACACACAGTCGAGTACAGAAGTTGGTTTAGCATTATCACCACTAACCATCTAAAGTGTGGAAACGAATCGTCTTCTAAGAATCATGTGAATGTCCTCCAGAGTAGGATTGTTTCTGACAGACTCATTGATGGATGACCACCTACCATAGGACGAGTTGAACGTAATCGA
+V-15       TTATCTTCACTCATTAGGAGTAGCTTTATCCAAATAGGACCAGTACCACATTACAGCAACTCAAAGTTGACCAATTCAAGGTAAGTTTGATCTGATTCATACAACGATTTCCTGATCCACCAAACCTGCTCAATGTTTAGAGGACTAGCAAGTCTCAGAATTTAGTACGAGTTCATGCAAAGATTGATAATAATGGAGCATAGAACTATTCACGTCGAATCCTAGAAGTTATAGCTGACTAACTGTTGTCAGTCAT       CTCTCCAACCTC       ATGCAGTAGGTTCTGGAAGTGCTCTTTAACGAGCTAAGCAGACCATCTGCACTGTATTACGTCTATCACTGAAGTACAGGTGAGTCCATGTGTATCTACTTTCTCACGAGGTACGTGCTATGTCATTGTTAGAAATACCATGAGATGTGACCTAAGTATGTAGTAA
+V-16       ATACATCAAGTCG       GGTTTGACTAAGATAGACTCTACACTGATATAGATCGTCGTCCACTCCTATGATGATACCTAACTGACGTTTCTTGTCGATAAGTACGAAACTCGAATCTGTGGTGGTATATGAAAGTCAGACTTCTCGATTCCAAGTGTGTACCATAATAAATGGTCAGGTTATCTGAATGTGTTAAGGAAGTGAAACATTACCAAATTGCTAACGAGTGATGCAGGATTTGAGATGCTTTACACGAGAGTTGGACCAGGTACTCATGGATAGTCCAGTATTGTGAGCTAAATAGGTGATTATATTGCACAGGTGTTCTACGTGACCTTTCTGTTATACAGAGTAAACTTCAGGAGCAACCTACCTTCGTCTAGTACAGTAAGCAGTTCAATAAGAATAATGCAACAAC
+V-17       CACT       AACAGAACAAGTACCATTGAGGAAGACAGTGAAGGTTTAATTCTGGACCATGCAAGGTGTATGTCGAATATCAGACAACCTGATTTATTGGATTTCGAGATCCTCCTAACGTGCTTGTGGATGATCTTAGAGGTTCTCACATTATGATGGTGACGATACCAGCAGGAGACCAGGAAACTTGGTTCGATGTGTCCTTACTCAGTCAACGTCCATCTGTATTCCAGCTTGAGCTTTGCTAAGGTAGAAGTAGAGTTTACATTTAAGCAATTAGAATGAACTGGTTTCGTCTCAGGATTGCAGCAAGACTCCTCGTCGATAGCAGTGTGTTTATAGTCACGAATCTAACAT       ACAT
+V-18       CT       ATTAAGTACCTTGGTGC       CAAAGTGCAACGAACGACATGACCTGTCAATAATCAGTCAGAAGGACTTGAATAGGATTAAATTAACTGCAAAGGTTGTAGTGATCTCATACAGTCTGGTAAGTGGTCAGTTTCGACTCTCGACAGTGTCCATGATGAGTATCTTACAGAATGAGCTATATCGAGTCATAAATAGCAACAAGTGAATTGAACATCTCCAATACATTGCATACTTGGACGAGCAG       TACCTGAGTGTGTGAAATTCG
+V-19       TCGTATTAC       ACCAATCTTGCTT       CAGTTCACGACCAT       AACTAAGGTGCTG       GAGAATCTCACACG       ACGTTTGGAG
+V-20
+
+
+Primers for V-01
+
+
+
+
+Primers for V-02
+
+
+
+		AACT
+
+		AGTAAGCTGCACATTAGAAGT
+
+		GATGAAACACAAGGATTTCTACTGTAAA
+
+		ACATAGAGATATGCTAATAGGAGCTACACA
+
+		GAAGTAGTCAGTGGACTTGTTAAATTCGAT
+
+		TACTCAATAACCTTTACGACGACATT
+
+		CTTATTCGTCTTTGGTGT
+
+		CTGATCC
+
+
+Primers for V-03
+
+
+		                                                                                                                                                                                                                                                      3-GTGCATAACCACTACGATACTGCAAGCTATAA-5
+		5-GAACACGAAACACCTAGCTCAGCAATCAACTAGAGGAATGCTGGAAGCTAATCTGAGAAGAGACGTGCAGACCTTCGATCTTGAAGTAGCTGTGGTCTTACTGAACCTAGAGATGCACTGCATGGAATAGTGCTTTGACACTCCTGTCCTAACATAGTTACGATGCTTCGAGGAGATGACGATTGACAAAGAAAGGAACACTCGTGCTCATACCTCCAACACTGTAAGGATCACACATCAACAAGACACGTATTGGTGATGCTATGACGTTCGATATT-3
+		3-cttgtgctttgtggatcgagtcgttagttgatctccttacgaccttcgattagactcttctctgcacgtctggaagctagaacttcatcgacaccagaatgacttggatctctacgtgacgtaccttatcacgaaactgtgaggacaggattgtatcaatgctacgaagctcctctactgctaactgtttctttccttgtgagcacgagtatggaggttgtgacattcctagtgtgtagttgttctgtgcataaccactacgatactgcaagctataa-5
+		5-GAACACGAAACACCTAGCTCAGCAATCAACTA-3
+
+		TATCTATCGTTT
+
+
+Primers for V-04
+
+
+
+		CCAGGATTATG
+		                                                                                                                                                                                                                                                                                                                                3-ATGACTTATTCCACTGTAAATAGCTTCTTGTG-5
+		5-ACGAGAAAGAGTTCAAATACACCAGCAAGCAACTGATCTAATTTACGAACTAGAATAGATTCACCATTTCTATAACGATCTTACTTTCACTCCATTGTGAAGCTATGTTGTTGGACAAGGAGCAGAACGAAGGACCTTTATGCAAGATGTACTCTAGCAAACGTCTAGGAATTACAATTATTAACGTATGGATTCGTCGAGCTACGTGTGGTCACAGTACCTATCTCAAGTTGTATAGGACTGTCAGCTCTACGACTGCTGTCCTGACCTGCTTCTGATGTGATAACAAAGGATACCAAGAGGAGGTAACCTAGTCCACATACTGAATAAGGTGACATTTATCGAAGAACAC-3
+		3-tgctctttctcaagtttatgtggtcgttcgttgactagattaaatgcttgatcttatctaagtggtaaagatattgctagaatgaaagtgaggtaacacttcgatacaacaacctgttcctcgtcttgcttcctggaaatacgttctacatgagatcgtttgcagatccttaatgttaataattgcatacctaagcagctcgatgcacaccagtgtcatggatagagttcaacatatcctgacagtcgagatgctgacgacaggactggacgaagactacactattgtttcctatggttctcctccattggatcaggtgtatgacttattccactgtaaatagcttcttgtg-5
+		5-ACGAGAAAGAGTTCAAATACACCAGCAAGCAA-3
+
+		ATCGTCCTCAG
+
+
+Primers for V-05
+
+
+		                                                                                                                                                                                                                                                                                                                                                                                                            3-GATCGTGACCAAGAAATGGAGAGCAATAGTCT-5
+		5-GGAAGTAACACGTCTACCAAGCAGCATGAGGAGACGACACTCTCTGACACCACTGTCAACATCGAGTATTCATCTGAACGAATATGCTCATCACACGATGGTCATGGTTATACTATTGTCTTTCCTAAGCTATACGTCCTGGTGCAAACTCTGTCCAGTTTATCTCATTGTGTAATGCACTTGTAGGATAGGACATAAATTCCTTAGTGAACTAGCTGATTCTATATTGAAGCTCTAACTTGCATCAAGAATTGTTGTTCATAGGTCGTAACCTGTAAGTCGAGACTGTTCCTCGTGGAGCACAACCTCACTCAGTAGTCGTTTGAGAAGGATGATTTGTCGAACACTACAGTACAACTAAATCTCTTCCTGTTTCGATCCATTGATATGACGAGTCTAGCACTGGTTCTTTACCTCTCGTTATCAGA-3
+		3-ccttcattgtgcagatggttcgtcgtactcctctgctgtgagagactgtggtgacagttgtagctcataagtagacttgcttatacgagtagtgtgctaccagtaccaatatgataacagaaaggattcgatatgcaggaccacgtttgagacaggtcaaatagagtaacacattacgtgaacatcctatcctgtatttaaggaatcacttgatcgactaagatataacttcgagattgaacgtagttcttaacaacaagtatccagcattggacattcagctctgacaaggagcacctcgtgttggagtgagtcatcagcaaactcttcctactaaacagcttgtgatgtcatgttgatttagagaaggacaaagctaggtaactatactgctcagatcgtgaccaagaaatggagagcaatagtct-5
+		5-GGAAGTAACACGTCTACCAAGCAGCATGAGGA-3
+
+
+Primers for V-06
+
+
+
+		GGTAACC
+		                                                                                                                                                3-GAGTCGTATGTGTTGACCACTTCTTCTGAATC-5
+		5-GACGTGAGCAGACAAGACGAGAAGGTCCAATGTGCTTAGTGGAGGTGGATTTGTGGAAGGAATAGAACAGTAGTACCTCTGTAATCTCGACGTTAGTTGAATCTTACGTTGATAACTCCTTTAATCGTTTATATCGTACATGCTCTCAGCATACACAACTGGTGAAGAAGACTTAG-3
+		3-ctgcactcgtctgttctgctcttccaggttacacgaatcacctccacctaaacaccttccttatcttgtcatcatggagacattagagctgcaatcaacttagaatgcaactattgaggaaattagcaaatatagcatgtacgagagtcgtatgtgttgaccacttcttctgaatc-5
+		5-GACGTGAGCAGACAAGACGAGAAGGTCCAATG-3
+
+		TAATGAGAC
+		                                                                                                                                                                                                                                 3-CAGTTCGTTATGATATTCTTGCTCGTTTAAGT-5
+		5-TGTTGTCCAGCTATGAGTTTGGATGGAGAAACTTATCTAGTGCTATCTTCGAGTGCAGGTTAGGTGCAAGCTGTGTTATTGTAGTTAATAGTGAATACCTTTCCAAGAAAGCTAGACAGGAACCAACCATTTGAGCTGAAATTGACCTCGTATGTAACATGGATCTGAGGATCGTGTTTGTTTCCTATTGAGGTTCAAGAGAATGTATCTGTGACGACAGTTCCAGTCAAGCAATACTATAAGAACGAGCAAATTCA-3
+		3-acaacaggtcgatactcaaacctacctctttgaatagatcacgatagaagctcacgtccaatccacgttcgacacaataacatcaattatcacttatggaaaggttctttcgatctgtccttggttggtaaactcgactttaactggagcatacattgtacctagactcctagcacaaacaaaggataactccaagttctcttacatagacactgctgtcaaggtcagttcgttatgatattcttgctcgtttaagt-5
+		5-TGTTGTCCAGCTATGAGTTTGGATGGAGAAAC-3
+
+
+Primers for V-07
+
+
+		                                                       3-TCAAGTCCTGAAATGTATCACTAACATGGTCT-5
+		5-CATCAAAGGTCTACAAATGCTCCTCTGGATATTTATAGGTTGGTATAGAAGGTGAAGTTCAGGACTTTACATAGTGATTGTACCAGA-3
+		3-gtagtttccagatgtttacgaggagacctataaatatccaaccatatcttccacttcaagtcctgaaatgtatcactaacatggtct-5
+		5-CATCAAAGGTCTACAAATGCTCCTCTGGATAT-3
+		                                                                                                                                3-TGCAGGAATAAAGCTAACTTAAAGAATGTGTA-5
+		5-ACCACATAAGCATGGAGTTGACTATTCTGTGATATGTCTCCTACCTGATAAACAATTTAAGACACTGCACAATGTTAAACGAGTAATCCACTAGCAGTAAGTGACAACCAATGGAAACATCATCGAGCACGTCCTTATTTCGATTGAATTTCTTACACAT-3
+		3-tggtgtattcgtacctcaactgataagacactatacagaggatggactatttgttaaattctgtgacgtgttacaatttgctcattaggtgatcgtcattcactgttggttacctttgtagtagctcgtgcaggaataaagctaacttaaagaatgtgta-5
+		5-ACCACATAAGCATGGAGTTGACTATTCTGTGA-3
+
+		TACA
+		                                                                                                                                                3-GGATCAACGTATCGAGACTAATTCGACAAGTT-5
+		5-CTGAAGCAGAAGAACTGTAACTACTAATCTACCATGTCCAGGTGGAGCTTCCTGCAAGAGTCTCGTCAAGACTTGGATCTCACTGTGCTATATTAACCTTAGGATCAAGTGTTTGGTCTCTTATCCTCACACAAGAAGTCATTTCCTAGTTGCATAGCTCTGATTAAGCTGTTCAA-3
+		3-gacttcgtcttcttgacattgatgattagatggtacaggtccacctcgaaggacgttctcagagcagttctgaacctagagtgacacgatataattggaatcctagttcacaaaccagagaataggagtgtgttcttcagtaaaggatcaacgtatcgagactaattcgacaagtt-5
+		5-CTGAAGCAGAAGAACTGTAACTACTAATCTAC-3
+
+
+Primers for V-08
+
+
+		                                                                                                                                3-AGAGTAGCATAAACAACCATGCTGTCTTGATT-5
+		5-TAAACCTAACAACAGCTAACTTCCTCTTTCATTTAGAAACTGCTCTTGCTAATTGACGTTAAATATGACACAAGTTTATACCAGTGTGATAGTGGACAATCCACGAAGACACCTGGTGAGTGATTACTTCTCATCGTATTTGTTGGTACGACAGAACTAA-3
+		3-atttggattgttgtcgattgaaggagaaagtaaatctttgacgagaacgattaactgcaatttatactgtgttcaaatatggtcacactatcacctgttaggtgcttctgtggaccactcactaatgaagagtagcataaacaaccatgctgtcttgatt-5
+		5-TAAACCTAACAACAGCTAACTTCCTCTTTCAT-3
+
+		AAATTATCAGTAT
+		                                                                                                                                 3-CTAAATAGAATTAGAGTCAAGGATTATTCACA-5
+		5-ACCATCCTGTAAAGATTCCTGGAAGGTATCTGCTACTTGCACGTTCACATAATGGTAATTCATCATCTAACCTCCTGACATTGAATGCACAACTACGTCGTGTCCTACATTAAAGCTCGAACTTAACTAGATTTATCTTAATCTCAGTTCCTAATAAGTGT-3
+		3-tggtaggacatttctaaggaccttccatagacgatgaacgtgcaagtgtattaccattaagtagtagattggaggactgtaacttacgtgttgatgcagcacaggatgtaatttcgagcttgaattgatctaaatagaattagagtcaaggattattcaca-5
+		5-ACCATCCTGTAAAGATTCCTGGAAGGTATCTG-3
+
+		TTCATGCTC
+		                                                3-ACTAAAGCAATGTGAGATATTCGACCAACATA-5
+		5-CTGACTCATGTCTAATCGTCCAGATCATTCTTACTCTTCTATTATTTCTGATTTCGTTACACTCTATAAGCTGGTTGTAT-3
+		3-gactgagtacagattagcaggtctagtaagaatgagaagataataaagactaaagcaatgtgagatattcgaccaacata-5
+		5-CTGACTCATGTCTAATCGTCCAGATCATTCTT-3
+
+
+Primers for V-09
+
+
+
+		CTTTGCACGAA
+		                                                3-GTTGACGATGCAATAATGTTGTACTATTCGTT-5
+		5-TTATCTTGTTTCAACCTGTCTTACATATCGTGACACATACAAGGTTTCCAACTGCTACGTTATTACAACATGATAAGCAA-3
+		3-aatagaacaaagttggacagaatgtatagcactgtgtatgttccaaaggttgacgatgcaataatgttgtactattcgtt-5
+		5-TTATCTTGTTTCAACCTGTCTTACATATCGTG-3
+		                                                                                                                                                                3-AAGTAGCAGTTAGTCACTGAGAAATGATGGAT-5
+		5-AGAATCGTTAGTGATGTGCTCAAGTAGGTCCAGTCCATCAGCAGGTATAGCAATCTCATCAAGCACTCGTCTACACCATATTAAGTGAAGTATGGAATCTGATAGTTCAAGGAATGAGTTAAGATGCAATTTATTCTCCAGAAAGACTCGACAATACAGCTTCATCGTCAATCAGTGACTCTTTACTACCTA-3
+		3-tcttagcaatcactacacgagttcatccaggtcaggtagtcgtccatatcgttagagtagttcgtgagcagatgtggtataattcacttcataccttagactatcaagttccttactcaattctacgttaaataagaggtctttctgagctgttatgtcgaagtagcagttagtcactgagaaatgatggat-5
+		5-AGAATCGTTAGTGATGTGCTCAAGTAGGTCCA-3
+
+		TTGTG
+		                                                                                                                3-ATAGCTCGACTCATAAATTCCATGTGACAACC-5
+		5-GATCCTTCGAGACGTTGTCCTGCACACGACCTCTAGGAGGTGAATATCTAACTAATCCAAAGCTAAGTAATTCGTTGATTACGAGCATTAGAGTAGATGACTTGCAGTACATTATCGAGCTGAGTATTTAAGGTACACTGTTGG-3
+		3-ctaggaagctctgcaacaggacgtgtgctggagatcctccacttatagattgattaggtttcgattcattaagcaactaatgctcgtaatctcatctactgaacgtcatgtaatagctcgactcataaattccatgtgacaacc-5
+		5-GATCCTTCGAGACGTTGTCCTGCACACGACCT-3
+
+		TATGAAA
+
+
+Primers for V-10
+
+
+		                                                                                                                        3-TGTTAAGTCAGTGCAACTCACAGATGGAGCTT-5
+		5-CAATGGACAAACTTCTTCGTAACATTAGCACGATGCACCTGAAACTGTCATTATTGTTCAAACCAGGAGCTTACAATGCTGTGCTTTAGTCTAAATCCTAACTCGTTGTTTACCATACAGACAATTCAGTCACGTTGAGTGTCTACCTCGAA-3
+		3-gttacctgtttgaagaagcattgtaatcgtgctacgtggactttgacagtaataacaagtttggtcctcgaatgttacgacacgaaatcagatttaggattgagcaacaaatggtatgtctgttaagtcagtgcaactcacagatggagctt-5
+		5-CAATGGACAAACTTCTTCGTAACATTAGCACG-3
+		                                                                                                                                                                3-ACTATAATGACCTAGAATAGAGGTGTGTCTAC-5
+		5-TTCTGCAATAGTGTATCACAACACCAGTGATCGTCTCTCGATGGTTGACACCTTACTTGTCGTCCTGAGTCATGGAGGTCCTAGCAGAGCACCACGTACATAGGTTCCTCACTTGAAGAGAACGACCACCAAGCTATCCAACATAAGTTGATAGAAGCAATGATATTACTGGATCTTATCTCCACACAGATG-3
+		3-aagacgttatcacatagtgttgtggtcactagcagagagctaccaactgtggaatgaacagcaggactcagtacctccaggatcgtctcgtggtgcatgtatccaaggagtgaacttctcttgctggtggttcgataggttgtattcaactatcttcgttactataatgacctagaatagaggtgtgtctac-5
+		5-TTCTGCAATAGTGTATCACAACACCAGTGATC-3
+		                                                3-TGTCAGCACTCAAGTGTGAATCTTATACAGTC-5
+		5-TGGACTTCGACTTTCGTCAGATATGAATGAAGGTCATAATTCCAAATTACAGTCGTGAGTTCACACTTAGAATATGTCAG-3
+		3-acctgaagctgaaagcagtctatacttacttccagtattaaggtttaatgtcagcactcaagtgtgaatcttatacagtc-5
+		5-TGGACTTCGACTTTCGTCAGATATGAATGAAG-3
+
+
+Primers for V-11
+
+
+		                                                3-CTAACAACTTACCTATGAGGAATTAAGTGTCA-5
+		5-CATTCCAGACGAACAACTTTATGAGAGTCCACCTAATTGTGCTGACCAGATTGTTGAATGGATACTCCTTAATTCACAGT-3
+		3-gtaaggtctgcttgttgaaatactctcaggtggattaacacgactggtctaacaacttacctatgaggaattaagtgtca-5
+		5-CATTCCAGACGAACAACTTTATGAGAGTCCAC-3
+		                                                                                                                                                                3-GATTACCAGGAGACAGATTGGTGAAAGGTGAT-5
+		5-ACTATCTTTCAATACCTCTTAGCAGCAACGATACGTTTATTAAACAGCAGAATCTACAAGCATTTCTGTGGATTCATGGTGATCTTCCTACAGGTACGATCTCCTATAACCTCATTAACGAAGCAGTCCTGGAGTTACCTATTGTATAAATCGTGTATGACTAATGGTCCTCTGTCTAACCACTTTCCACTA-3
+		3-tgatagaaagttatggagaatcgtcgttgctatgcaaataatttgtcgtcttagatgttcgtaaagacacctaagtaccactagaaggatgtccatgctagaggatattggagtaattgcttcgtcaggacctcaatggataacatatttagcacatactgattaccaggagacagattggtgaaaggtgat-5
+		5-ACTATCTTTCAATACCTCTTAGCAGCAACGAT-3
+		                                                                                                        3-TGTCATACGAGATATACCTCTGAAGTCGATTT-5
+		5-AAGACCAAGATGGAACGTGTCATCACGTCTTTAGAACCAATATACTAGCACCTCGTTTCATTGAGACACCAACTCGATCATTTGATGTCCAAGGTCTCTGAGATACAGTATGCTCTATATGGAGACTTCAGCTAAA-3
+		3-ttctggttctaccttgcacagtagtgcagaaatcttggttatatgatcgtggagcaaagtaactctgtggttgagctagtaaactacaggttccagagactctatgtcatacgagatatacctctgaagtcgattt-5
+		5-AAGACCAAGATGGAACGTGTCATCACGTCTTT-3
+
+
+Primers for V-12
+
+
+
+		GAGCATCAATAGACATAACTCT
+		                                                                                                                3-AACATGAATGTGGATAGTATTCTCATACTCAT-5
+		5-TGATCCTGTCACAAAGACACAGTGCTCCTACGTCCACGTTACATGGAAGTCAAGATTAGAAAGTTCCACATTTCGACAGCAAGTGGAGTGTTGAGGACACTAGCTCTTCTGTTTGTACTTACACCTATCATAAGAGTATGAGTA-3
+		3-actaggacagtgtttctgtgtcacgaggatgcaggtgcaatgtaccttcagttctaatctttcaaggtgtaaagctgtcgttcacctcacaactcctgtgatcgagaagacaaacatgaatgtggatagtattctcatactcat-5
+		5-TGATCCTGTCACAAAGACACAGTGCTCCTACG-3
+
+		ATGACAATGG
+		                                                                                                                                3-GTTGGTTCCTATCTCTCTAAGTCCTTATATCA-5
+		5-TCGTTGGTCGAGAACTACATCGTAGAATTGAGTTTAGTGCATAATAGTCTTAGGTTGTTGTCTCGTTCATCTTCAGTACGACTCACAGACTGACCTCACCTTTGGTACAGTTACTTTGAATAATTTAGCAACCAAGGATAGAGAGATTCAGGAATATAGT-3
+		3-agcaaccagctcttgatgtagcatcttaactcaaatcacgtattatcagaatccaacaacagagcaagtagaagtcatgctgagtgtctgactggagtggaaaccatgtcaatgaaacttattaaatcgttggttcctatctctctaagtccttatatca-5
+		5-TCGTTGGTCGAGAACTACATCGTAGAATTGAG-3
+
+		TCTGGTGAC
+		                                                3-AGATCAAAGAATTACAGTTTAGCTTCGAGCAC-5
+		5-ATACTGGTAACACACCACCTGCAACTTCAACTGGAGCTGGATGTTAAGTCTAGTTTCTTAATGTCAAATCGAAGCTCGTG-3
+		3-tatgaccattgtgtggtggacgttgaagttgacctcgacctacaattcagatcaaagaattacagtttagcttcgagcac-5
+		5-ATACTGGTAACACACCACCTGCAACTTCAACT-3
+
+
+Primers for V-13
+
+
+		                                                                3-GAGGACACATCATAGTCAATATAAATCCTGCA-5
+		5-AAACGAACTCCTCTCACGTATAAGTGCTGGTCTGAAAGCTCTGTTCATTTCACCACACTAATTTCTCCTGTGTAGTATCAGTTATATTTAGGACGT-3
+		3-tttgcttgaggagagtgcatattcacgaccagactttcgagacaagtaaagtggtgtgattaaagaggacacatcatagtcaatataaatcctgca-5
+		5-AAACGAACTCCTCTCACGTATAAGTGCTGGTC-3
+
+		GTAATGATTAT
+		                                                                                                                                3-TAAAGCACTTCGTATTGTCAAGTCACCATTCT-5
+		5-CTTAGAGAATCCTCATCTGCTTGCATTTACTCGAACCTTATGGACGAAGTTAATCTGTCAAGTTCTTAGTAGAAGGAGGACTCGTATTCAGCATCCACTCACTAGAGTTGTAGGTATGTATCCTATCTATTTCGTGAAGCATAACAGTTCAGTGGTAAGA-3
+		3-gaatctcttaggagtagacgaacgtaaatgagcttggaatacctgcttcaattagacagttcaagaatcatcttcctcctgagcataagtcgtaggtgagtgatctcaacatccatacataggatagataaagcacttcgtattgtcaagtcaccattct-5
+		5-CTTAGAGAATCCTCATCTGCTTGCATTTACTC-3
+
+		TTCATAGTAAG
+		                                                                                                                                3-TCACAGCTACAGCATCGAATAAGGTGGTAAGA-5
+		5-TTGTTTGGACTAACAAGGACAGTCAAAGAGACAGCTATTGGAAGAATTTGTGTCCACAATATGATCTAGCATTCACTGCTCGACTCCAACGTACTCAAACTATAATTGGTGCAGAGGTTTAGATTTCCAGTGTCGATGTCGTAGCTTATTCCACCATTCT-3
+		3-aacaaacctgattgttcctgtcagtttctctgtcgataaccttcttaaacacaggtgttatactagatcgtaagtgacgagctgaggttgcatgagtttgatattaaccacgtctccaaatctaaaggtcacagctacagcatcgaataaggtggtaaga-5
+		5-TTGTTTGGACTAACAAGGACAGTCAAAGAGAC-3
+
+
+Primers for V-14
+
+
+		                                                                                                                                3-GTCACAGTGTCCATCGAGATAGCTCCTTTAAC-5
+		5-TGATTAGGTAAGCATACCACGTTGCAGACAGTAATGAATAACAACTGTAGAGACACATTGCTGTTAGAGTCAGGTGTGCTGCACCTCTGAAATCACGATCATAGTTCCAATTCTCTCTGCTGAGTGCTCAGTGTCACAGGTAGCTCTATCGAGGAAATTG-3
+		3-actaatccattcgtatggtgcaacgtctgtcattacttattgttgacatctctgtgtaacgacaatctcagtccacacgacgtggagactttagtgctagtatcaaggttaagagagacgactcacgagtcacagtgtccatcgagatagctcctttaac-5
+		5-TGATTAGGTAAGCATACCACGTTGCAGACAGT-3
+
+		TCATCTTGTG
+		                                                                                                                                                                                                                                                          3-GTGGATGGTATCCTGCTCAACTTGCATTAGCT-5
+		5-TTGACGTGTAGTCCATATTGAGAACATTTCTTGAAACTCCACCAGATGCTCTGTGCATCAGTTTAACTTAAAGACTTTGATACAGGACCAAGTGATCCAACGATGATATACGAACACACAGTCGAGTACAGAAGTTGGTTTAGCATTATCACCACTAACCATCTAAAGTGTGGAAACGAATCGTCTTCTAAGAATCATGTGAATGTCCTCCAGAGTAGGATTGTTTCTGACAGACTCATTGATGGATGACCACCTACCATAGGACGAGTTGAACGTAATCGA-3
+		3-aactgcacatcaggtataactcttgtaaagaactttgaggtggtctacgagacacgtagtcaaattgaatttctgaaactatgtcctggttcactaggttgctactatatgcttgtgtgtcagctcatgtcttcaaccaaatcgtaatagtggtgattggtagatttcacacctttgcttagcagaagattcttagtacacttacaggaggtctcatcctaacaaagactgtctgagtaactacctactggtggatggtatcctgctcaacttgcattagct-5
+		5-TTGACGTGTAGTCCATATTGAGAACATTTCTT-3
+
+
+Primers for V-15
+
+
+		                                                                                                                                                                                                                                3-CTTCAATATCGACTGATTGACAACAGTCAGTA-5
+		5-TTATCTTCACTCATTAGGAGTAGCTTTATCCAAATAGGACCAGTACCACATTACAGCAACTCAAAGTTGACCAATTCAAGGTAAGTTTGATCTGATTCATACAACGATTTCCTGATCCACCAAACCTGCTCAATGTTTAGAGGACTAGCAAGTCTCAGAATTTAGTACGAGTTCATGCAAAGATTGATAATAATGGAGCATAGAACTATTCACGTCGAATCCTAGAAGTTATAGCTGACTAACTGTTGTCAGTCAT-3
+		3-aatagaagtgagtaatcctcatcgaaataggtttatcctggtcatggtgtaatgtcgttgagtttcaactggttaagttccattcaaactagactaagtatgttgctaaaggactaggtggtttggacgagttacaaatctcctgatcgttcagagtcttaaatcatgctcaagtacgtttctaactattattacctcgtatcttgataagtgcagcttaggatcttcaatatcgactgattgacaacagtcagta-5
+		5-TTATCTTCACTCATTAGGAGTAGCTTTATCCA-3
+
+		CTCTCCAACCTC
+		                                                                                                                                      3-TATGGTACTCTACACTGGATTCATACATCATT-5
+		5-ATGCAGTAGGTTCTGGAAGTGCTCTTTAACGAGCTAAGCAGACCATCTGCACTGTATTACGTCTATCACTGAAGTACAGGTGAGTCCATGTGTATCTACTTTCTCACGAGGTACGTGCTATGTCATTGTTAGAAATACCATGAGATGTGACCTAAGTATGTAGTAA-3
+		3-tacgtcatccaagaccttcacgagaaattgctcgattcgtctggtagacgtgacataatgcagatagtgacttcatgtccactcaggtacacatagatgaaagagtgctccatgcacgatacagtaacaatctttatggtactctacactggattcatacatcatt-5
+		5-ATGCAGTAGGTTCTGGAAGTGCTCTTTAACGA-3
+
+
+Primers for V-16
+
+
+
+		ATACATCAAGTCG
+		                                                                                                                                                                                                                                                                                                                                                                                3-TCATTCGTCAAGTTATTCTTATTACGTTGTTG-5
+		5-GGTTTGACTAAGATAGACTCTACACTGATATAGATCGTCGTCCACTCCTATGATGATACCTAACTGACGTTTCTTGTCGATAAGTACGAAACTCGAATCTGTGGTGGTATATGAAAGTCAGACTTCTCGATTCCAAGTGTGTACCATAATAAATGGTCAGGTTATCTGAATGTGTTAAGGAAGTGAAACATTACCAAATTGCTAACGAGTGATGCAGGATTTGAGATGCTTTACACGAGAGTTGGACCAGGTACTCATGGATAGTCCAGTATTGTGAGCTAAATAGGTGATTATATTGCACAGGTGTTCTACGTGACCTTTCTGTTATACAGAGTAAACTTCAGGAGCAACCTACCTTCGTCTAGTACAGTAAGCAGTTCAATAAGAATAATGCAACAAC-3
+		3-ccaaactgattctatctgagatgtgactatatctagcagcaggtgaggatactactatggattgactgcaaagaacagctattcatgctttgagcttagacaccaccatatactttcagtctgaagagctaaggttcacacatggtattatttaccagtccaatagacttacacaattccttcactttgtaatggtttaacgattgctcactacgtcctaaactctacgaaatgtgctctcaacctggtccatgagtacctatcaggtcataacactcgatttatccactaatataacgtgtccacaagatgcactggaaagacaatatgtctcatttgaagtcctcgttggatggaagcagatcatgtcattcgtcaagttattcttattacgttgttg-5
+		5-GGTTTGACTAAGATAGACTCTACACTGATATA-3
+
+
+Primers for V-17
+
+
+
+		CACT
+		                                                                                                                                                                                                                                                                                                                            3-ATCGTCACACAAATATCAGTGCTTAGATTGTA-5
+		5-AACAGAACAAGTACCATTGAGGAAGACAGTGAAGGTTTAATTCTGGACCATGCAAGGTGTATGTCGAATATCAGACAACCTGATTTATTGGATTTCGAGATCCTCCTAACGTGCTTGTGGATGATCTTAGAGGTTCTCACATTATGATGGTGACGATACCAGCAGGAGACCAGGAAACTTGGTTCGATGTGTCCTTACTCAGTCAACGTCCATCTGTATTCCAGCTTGAGCTTTGCTAAGGTAGAAGTAGAGTTTACATTTAAGCAATTAGAATGAACTGGTTTCGTCTCAGGATTGCAGCAAGACTCCTCGTCGATAGCAGTGTGTTTATAGTCACGAATCTAACAT-3
+		3-ttgtcttgttcatggtaactccttctgtcacttccaaattaagacctggtacgttccacatacagcttatagtctgttggactaaataacctaaagctctaggaggattgcacgaacacctactagaatctccaagagtgtaatactaccactgctatggtcgtcctctggtcctttgaaccaagctacacaggaatgagtcagttgcaggtagacataaggtcgaactcgaaacgattccatcttcatctcaaatgtaaattcgttaatcttacttgaccaaagcagagtcctaacgtcgttctgaggagcagctatcgtcacacaaatatcagtgcttagattgta-5
+		5-AACAGAACAAGTACCATTGAGGAAGACAGTGA-3
+
+		ACAT
+
+
+Primers for V-18
+
+
+
+		CT
+
+		ATTAAGTACCTTGGTGC
+		                                                                                                                                                                                                3-TAGAGGTTATGTAACGTATGAACCTGCTCGTC-5
+		5-CAAAGTGCAACGAACGACATGACCTGTCAATAATCAGTCAGAAGGACTTGAATAGGATTAAATTAACTGCAAAGGTTGTAGTGATCTCATACAGTCTGGTAAGTGGTCAGTTTCGACTCTCGACAGTGTCCATGATGAGTATCTTACAGAATGAGCTATATCGAGTCATAAATAGCAACAAGTGAATTGAACATCTCCAATACATTGCATACTTGGACGAGCAG-3
+		3-gtttcacgttgcttgctgtactggacagttattagtcagtcttcctgaacttatcctaatttaattgacgtttccaacatcactagagtatgtcagaccattcaccagtcaaagctgagagctgtcacaggtactactcatagaatgtcttactcgatatagctcagtatttatcgttgttcacttaacttgtagaggttatgtaacgtatgaacctgctcgtc-5
+		5-CAAAGTGCAACGAACGACATGACCTGTCAATA-3
+
+		TACCTGAGTGTGTGAAATTCG
+
+
+Primers for V-19
+
+
+
+		TCGTATTAC
+
+		ACCAATCTTGCTT
+
+		CAGTTCACGACCAT
+
+		AACTAAGGTGCTG
+
+		GAGAATCTCACACG
+
+		ACGTTTGGAG
+
+
+Primers for V-20
+
+
+
+
+
+Vertical Primers in a list
+
+
+V-03-F-00    GAACACGAAACACCTAGCTCAGCAATCAACTA *don't order for template
+V-03-B-00    AATATCGAACGTCATAGCATCACCAATACGTG
+V-04-F-01    ACGAGAAAGAGTTCAAATACACCAGCAAGCAA *don't order for template
+V-04-B-01    GTGTTCTTCGATAAATGTCACCTTATTCAGTA
+V-05-F-00    GGAAGTAACACGTCTACCAAGCAGCATGAGGA *don't order for template
+V-05-B-00    TCTGATAACGAGAGGTAAAGAACCAGTGCTAG
+V-06-F-01    GACGTGAGCAGACAAGACGAGAAGGTCCAATG *don't order for template
+V-06-B-01    CTAAGTCTTCTTCACCAGTTGTGTATGCTGAG
+V-06-F-03    TGTTGTCCAGCTATGAGTTTGGATGGAGAAAC *don't order for template
+V-06-B-03    TGAATTTGCTCGTTCTTATAGTATTGCTTGAC
+V-07-F-00    CATCAAAGGTCTACAAATGCTCCTCTGGATAT *don't order for template
+V-07-B-00    TCTGGTACAATCACTATGTAAAGTCCTGAACT
+V-07-F-01    ACCACATAAGCATGGAGTTGACTATTCTGTGA *don't order for template
+V-07-B-01    ATGTGTAAGAAATTCAATCGAAATAAGGACGT
+V-07-F-03    CTGAAGCAGAAGAACTGTAACTACTAATCTAC *don't order for template
+V-07-B-03    TTGAACAGCTTAATCAGAGCTATGCAACTAGG
+V-08-F-00    TAAACCTAACAACAGCTAACTTCCTCTTTCAT *don't order for template
+V-08-B-00    TTAGTTCTGTCGTACCAACAAATACGATGAGA
+V-08-F-02    ACCATCCTGTAAAGATTCCTGGAAGGTATCTG *don't order for template
+V-08-B-02    ACACTTATTAGGAACTGAGATTAAGATAAATC
+V-08-F-04    CTGACTCATGTCTAATCGTCCAGATCATTCTT *don't order for template
+V-08-B-04    ATACAACCAGCTTATAGAGTGTAACGAAATCA
+V-09-F-01    TTATCTTGTTTCAACCTGTCTTACATATCGTG *don't order for template
+V-09-B-01    TTGCTTATCATGTTGTAATAACGTAGCAGTTG
+V-09-F-02    AGAATCGTTAGTGATGTGCTCAAGTAGGTCCA *don't order for template
+V-09-B-02    TAGGTAGTAAAGAGTCACTGATTGACGATGAA
+V-09-F-04    GATCCTTCGAGACGTTGTCCTGCACACGACCT *don't order for template
+V-09-B-04    CCAACAGTGTACCTTAAATACTCAGCTCGATA
+V-10-F-00    CAATGGACAAACTTCTTCGTAACATTAGCACG *don't order for template
+V-10-B-00    TTCGAGGTAGACACTCAACGTGACTGAATTGT
+V-10-F-01    TTCTGCAATAGTGTATCACAACACCAGTGATC *don't order for template
+V-10-B-01    CATCTGTGTGGAGATAAGATCCAGTAATATCA
+V-10-F-02    TGGACTTCGACTTTCGTCAGATATGAATGAAG *don't order for template
+V-10-B-02    CTGACATATTCTAAGTGTGAACTCACGACTGT
+V-11-F-00    CATTCCAGACGAACAACTTTATGAGAGTCCAC *don't order for template
+V-11-B-00    ACTGTGAATTAAGGAGTATCCATTCAACAATC
+V-11-F-01    ACTATCTTTCAATACCTCTTAGCAGCAACGAT *don't order for template
+V-11-B-01    TAGTGGAAAGTGGTTAGACAGAGGACCATTAG
+V-11-F-02    AAGACCAAGATGGAACGTGTCATCACGTCTTT *don't order for template
+V-11-B-02    TTTAGCTGAAGTCTCCATATAGAGCATACTGT
+V-12-F-01    TGATCCTGTCACAAAGACACAGTGCTCCTACG *don't order for template
+V-12-B-01    TACTCATACTCTTATGATAGGTGTAAGTACAA
+V-12-F-03    TCGTTGGTCGAGAACTACATCGTAGAATTGAG *don't order for template
+V-12-B-03    ACTATATTCCTGAATCTCTCTATCCTTGGTTG
+V-12-F-05    ATACTGGTAACACACCACCTGCAACTTCAACT *don't order for template
+V-12-B-05    CACGAGCTTCGATTTGACATTAAGAAACTAGA
+V-13-F-00    AAACGAACTCCTCTCACGTATAAGTGCTGGTC *don't order for template
+V-13-B-00    ACGTCCTAAATATAACTGATACTACACAGGAG
+V-13-F-02    CTTAGAGAATCCTCATCTGCTTGCATTTACTC *don't order for template
+V-13-B-02    TCTTACCACTGAACTGTTATGCTTCACGAAAT
+V-13-F-04    TTGTTTGGACTAACAAGGACAGTCAAAGAGAC *don't order for template
+V-13-B-04    AGAATGGTGGAATAAGCTACGACATCGACACT
+V-14-F-00    TGATTAGGTAAGCATACCACGTTGCAGACAGT *don't order for template
+V-14-B-00    CAATTTCCTCGATAGAGCTACCTGTGACACTG
+V-14-F-02    TTGACGTGTAGTCCATATTGAGAACATTTCTT *don't order for template
+V-14-B-02    TCGATTACGTTCAACTCGTCCTATGGTAGGTG
+V-15-F-00    TTATCTTCACTCATTAGGAGTAGCTTTATCCA *don't order for template
+V-15-B-00    ATGACTGACAACAGTTAGTCAGCTATAACTTC
+V-15-F-02    ATGCAGTAGGTTCTGGAAGTGCTCTTTAACGA *don't order for template
+V-15-B-02    TTACTACATACTTAGGTCACATCTCATGGTAT
+V-16-F-01    GGTTTGACTAAGATAGACTCTACACTGATATA *don't order for template
+V-16-B-01    GTTGTTGCATTATTCTTATTGAACTGCTTACT

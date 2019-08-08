@@ -1,0 +1,7 @@
+DNA nanotechnology is concerned with manufacturing nano-scale shapes and devices with DNA as the primary materials, see references below for background. 
+
+This Java code is used to automatically generate the required oligonucleotides sequences (to be submitted to a synthetic DNA vendor for example) required to create a certain nanoscale shape. This works by 1) supplying the full lattice sequence (~10,000 DNA bases ~= 100x100 nanometer square lattice) which should could either be (a) the sequence of a long ssDNA scaffold (such as M13 viral DNA sequence) or (b) a long ssDNA synthetic sequences that has been software-generated/optimized; (2) defining the coordinates on this lattices; such coordinates can be as simple as [0,n] where n is the the horizental length of the lattice, which will produce a square shape, or more intricate coordinates that define a more elaborate shape (say, a smiley; see example of coordinates under input/ directory). The output is a list of "haps" (horizental oligos), "bridges" (vertical oligos), "staples" (used to splint-ligate haps or bridges into long ssDNA sequences), and horizental and vertical "primers" used to PCR-amplify splint-ligated haps and bridges. It is these long PCR-amplified DNA strands that are then annealed to produced the desired shapes. 
+
+If you are confused, please see ref. for details on this protocol; if you're completely lost please read all the references below for background on DNA nano-fabrication generally. 
+
+ 

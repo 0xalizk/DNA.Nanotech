@@ -1,0 +1,248 @@
+Left Primers:
+
+
+Left-01    AGTATAGACCAATCAAAGATGTTA * don't order
+Left-02    ACTCTCAAGGACGAATTTAGTGTT
+Left-03    AGTTCACCAAGACTACGAGTTTCT * don't order
+Left-04    TAGTGCTCGTGTTAAAACATACTA
+Left-05    GATAAGGTATAATAACTATATGGT * don't order
+Left-06    CATCTACGTCATTACAACAGCAGC
+Left-07    TATGAAGAGGTTGACTGTCGAGGA * don't order
+Left-08    TTCCAACAGACACACATTCGACTG
+Left-09    GATGCAAATGTCTTTACGAACCTA * don't order
+Left-10    CAGTGAGCTGTCCACGAAAGCAGA
+Left-11    CTTGCTATGGAGCTATATACTTGA * don't order
+Left-12    GTTCATCACTTTCAGTCAGGAACT
+Left-13    AAATGATGTGGAGTCTCTAGAATG * don't order
+Left-14    CGTAAGAACATACATGATTACTCA
+Left-15    CACAAGCTAGGAGAACAATCGAAT * don't order
+Left-16    AGACTGCTCAGCTTCGCGAAGTAG
+Left-17    CGAGAATAGGTCCTCATGTGTAGC * don't order
+Left-18    TTTGTGTAGAAGATCCAGACATAG
+Left-19    AATTTCTGCACAGTCAGGTTTACA * don't order
+Left-20    GGACGTGTGCTTCTTGTTGATGAA
+Left-21    TATTAAATCGACTGGTCTCACTTC * don't order
+Left-22    TCTCGATACGATTCACGGTGGTTA
+Left-23    TTAATGGAACTCTGGTATGTGACG * don't order
+Left-24    GCATTGAGTCACCTGCTACGTGGA
+Left-25    TATTTCAAGTTTGGTATCATTATC * don't order
+Left-26    CGTTGTTACTAACTAGCTCAAGAG
+Left-27    AACCTGTTTACTTATGGAGTGCTA * don't order
+Left-28    TCTCTGAATTAGGACTATATAGGT
+Left-29    CAGGAATGGTATGATTCCATAGTG * don't order
+Left-30    TGATCTATGACAACTGTAGCTTGA
+Left-31    AAATAATCTGGAAACTACGTAACA * don't order
+Left-32    AGATAGTCATGCAGCTCTAAGCAA
+Left-33    CGTTTAAGATTGTATTACAATGTA * don't order
+Left-34    TCGTCAAATCCATTCCATCGTTAC
+
+
+Right Primers:
+
+
+Right-01    TTACTAAAGGTCCTAAGAAGAAAG
+Right-02    TGTCTCATATTATCTCTGGAGTAA * don't order
+Right-03    TTCGTTTGGTTGATACGTCTCTGG
+Right-04    GATGCTGGTTACTTGGAAGATGTG * don't order
+Right-05    CTGTGAGGTATCCACACCACTTTG
+Right-06    TTAAGGTGGAACCATCCTTCCTGA * don't order
+Right-07    TCAGAATGTTGGTCTGTCTTATTC
+Right-08    CGTGGTCCTTGGATTGACCAAGAA * don't order
+Right-09    CTTTACTGTTTCAGTCTTCTATCC
+Right-10    GATCGAGGTTTGTTGAAAGTAATG * don't order
+Right-11    GAGAGACTCACGTTCGTAGCACAA
+Right-12    TTAGATGTGCATACAGACCTACAT * don't order
+Right-13    CGTAATTTATCCTGTGTAAATCAT
+Right-14    AATCAGTTCTCTGTTGTGCAATCG * don't order
+Right-15    CTACTCCATCACGACATGTCTGTG
+Right-16    TGTGACAATCTCTAAATCAACCTT * don't order
+Right-17    GTGGAGACCTGACAGCTCGACTCA
+Right-18    TGCTTGTTATAGTGGTACTATGCT * don't order
+Right-19    ATAGTCGAATGAGGAATTAGACGA
+Right-20    TGGTACTCTGCATGTGCACCACAA * don't order
+Right-21    TTCATCTCACCTAAATTAACTGGT
+Right-22    ATGGAATTGTAGCTTGACGTTATC * don't order
+Right-23    AAGATATGTGTTTGAGCTTCAAAG
+Right-24    GAGTGACTTTAAGAAGTTAATGTT * don't order
+Right-25    GAGGTCATTGAAGAACCAAATGTA
+Right-26    TTTATTAGTTTATGTATCATATAG * don't order
+Right-27    ACGTTGCTTTGTCTTACTTATGGT
+Right-28    AGTACGTGTAATCATGTACAGTTT * don't order
+Right-29    AGTTATTCTATTTGACTATCTACA
+Right-30    CAGATACTGAGCTGCTGTTGTAAG * don't order
+Right-31    AACATCGTTCTACCAGTGCACGAG
+Right-32    CGAGAGGACAGACGATGATACTCG * don't order
+Right-33    TTGACTCCTACTTCCTAATAAACC
+Right-34    GTCTAATTCTCAACTCTTCCAGTA * don't order
+
+
+
+                                                                                                                                                                                                                                                                                                                 3-GAAAGAAGAATCCTGGAAATCATT-5
+5-AGTATAGACCAATCAAAGATGTTATCGTACAA-TCGTAGATAGAGTTAGTTTGTAACTTTATTTC-TATTAACAGACTAATAGAGAAATCTTTACTAA-TTCATAATCGTGCATTGCTCATTGTTTATTCG-CACTTCTCTGGTTCGTGCAAAGTCTAGAAACA-TCTGACAAATAGTTGAGCTACTGATTATTTAT-ACAAAGTTTAAGTATAGGTCTTATTTTAATTT-ATTAACCATTCGTAGACAAACAAGTATGACTG-AACAGGTAATCGTAGTGCAGTCTATCACCTCA-CCTCTGATCTTTCTTCTTAGGACCTTTAGTAA-3
+3-tcatatctggttagtttctacaatagcatgtt-agcatctatctcaatcaaacattgaaataaag-ataattgtctgattatctctttagaaatgatt-aagtattagcacgtaacgagtaacaaataagc-gtgaagagaccaagcacgtttcagatctttgt-agactgtttatcaactcgatgactaataaata-tgtttcaaattcatatccagaataaaattaaa-taattggtaagcatctgtttgttcatactgac-ttgtccattagcatcacgtcagatagtggagt-ggagactagaaagaagaatcctggaaatcatt-5
+5-AGTATAGACCAATCAAAGATGTTA
+
+5-ACTCTCAAGGACGAATTTAGTGTT-3
+3-TGAGAGTTCCTGCTTAAATCACAACATAAATA-CCTGAAGATACTTTATCTATACTAACTACTAC-GTGAAAGAATACGTCCTCACTGTCTTAGCTGT-CCTTGAGTAGATCCAGATATTCGACCAACATA-AATAGAACAAAGTTGGTGAATCTTATACAGTC-GTAAGGTCTGCTTGTTGTTTAGCTTCGAGCAC-TTTGCTTGAGGAGAGTTGCATTAGCTGGAATG-GTGTGGAGTCATTGAGTTCTACTGTCGTATTT-CTCTCGATTACTGAGAACTGTTCTCTCGTTCA-TATAATACAATGAGGTCTCTATTATACTCTGT-5
+5-actctcaaggacgaatttagtgttgtatttat-ggacttctatgaaatagatatgattgatgatg-cactttcttatgcaggagtgacagaatcgaca-ggaactcatctaggtctataagctggttgtat-ttatcttgtttcaaccacttagaatatgtcag-cattccagacgaacaacaaatcgaagctcgtg-aaacgaactcctctcaacgtaatcgaccttac-cacacctcagtaactcaagatgacagcataaa-gagagctaatgactcttgacaagagagcaagt-atattatgttactccagagataatatgagaca-3
+                                                                                                                                                                                                                                                                                                                 3-5-AATGAGGTCTCTATTATACTCTGT
+
+                                                                                                                                                                                                                                                                                                                 3-GGTCTCTGCATAGTTGGTTTGCTT-5
+5-AGTTCACCAAGACTACGAGTTTCTGTCTCGAT-CCATTAGGTTATGTACCAAGCTCATAGTCAGA-TGTGGACCAATAACTAGCAATTAAGAGCTTAT-TTTGTAGACCTTTGATGAGTGTAACGAAATCA-CACGATATGTAAGACAGTGAACTCACGACTGT-GTGGACTCTCATAAAGACATTAAGAAACTAGA-GACCAGCACTTATACGTCAACTCGTCCTATGG-GGAGATAGTGTGTCAATATAGCAGACGTATGT-GATACAAGATTTGGTCTCGACCAGCTAGATTG-GGATCGTTCCAGAGACGTATCAACCAAACGAA-3
+3-tcaagtggttctgatgctcaaagacagagcta-ggtaatccaatacatggttcgagtatcagtct-acacctggttattgatcgttaattctcgaata-aaacatctggaaactactcacattgctttagt-gtgctatacattctgtcacttgagtgctgaca-cacctgagagtatttctgtaattctttgatct-ctggtcgtgaatatgcagttgagcaggatacc-cctctatcacacagttatatcgtctgcataca-ctatgttctaaaccagagctggtcgatctaac-cctagcaaggtctctgcatagttggtttgctt-5
+5-AGTTCACCAAGACTACGAGTTTCT
+
+5-TAGTGCTCGTGTTAAAACATACTA-3
+3-ATCACGAGCACAATTTTGTATGATCTCGTGTC-TGAATTTAGAATATAACTCTCTCCACAACTTT-CGTGCTTTCCACCAACTTCTTGCTCGTTTAAG-ACGAGGAGACCTATAATGAGAAGATAATAAAG-TGTGTATGTTCCAAAGCAGTATTAAGGTTTAA-GATTAACACGACTGGTCCTCGACCTACAATTC-ACTTTCGAGACAAGTACTACCTACTGGTGGAT-AATAGAAGTGAGTAATATATGCTCGACACTTC-AAATCATCCTTGCATGTCTATACCAGAAGAGA-TTAATCATGTGTAGAAGGTTCATTGGTCGTAG-5
+5-tagtgctcgtgttaaaacatactagagcacag-acttaaatcttatattgagagaggtgttgaaa-gcacgaaaggtggttgaagaacgagcaaattc-tgctcctctggatattactcttctattatttc-acacatacaaggtttcgtcataattccaaatt-ctaattgtgctgaccaggagctggatgttaag-tgaaagctctgttcatgatggatgaccaccta-ttatcttcactcattatatacgagctgtgaag-tttagtaggaacgtacagatatggtcttctct-aattagtacacatcttccaagtaaccagcatc-3
+                                                                                                                                                                                                                                                                                                                 3-5-GTGTAGAAGGTTCATTGGTCGTAG
+
+                                                                                                                                                                                                                                                                                                                 3-GTTTCACCACACCTATGGAGTGTC-5
+5-GATAAGGTATAATAACTATATGGTTGTTTGAA-GTTATTGCATTGTTCTAGACAGATATAAGCAC-GTAGACGTGTTACTTCATAGTATTGCTTGACT-TCTATACCAACCTATAAAGAATGATCTGGACG-AATAACGTAGCAGTTGCTTCATTCATATCTGA-TATCCATTCAACAATCAGTTGAAGTTGCAGGT-AAATTAGTGTGGTGAAAATGAGTCTGTCAGAA-TGGATAAAGCTACTCCGTTGTTGCATTATTCT-CTGAACATGCTACTGTATGTGTAGGTGTGGTA-CGACAACACAAAGTGGTGTGGATACCTCACAG-3
+3-ctattccatattattgatataccaacaaactt-caataacgtaacaagatctgtctatattcgtg-catctgcacaatgaagtatcataacgaactga-agatatggttggatatttcttactagacctgc-ttattgcatcgtcaacgaagtaagtatagact-ataggtaagttgttagtcaacttcaacgtcca-tttaatcacaccacttttactcagacagtctt-acctatttcgatgaggcaacaacgtaataaga-gacttgtacgatgacatacacatccacaccat-gctgttgtgtttcaccacacctatggagtgtc-5
+5-GATAAGGTATAATAACTATATGGT
+
+5-CATCTACGTCATTACAACAGCAGC-3
+3-GTAGATGCAGTAATGTTGTCGTCGTGGTCAGT-CTTGTAAGCTCTTTGTTCTCTGTAGCAGGAGT-GTTCGTCGTACTCCTCGACACTGCTGTCAAGG-TCCACTTCAAGTCCTGGACTGAGTACAGATTA-TGTTGTACTATTCGTTACCTGAAGCTGAAAGC-GAGGAATTAAGTGTCATATGACCATTGTGTGG-GAGGACACATCATAGTAGGTCTCATCCTAACA-TTATCCTGGTCATGGTTCATTCGTCAAGTTAT-GTGAGAACCTGAAACCACATCTGATCTGGATT-AATCTTCGAGTCCTTCCTACCAAGGTGGAATT-5
+5-catctacgtcattacaacagcagcaccagtca-gaacattcgagaaacaagagacatcgtcctca-caagcagcatgaggagctgtgacgacagttcc-aggtgaagttcaggacctgactcatgtctaat-acaacatgataagcaatggacttcgactttcg-ctccttaattcacagtatactggtaacacacc-ctcctgtgtagtatcatccagagtaggattgt-aataggaccagtaccaagtaagcagttcaata-cactcttggactttggtgtagactagacctaa-ttagaagctcaggaaggatggttccaccttaa-3
+                                                                                                                                                                                                                                                                                                                 3-5-AGTCCTTCCTACCAAGGTGGAATT
+
+                                                                                                                                                                                                                                                                                                                 3-CTTATTCTGTCTGGTTGTAAGACT-5
+5-TATGAAGAGGTTGACTGTCGAGGACAAGATCA-TCTATTCATGTCACTCGTGTTCTTCGATAAAT-TGTCAGAGAGTGTCGTATACATTCTCTTGAAC-ACAATCACTATGTAAACAAAGTGACTGCATCT-TGCTCCAAGTTACGTGGCAGTAGAGATCAAGA-ACCAGGTCAAACATAGCGACTAAGCTGATCTG-ACGTCCTAAATATAACGGACATTCACATGATT-TTGAGTTGCTGTAATGGTACTAGACGAAGGTA-TGGTACTTGTTCTGTTGGAAAGGAGAGGAACT-TCAATGCAGAATAAGACAGACCAACATTCTGA-3
+3-atacttctccaactgacagctcctgttctagt-agataagtacagtgagcacaagaagctattta-acagtctctcacagcatatgtaagagaacttg-tgttagtgatacatttgtttcactgacgtaga-acgaggttcaatgcaccgtcatctctagttct-tggtccagtttgtatcgctgattcgactagac-tgcaggatttatattgcctgtaagtgtactaa-aactcaacgacattaccatgatctgcttccat-accatgaacaagacaacctttcctctccttga-agttacgtcttattctgtctggttgtaagact-5
+5-TATGAAGAGGTTGACTGTCGAGGA
+
+5-TTCCAACAGACACACATTCGACTG-3
+3-AAGGTTGTCTGTGTGTAAGCTGACTTCCATTA-GGACCTACTTGTGCTTATGACTTATTCCACTG-GGTGACAGTTGTAGCTAAACAAAGGATAACTC-TGGTCTATGCTGTGGTGTAGCTGAAGTACGAG-TCTTAGCAATCACTACATAGAGGTGTGTCTAC-TGATAGAAAGTTATGGAGACCACTGATCCTAC-AGACTCCATTACTAATGCTTAGCAGAAGATTC-TCAACTGGTTAAGTTCTTGAAGTCCTCGTTGG-AACTCCTTCTGTCACTCTTTAAGCAGTGCTCA-GATCTCTCAAGAACCAGTTAGGTTCCTGGTGC-5
+5-ttccaacagacacacattcgactgaaggtaat-cctggatgaacacgaatactgaataaggtgac-ccactgtcaacatcgatttgtttcctattgag-accagatacgacaccacatcgacttcatgctc-agaatcgttagtgatgtatctccacacagatg-actatctttcaatacctctggtgactaggatg-tctgaggtaatgattacgaatcgtcttctaag-agttgaccaattcaagaacttcaggagcaacc-ttgaggaagacagtgagaaattcgtcacgagt-ctagagagttcttggtcaatccaaggaccacg-3
+                                                                                                                                                                                                                                                                                                                 3-5-AAGAACCAGTTAGGTTCCTGGTGC
+
+                                                                                                                                                                                                                                                                                                                 3-CCTATCTTCTGACTTTGTCATTTC-5
+5-GATGCAAATGTCTTTACGAACCTAAAGAAGAG-TTGCTGAGCTAGGTGTTGTGGACTAGGTTACC-TCGTTCAGATGAATACCACGATCCTCAGATCC-CCATAGAGTATCGTAAGACCTCAAAGACTGAA-TGGACCTACTTGAGCAAGATCCAGTAATATCA-ATCGTTGCTGCTAAGACCTGTGGTTTATGGTC-GATGGATCAATCCAGATTTCCACACTTTAGAT-ATCAGATCAAACTTACTACTCTGTATAACAGA-GTCCAGAATTAAACCTACACACTCAGGTAAAT-TCTCTCCTGGATAGAAGACTGAAACAGTAAAG-3
+3-ctacgtttacagaaatgcttggatttcttctc-aacgactcgatccacaacacctgatccaatgg-agcaagtctacttatggtgctaggagtctagg-ggtatctcatagcattctggagtttctgactt-acctggatgaactcgttctaggtcattatagt-tagcaacgacgattctggacaccaaataccag-ctacctagttaggtctaaaggtgtgaaatcta-tagtctagtttgaatgatgagacatattgtct-caggtcttaatttggatgtgtgagtccattta-agagaggacctatcttctgactttgtcatttc-5
+5-GATGCAAATGTCTTTACGAACCTA
+
+5-CAGTGAGCTGTCCACGAAAGCAGA-3
+3-GTCACTCGACAGGTGCTTTCGTCTCAGACTAG-AGTTGATCTCCTTACGTTCCTATGGTTCTCCT-TATACGAGTAGTGTGCTGGAGCATACATTGTA-TGGTGTATTCGTACCTGTCAAGGATTATTCAC-CAGGTAGTCGTCCATATTCAACTATCTTCGTT-TGCAAATAATTTGTCGCTAAGTCCTTATATCA-GAATCTCTTAGGAGTATAATAGTGGTGATTGG-AGTATGTTGCTAAAGGACAAGATGCACTGGAA-GTACGTTCCACATACATATGAACCTGCTCGTC-ACTATTAGGTAATGAAAGTTGTTTGGAGCTAG-5
+5-cagtgagctgtccacgaaagcagagtctgatc-tcaactagaggaatgcaaggataccaagagga-atatgctcatcacacgacctcgtatgtaacat-accacataagcatggacagttcctaataagtg-gtccatcagcaggtataagttgatagaagcaa-acgtttattaaacagcgattcaggaatatagt-cttagagaatcctcatattatcaccactaacc-tcatacaacgatttcctgttctacgtgacctt-catgcaaggtgtatgtatacttggacgagcag-tgataatccattactttcaacaaacctcgatc-3
+                                                                                                                                                                                                                                                                                                                 3-5-GTAATGAAAGTTGTTTGGAGCTAG
+
+                                                                                                                                                                                                                                                                                                                 3-AACACGATGCTTGCACTCAGAGAG-5
+5-CTTGCTATGGAGCTATATACTTGAACACCAAA-CTCAGATTAGCTTCCATGTTATCACATCAGAA-GTATAACCATGACCATCAATTTCAGCTCAAAT-TCACAGAATAGTCAACAGATTAAGATAAATCT-GCTTGATGAGATTGCTATGTTGGATAGCTTGG-AATGCTTGTAGATTCTTCTCTATCCTTGGTTG-GAGTAAATGCAAGCAGGCTAAACCAACTTCTG-CAGGTTTGGTGGATCACCTGTGCAATATAATC-GGTTGTCTGATATTCGGCAATGTATTGGAGAT-ACGAATACTTGTGCTACGAACGTGAGTCTCTC-3
+3-gaacgatacctcgatatatgaacttgtggttt-gagtctaatcgaaggtacaatagtgtagtctt-catattggtactggtagttaaagtcgagttta-agtgtcttatcagttgtctaattctatttaga-cgaactactctaacgatacaacctatcgaacc-ttacgaacatctaagaagagataggaaccaac-ctcatttacgttcgtccgatttggttgaagac-gtccaaaccacctagtggacacgttatattag-ccaacagactataagccgttacataacctcta-tgcttatgaacacgatgcttgcactcagagag-5
+5-CTTGCTATGGAGCTATATACTTGA
+
+5-GTTCATCACTTTCAGTCAGGAACT-3
+3-CAAGTAGTGAAAGTCAGTCCTTGAATAAGCAG-TTCTCTGCACGTCTGGACGACAGGACTGGACG-ATAACAGAAAGGATTCATCTGTCCTTGGTTGG-ATACAGAGGATGGACTTTCGAGCTTGAATTGA-TGAGCAGATGTGGTATAACTTCTCTTGCTGGT-AGACACCTAAGTACCATGAAACTTATTAAATC-CTTGGAATACCTGCTTTTGTGTGTCAGCTCAT-GAGTTACAAATCTCCTACACTCGATTTATCCA-ACTAAATAACCTAAAGTTGTTCACTTAACTTG-TAATGTACTACATCCAGACATACGTGTAGATT-5
+5-gttcatcactttcagtcaggaacttattcgtc-aagagacgtgcagacctgctgtcctgacctgc-tattgtctttcctaagtagacaggaaccaacc-tatgtctcctacctgaaagctcgaacttaact-actcgtctacaccatattgaagagaacgacca-tctgtggattcatggtactttgaataatttag-gaaccttatggacgaaaacacacagtcgagta-ctcaatgtttagaggatgtgagctaaataggt-tgatttattggatttcaacaagtgaattgaac-attacatgatgtaggtctgtatgcacatctaa-3
+                                                                                                                                                                                                                                                                                                                 3-5-TACATCCAGACATACGTGTAGATT
+
+                                                                                                                                                                                                                                                                                                                 3-TACTAAATGTGTCCTATTTAATGC-5
+5-AAATGATGTGGAGTCTCTAGAATGTCGTCGTA-CTACTTCAAGATCGAAGTCGTAGAGCTGACAG-GCACCAGGACGTATAGGCTTTCTTGGAAAGGT-TGTCTTAAATTGTTTATAATGTAGGACACGAC-TCCATACTTCACTTAAGTGAGGAACCTATGTA-TACCTGTAGGAAGATCAACTGTACCAAAGGTG-AACTTGACAGATTAACCGTATATCATCGTTGG-TTCTGAGACTTGCTAGATACTGGACTATCCAT-ACGTTAGGAGGATCTCGCTATTTATGACTCGA-ATTGGTAAATGATTTACACAGGATAAATTACG-3
+3-tttactacacctcagagatcttacagcagcat-gatgaagttctagcttcagcatctcgactgtc-cgtggtcctgcatatccgaaagaacctttcca-acagaatttaacaaatattacatcctgtgctg-aggtatgaagtgaattcactccttggatacat-atggacatccttctagttgacatggtttccac-ttgaactgtctaattggcatatagtagcaacc-aagactctgaacgatctatgacctgataggta-tgcaatcctcctagagcgataaatactgagct-taaccatttactaaatgtgtcctatttaatgc-5
+5-AAATGATGTGGAGTCTCTAGAATG
+
+5-CGTAAGAACATACATGATTACTCA-3
+3-GCATTCTTGTATGTACTAATGAGTTATTGGAA-GACACCAGAATGACTTGAGTTCAACATATCCT-TTTGAGACAGGTCAAACATCAATTATCACTTA-GACGTGTTACAATTTGAACTTACGTGTTGATG-TAGACTATCAAGTTCCGATCGTCTCGTGGTGC-GCTAGAGGATATTGGATGAGTGTCTGACTGGA-GAATCATCTTCCTCCTATGTCCTGGTTCACTA-AAATCATGCTCAAGTACAACCTGGTCCATGAG-CGAACACCTACTAGAAATGTCTTACTCGATAT-GAACGAATGCTAACGTGTTGTCTCTTGACTAA-5
+5-cgtaagaacatacatgattactcaataacctt-ctgtggtcttactgaactcaagttgtatagga-aaactctgtccagtttgtagttaatagtgaat-ctgcacaatgttaaacttgaatgcacaactac-atctgatagttcaaggctagcagagcaccacg-cgatctcctataacctactcacagactgacct-cttagtagaaggaggatacaggaccaagtgat-tttagtacgagttcatgttggaccaggtactc-gcttgtggatgatctttacagaatgagctata-cttgcttacgattgcacaacagagaactgatt-3
+                                                                                                                                                                                                                                                                                                                 3-5-GCTAACGTGTTGTCTCTTGACTAA
+
+                                                                                                                                                                                                                                                                                                                 3-GTGTCTGTACAGCACTACCTCATC-5
+5-CACAAGCTAGGAGAACAATCGAATTTAACAAG-GCAGTGCATCTCTAGGATAGGTACTGTGACCA-CATTACACAATGAGATAATAACACAGCTTGCA-TGCTAGTGGATTACTCTGTCAGGAGGTTAGAT-TGCATCTTAACTCATTGACCTCCATGACTCAG-GACTGCTTCGTTAATGCGTACTGAAGATGAAC-GGATGCTGAATACGAGTCAAAGTCTTTAAGTT-TATTATCAATCTTTGCTCTCGTGTAAAGCATC-TAATGTGAGAACCTCTAGATACTCATCATGGA-TGAACTGACACAGACATGTCGTGATGGAGTAG-3
+3-gtgttcgatcctcttgttagcttaaattgttc-cgtcacgtagagatcctatccatgacactggt-gtaatgtgttactctattattgtgtcgaacgt-acgatcacctaatgagacagtcctccaatcta-acgtagaattgagtaactggaggtactgagtc-ctgacgaagcaattacgcatgacttctacttg-cctacgacttatgctcagtttcagaaattcaa-ataatagttagaaacgagagcacatttcgtag-attacactcttggagatctatgagtagtacct-acttgactgtgtctgtacagcactacctcatc-5
+5-CACAAGCTAGGAGAACAATCGAAT
+
+5-AGACTGCTCAGCTTCGCGAAGTAG-3
+3-TCTGACGAGTCGAAGCGCTTCATCAGTCACCT-TACCTTATCACGAAACAAGCAGCTCGATGCAC-GTGAACATCCTATCCTAGCTCACGTCCAATCC-CATTCACTGTTGGTTATATTACCATTAAGTAG-TAAATAAGAGGTCTTTGTGGAATGAACAGCAG-GACCTCAATGGATAACGAATCCAACAACAGAG-TGAGTGATCTCAACATGAGACACGTAGTCAAA-TACCTCGTATCTTGATCACTACGTCCTAAACT-ACTACCACTGCTATGGAGCTGAGAGCTGTCAC-GCTGGTAGTTCCAACTAAATCTCTAACAGTGT-5
+5-agactgctcagcttcgcgaagtagtcagtgga-atggaatagtgctttgttcgtcgagctacgtg-cacttgtaggataggatcgagtgcaggttagg-gtaagtgacaaccaatataatggtaattcatc-atttattctccagaaacaccttacttgtcgtc-ctggagttacctattgcttaggttgttgtctc-actcactagagttgtactctgtgcatcagttt-atggagcatagaactagtgatgcaggatttga-tgatggtgacgatacctcgactctcgacagtg-cgaccatcaaggttgatttagagattgtcaca-3
+                                                                                                                                                                                                                                                                                                                 3-5-TTCCAACTAAATCTCTAACAGTGT
+
+                                                                                                                                                                                                                                                                                                                 3-ACTCAGCTCGACAGTCCAGAGGTG-5
+5-CGAGAATAGGTCCTCATGTGTAGCTCCTATTA-GTTAGGACAGGAGTGTTCCATACGTTAATAAT-CACTAAGGAATTTATGAGATAGCACTAGATAA-GCTCGATGATGTTTCCGTGAACGTGCAAGTAG-GCTGTATTGTCGAGTCTCAACCATCGAGAGAC-TCATACACGATTTATAACTATTATGCACTAAA-AGATAGGATACATACCCATCTGGTGGAGTTTC-TAGGATTCGACGTGAATCGTTAGCAATTTGGT-TTCCTGGTCTCCTGCTAACTGACCACTTACCA-CTTAGTTATGAGTCGAGCTGTCAGGTCTCCAC-3
+3-gctcttatccaggagtacacatcgaggataat-caatcctgtcctcacaaggtatgcaattatta-gtgattccttaaatactctatcgtgatctatt-cgagctactacaaaggcacttgcacgttcatc-cgacataacagctcagagttggtagctctctg-agtatgtgctaaatattgataatacgtgattt-tctatcctatgtatgggtagaccacctcaaag-atcctaagctgcacttagcaatcgttaaacca-aaggaccagaggacgattgactggtgaatggt-gaatcaatactcagctcgacagtccagaggtg-5
+5-CGAGAATAGGTCCTCATGTGTAGC
+
+5-TTTGTGTAGAAGATCCAGACATAG-3
+3-AAACACATCTTCTAGGTCTGTATCTCTATACG-TATCAATGCTACGAAGTGCAGATCCTTAATGT-TTGATCGACTAAGATACAAACCTACCTCTTTG-TGCAGGAATAAAGCTAAGGACCTTCCATAGAC-AAGTAGCAGTTAGTCAGTGTTGTGGTCACTAG-GATTACCAGGAGACAGTGTAGCATCTTAACTC-TAAAGCACTTCGTATTTAACTCTTGTAAAGAA-CTTCAATATCGACTGATTCCTTCACTTTGTAA-TGAACCAAGCTACACACACTAGAGTATGTCAG-CACGACTATCGTATCATGGTGATATTGTTCGT-5
+5-tttgtgtagaagatccagacatagagatatgc-atagttacgatgcttcacgtctaggaattaca-aactagctgattctatgtttggatggagaaac-acgtccttatttcgattcctggaaggtatctg-ttcatcgtcaatcagtcacaacaccagtgatc-ctaatggtcctctgtcacatcgtagaattgag-atttcgtgaagcataaattgagaacatttctt-gaagttatagctgactaaggaagtgaaacatt-acttggttcgatgtgtgtgatctcatacagtc-gtgctgatagcatagtaccactataacaagca-3
+                                                                                                                                                                                                                                                                                                                 3-5-TCGTATCATGGTGATATTGTTCGT
+
+                                                                                                                                                                                                                                                                                                                 3-AGCAGATTAAGGAGTAAGCTGATA-5
+5-AATTTCTGCACAGTCAGGTTTACAGTAGAAAT-CAATCGTCATCTCCTCTTGCTAGAGTACATCT-AAGTTAGAGCTTCAATTCATAGCTGGACAACA-ATGTGTAAGAAATTCAATCTTTACAGGATGGT-TAGGTAGTAAAGAGTCATACACTATTGCAGAA-TAGTGGAAAGTGGTTAAGTTCTCGACCAACGA-TCTTACCACTGAACTGATGGACTACACGTCAA-ATGACTGACAACAGTTAACACATTCAGATAAC-CGTTGACTGAGTAAGGTACAACCTTTGCAGTT-ATTCTCAGTCGTCTAATTCCTCATTCGACTAT-3
+3-ttaaagacgtgtcagtccaaatgtcatcttta-gttagcagtagaggagaacgatctcatgtaga-ttcaatctcgaagttaagtatcgacctgttgt-tacacattctttaagttagaaatgtcctacca-atccatcatttctcagtatgtgataacgtctt-atcacctttcaccaattcaagagctggttgct-agaatggtgacttgactacctgatgtgcagtt-tactgactgttgtcaattgtgtaagtctattg-gcaactgactcattccatgttggaaacgtcaa-taagagtcagcagattaaggagtaagctgata-5
+5-AATTTCTGCACAGTCAGGTTTACA
+
+5-GGACGTGTGCTTCTTGTTGATGAA-3
+3-CCTGCACACGAAGAACAACTACTTTGTGTTCC-TGTTTCTTTCCTTGTGCTTCCTGGAAATACGT-CGTAGTTCTTAACAACGATCGTAGGACTATCT-AATGCAAAGTCGTTGTGGTTTACCTACATTCG-CACCAGAGTGGTTTATGCAGTGGATCTGGTAC-GCACGTACAATAAAGTTTAGTACGATAAGCAC-CGTTAAGCTGGACTACATATACTCCATGTAGG-CAAGGTATTGCACAAGGTATTATTTACCAGTC-AGGTAGACATAAGGTCACTTATCCTAATTTAA-GAGTGTGCAACACCACGTGTACGTCTCATGGT-5
+5-ggacgtgtgcttcttgttgatgaaacacaagg-acaaagaaaggaacacgaaggacctttatgca-gcatcaagaattgttgctagcatcctgataga-ttacgtttcagcaacaccaaatggatgtaagc-gtggtctcaccaaatacgtcacctagaccatg-cgtgcatgttatttcaaatcatgctattcgtg-gcaattcgacctgatgtatatgaggtacatcc-gttccataacgtgttccataataaatggtcag-tccatctgtattccagtgaataggattaaatt-ctcacacgttgtggtgcacatgcagagtacca-3
+                                                                                                                                                                                                                                                                                                                 3-5-AACACCACGTGTACGTCTCATGGT
+
+                                                                                                                                                                                                                                                                                                                 3-TGGTCAATTAAATCCACTCTACTT-5
+5-TATTAAATCGACTGGTCTCACTTCTAATGTGC-GGAGGTATGAGCACGAGTTCTGCTCCTTGTCC-GGTTACGACCTATGAAGTCTCATTATACTCTC-CTTGCTTTCTGAATCCAGTATTGATCGTTGAC-GAACATTGGTAGGACTTATTATATCCTGCTTA-CATCTAGTCGTCGAACGGAGGAAAGCAGCTAC-AACCAGTCTTGTGCAAAGTATTAGTATGACAT-ACCTGGAGGTTGGAGAGTACACACTTGGAATC-CTTAGCAAAGCTCAAGAGTCCTTCTGACTGAT-AAACGTAGACCAGTTAATTTAGGTGAGATGAA-3
+3-ataatttagctgaccagagtgaagattacacg-cctccatactcgtgctcaagacgaggaacagg-ccaatgctggatacttcagagtaatatgagag-gaacgaaagacttaggtcataactagcaactg-cttgtaaccatcctgaataatataggacgaat-gtagatcagcagcttgcctcctttcgtcgatg-ttggtcagaacacgtttcataatcatactgta-tggacctccaacctctcatgtgtgaaccttag-gaatcgtttcgagttctcaggaagactgacta-tttgcatctggtcaattaaatccactctactt-5
+5-TATTAAATCGACTGGTCTCACTTC
+
+5-TCTCGATACGATTCACGGTGGTTA-3
+3-AGAGCTATGCTAAGTGCCACCAATTCATTCGA-TTGTGACATTCCTAGTCACTTCGATACAACAA-ACATTCAGCTCTGACACCACTTCTTCTGAATC-ATGTGATTGAAAGTTTTCATCACTCTCTGTTC-GATACGACGTATATGTTCCTACACAAGGTCCA-GATGTGAACACCATCTAGGAAATATACACTAC-TTTCCATCGTTTAGTGATGCAGAGTAGAACAC-TACGTCATCCAAGACCCTTTCAGTCTGAAGAG-CATCTTCATCTCAAATTGTACTGGACAGTTAT-CCTCTGTGCTATTGCAGTTCGATGTTAAGGTA-5
+5-tctcgatacgattcacggtggttaagtaagct-aacactgtaaggatcagtgaagctatgttgtt-tgtaagtcgagactgtggtgaagaagacttag-tacactaactttcaaaagtagtgagagacaag-ctatgctgcatatacaaggatgtgttccaggt-ctacacttgtggtagatcctttatatgtgatg-aaaggtagcaaatcactacgtctcatcttgtg-atgcagtaggttctgggaaagtcagacttctc-gtagaagtagagtttaacatgacctgtcaata-ggagacacgataacgtcaagctacaattccat-3
+                                                                                                                                                                                                                                                                                                                 3-5-CTATTGCAGTTCGATGTTAAGGTA
+
+                                                                                                                                                                                                                                                                                                                 3-GAAACTTCGAGTTTGTGTATAGAA-5
+5-TTAATGGAACTCTGGTATGTGACGTTGGTAGT-GTGTCTTGTTGATGTGAATGGAGTGAAAGTAA-TTGTGCTCCACGAGGAAGTTGTGTATGCTGAG-AGTTCTTCTGCTTCAGATACTGATAATTTGAC-TCGACGTACCACGAGACTATGATTCAATTAAA-GTTTGCTCAGGTTCACAGGTTAGTATTCTGAA-TGTGACTTACTATGAACAATTTCCTCGATAGA-TCGTTAAAGAGCACTTATATACCACCACAGAT-TCTAATTGCTTAAATGCGTTCGTTGCACTTTG-AAAGCATTCTTTGAAGCTCAAACACATATCTT-3
+3-aattaccttgagaccatacactgcaaccatca-cacagaacaactacacttacctcactttcatt-aacacgaggtgctccttcaacacatacgactc-tcaagaagacgaagtctatgactattaaactg-agctgcatggtgctctgatactaagttaattt-caaacgagtccaagtgtccaatcataagactt-acactgaatgatacttgttaaaggagctatct-agcaatttctcgtgaatatatggtggtgtcta-agattaacgaatttacgcaagcaacgtgaaac-tttcgtaagaaacttcgagtttgtgtatagaa-5
+5-TTAATGGAACTCTGGTATGTGACG
+
+5-GCATTGAGTCACCTGCTACGTGGA-3
+3-CGTAACTCAGTGGACGATGCACCTTCGTAATT-CATAACCACTACGATAGTAAAGATATTGCTAG-GGAGTGAGTCATCAGCAATATAGCATGTACGA-CATTGATGATTAGATGCCATGCTGTCTTGATT-AACACACATTGTCTATATCTTGACGTAAGAGT-GATGCTCTCGACGTTTCGTGTGTACTGTTACC-AACAAACCTGATTGTTGTCACAGTGTCCATCG-CGATTCGTCTGGTAGAATTCATGCTTTGAGCT-TACTTGACCAAAGCAGCATGGAACCACGATTG-GCTACGAGTTGTAATTGAAGAATTTCAGTGAG-5
+5-gcattgagtcacctgctacgtggaagcattaa-gtattggtgatgctatcatttctataacgatc-cctcactcagtagtcgttatatcgtacatgct-gtaactactaatctacggtacgacagaactaa-ttgtgtgtaacagatatagaactgcattctca-ctacgagagctgcaaagcacacatgacaatgg-ttgtttggactaacaacagtgtcacaggtagc-gctaagcagaccatcttaagtacgaaactcga-atgaactggtttcgtcgtaccttggtgctaac-cgatgctcaacattaacttcttaaagtcactc-3
+                                                                                                                                                                                                                                                                                                                 3-5-TTGTAATTGAAGAATTTCAGTGAG
+
+                                                                                                                                                                                                                                                                                                                 3-ATGTAAACCAAGAAGTTACTGGAG-5
+5-TATTTCAAGTTTGGTATCATTATCCTAATCTC-AAGAATATCGAACGTCGTGAATCTATTCTAGT-AATCATCCTTCTCAAAACGATTAAAGGAGTTA-GCTCCACCTGGACATGAACAAATACGATGAGA-AACGTCTCGAAGGATCGTAGTCCTTTCATGTA-GCACTCATCGAATCAATACTCATACTCTTATG-GTCTCTTTGACTGTCCAGCACTCAGCAGAGAG-AGACGTAATACAGTGCTCGACAAGAAACGTCA-CTTGCTGCAATCCTGATTAATGAACGTCTGTT-AGAGGTGGTACATTTGGTTCTTCAATGACCTC-3
+3-ataaagttcaaaccatagtaataggattagag-ttcttatagcttgcagcacttagataagatca-ttagtaggaagagttttgctaatttcctcaat-cgaggtggacctgtacttgtttatgctactct-ttgcagagcttcctagcatcaggaaagtacat-cgtgagtagcttagttatgagtatgagaatac-cagagaaactgacaggtcgtgagtcgtctctc-tctgcattatgtcacgagctgttctttgcagt-gaacgacgttaggactaattacttgcagacaa-tctccaccatgtaaaccaagaagttactggag-5
+5-TATTTCAAGTTTGGTATCATTATC
+
+5-CGTTGTTACTAACTAGCTCAAGAG-3
+3-GCAACAATGATTGATCGAGTTCTCGACATGAC-GTCGTCAATAGATAGCGACTAGATTAAATGCT-ACAGCTTGTGATGTCAAACTTAGAATGCAACT-AAGGACGTTCTCAGAGGACCACTCACTAATGA-CAGGACGTGTGCTGGACTCACAGATGGAGCTT-TTCTGGTTCTACCTTGAACATGAATGTGGATA-TCGATAACCTTCTTAACTAGTATCAAGGTTAA-TAGTGACTTCATGTCCATACTACTATGGATTG-TGAGGAGCAGCTATCGGAGATAACAATTCGAT-ACAAGTCTGATATACTATGTATTTGATTATTT-5
+5-cgttgttactaactagctcaagagctgtactg-cagcagttatctatcgctgatctaatttacga-tgtcgaacactacagtttgaatcttacgttga-ttcctgcaagagtctcctggtgagtgattact-gtcctgcacacgacctgagtgtctacctcgaa-aagaccaagatggaacttgtacttacacctat-agctattggaagaattgatcatagttccaatt-atcactgaagtacaggtatgatgatacctaac-actcctcgtcgatagcctctattgttaagcta-tgttcagactatatgatacataaactaataaa-3
+                                                                                                                                                                                                                                                                                                                 3-5-GATATACTATGTATTTGATTATTT
+
+                                                                                                                                                                                                                                                                                                                 3-TGGTATTCATTCTGTTTCGTTGCA-5
+5-AACCTGTTTACTTATGGAGTGCTACGATAGTC-TTACCAGCTCTGCAAATTGCTTGCTGGTGTAT-GAAGAGATTTAGTTGTCTAACGTCGAGATTAC-AGATCCAAGTCTTGACGTGTCTTCGTGGATTG-GATATTCACCTCCTAGAACGTGACTGAATTGT-AAAGACGTGATGACACACAGAAGAGCTAGTGT-TCATATTGTGGACACAGTGATTTCAGAGGTGC-GATACACATGGACTCAGGAGTGGACGACGATC-TGACTATAAACACACTGTAGTCACAATTTGAA-TCCTCCTCACCATAAGTAAGACAAAGCAACGT-3
+3-ttggacaaatgaatacctcacgatgctatcag-aatggtcgagacgtttaacgaacgaccacata-cttctctaaatcaacagattgcagctctaatg-tctaggttcagaactgcacagaagcacctaac-ctataagtggaggatcttgcactgacttaaca-tttctgcactactgtgtgtcttctcgatcaca-agtataacacctgtgtcactaaagtctccacg-ctatgtgtacctgagtcctcacctgctgctag-actgatatttgtgtgacatcagtgttaaactt-aggaggagtggtattcattctgtttcgttgca-5
+5-AACCTGTTTACTTATGGAGTGCTA
+
+5-TCTCTGAATTAGGACTATATAGGT-3
+3-AGAGACTTAATCCTGATATATCCATATAATAT-ATGGACAGCAAATCATTGCTCTTTCTCAAGTT-GACAAAGCTAGGTAACCTTGTCATCATGGAGA-GTGACACGATATAATTGGTCACACTATCACCT-ATTGATTAGGTTTCGACAACAAATGGTATGTC-TCTTGGTTATATGATCTTCACCTCACAACTCC-AGATCGTAAGTGACGAATCTCAGTCCACACGA-ATGAAAGAGTGCTCCATGAGATGTGACTATAT-GCTTAGATTGTAGTGGACCTAGATTCAGCACG-TAGTGTCGTTTGACATGTACTAATGTGCATGA-5
+5-tctctgaattaggactatataggtatattata-tacctgtcgtttagtaacgagaaagagttcaa-ctgtttcgatccattggaacagtagtacctct-cactgtgctatattaaccagtgtgatagtgga-taactaatccaaagctgttgtttaccatacag-agaaccaatatactagaagtggagtgttgagg-tctagcattcactgcttagagtcaggtgtgct-tactttctcacgaggtactctacactgatata-cgaatctaacatcacctggatctaagtcgtgc-atcacagcaaactgtacatgattacacgtact-3
+                                                                                                                                                                                                                                                                                                                 3-5-TTTGACATGTACTAATGTGCATGA
+
+                                                                                                                                                                                                                                                                                                                 3-ACATCTATCAGTTTATCTTATTGA-5
+5-CAGGAATGGTATGATTCCATAGTGCAATGAAG-TCTAAGTTGTGGAGGAACACGACATAATCCTG-GCTAGACTCGTCATATTATTCCTTCCACAAAT-ACACTTGATCCTAAGGTATAAACTTGTGTCAT-AATCAACGAATTACTTGAGTTAGGATTTAGAC-TCAATGAAACGAGGTGGCTGTCGAAATGTGGA-GAGTACGTTGGAGTCGACAGCAATGTGTCTCT-CAATGACATAGCACGTCTATCTTAGTCAAACC-ATGTAGCTGAGGTCGACATGCTGACGTAACGA-ATCAAATCTGTAGATAGTCAAATAGAATAACT-3
+3-gtccttaccatactaaggtatcacgttacttc-agattcaacacctccttgtgctgtattaggac-cgatctgagcagtataataaggaaggtgttta-tgtgaactaggattccatatttgaacacagta-ttagttgcttaatgaactcaatcctaaatctg-agttactttgctccaccgacagctttacacct-ctcatgcaacctcagctgtcgttacacagaga-gttactgtatcgtgcagatagaatcagtttgg-tacatcgactccagctgtacgactgcattgct-tagtttagacatctatcagtttatcttattga-5
+5-CAGGAATGGTATGATTCCATAGTG
+
+5-TGATCTATGACAACTGTAGCTTGA-3
+3-ACTAGATACTGTTGACATCGAACTATAACATT-GAGTCACTTGTATATGCATTTGTACTCTGATG-TGACCAAGAAATGGAGACGAATCACCTCCACC-AACCAGAGAATAGGAGGATTAACTGCAATTTA-TGCTCGTAATCTCATCTGTTACGACACGAAAT-CTGTGGTTGAGCTAGTCAGTTCTAATCTTTCA-TTTGATATTAACCACGTTACTTATTGTTGACA-AATCTTTATGGTACTCTATGTAGTTCAGCATT-TAATCACTGTGCTCAGTTCTTAGGTTGATAGG-ATCTCGTTGAATGTTGTCGTCGAGTCATAGAC-5
+5-tgatctatgacaactgtagcttgatattgtaa-ctcagtgaacatatacgtaaacatgagactac-actggttctttacctctgcttagtggaggtgg-ttggtctcttatcctcctaattgacgttaaat-acgagcattagagtagacaatgctgtgcttta-gacaccaactcgatcagtcaagattagaaagt-aaactataattggtgcaatgaataacaactgt-ttagaaataccatgagatacatcaagtcgtaa-attagtgacacgagtcaagaatccaactatcc-tagagcaacttacaacagcagctcagtatctg-3
+                                                                                                                                                                                                                                                                                                                 3-5-GAATGTTGTCGTCGAGTCATAGAC
+
+                                                                                                                                                                                                                                                                                                                 3-GAGCACGTGACCATCTTGCTACAA-5
+5-AAATAATCTGGAAACTACGTAACAGTGATTCA-TCAATATCTTTGGACAACTTACATTCATTGGT-TGAGTTCTGATAACGACATTGGACCTTCTCGT-AAATGACTTCTTGTGTCAAGAGCAGTTTCTAA-ATGTACTGCAAGTCATAAGCTCCTGGTTTGAA-GACCTTGGACATCAAATTCCATGTAACGTGGA-GGAAATCTAAACCTCTACTGTCTGCAACGTGG-CATACTTAGGTCACATGGAGGAGAGCTTGTAA-TTGCACATAACACCACTCGTAGGAATGTTATC-GTCCTGTTCTCGTGCACTGGTAGAACGATGTT-3
+3-tttattagacctttgatgcattgtcactaagt-agttatagaaacctgttgaatgtaagtaacca-actcaagactattgctgtaacctggaagagca-tttactgaagaacacagttctcgtcaaagatt-tacatgacgttcagtattcgaggaccaaactt-ctggaacctgtagtttaaggtacattgcacct-cctttagatttggagatgacagacgttgcacc-gtatgaatccagtgtacctcctctcgaacatt-aacgtgtattgtggtgagcatccttacaatag-caggacaagagcacgtgaccatcttgctacaa-5
+5-AAATAATCTGGAAACTACGTAACA
+
+5-AGATAGTCATGCAGCTCTAAGCAA-3
+3-TCTATCAGTACGTCGAGATTCGTTTCCTTAGC-GAGAGAGCAGCACCTTCTACTCCAGATTCTGC-TGACTGACGATTGTAACTGCACTCGTCTGTTC-GGATCAACGTATCGAGATTGAAGGAGAAAGTA-ATAGCTCGACTCATAACTTTGACAGTAATAAC-AGACTCTATGTCATACTGTGTCACGAGGATGC-TCACAGCTACAGCATCACTAATCCATTCGTAT-ATCATTAGATATGTAACGTTTGTTTCATAGAG-TATGGATCTTTGCTGCTAGTTGTATAAACGAC-AGAATGATGCTCATAGTAGCAGACAGGAGAGC-5
+5-agatagtcatgcagctctaagcaaaggaatcg-ctctctcgtcgtggaagatgaggtctaagacg-actgactgctaacattgacgtgagcagacaag-cctagttgcatagctctaacttcctctttcat-tatcgagctgagtattgaaactgtcattattg-tctgagatacagtatgacacagtgctcctacg-agtgtcgatgtcgtagtgattaggtaagcata-tagtaatctatacattgcaaacaaagtatctc-atacctagaaacgacgatcaacatatttgctg-tcttactacgagtatcatcgtctgtcctctcg-3
+                                                                                                                                                                                                                                                                                                                 3-5-GCTCATAGTAGCAGACAGGAGAGC
+
+                                                                                                                                                                                                                                                                                                                 3-CCAAATAATCCTTCATCCTCAGTT-5
+5-CGTTTAAGATTGTATTACAATGTAGAGGTGAC-TCGTAGTCATTGGAAACTAAACTTAATCGAGT-GTGCTTTCACAAACCAATCATTCGTGGTTACC-TTGAACAGCTTAATCAGCTGTTGTTAGGTTTA-CCAACAGTGTACCTTAAGGTGCATCGTGCTAA-AAGTCTCCATATAGAGCTTTGTGACAGGATCA-AGAATGGTGGAATAAGGGAGTCGTTACTAGCT-ACTATGGTGCATTTGATTCATGTGCTGGAGTC-CAATCATTGTACTCCATCAGCTTTGTATCAGA-ATCCTTCAGGTTTATTAGGAAGTAGGAGTCAA-3
+3-gcaaattctaacataatgttacatctccactg-agcatcagtaacctttgatttgaattagctca-cacgaaagtgtttggttagtaagcaccaatgg-aacttgtcgaattagtcgacaacaatccaaat-ggttgtcacatggaattccacgtagcacgatt-ttcagaggtatatctcgaaacactgtcctagt-tcttaccaccttattccctcagcaatgatcga-tgataccacgtaaactaagtacacgacctcag-gttagtaacatgaggtagtcgaaacatagtct-taggaagtccaaataatccttcatcctcagtt-5
+5-CGTTTAAGATTGTATTACAATGTA
+
+5-TCGTCAAATCCATTCCATCGTTAC-3
+3-AGCAGTTTAGGTAAGGTAGCAATGGTAGAGTC-TCACCTATTTGAGTGTGAGACTTCTGAGTTGG-GATCATTTTTGGTCTTCATAGTACGTGTGACA-GCTGCTTTAAGATGTCGTAGTCGAGGAAGTGC-AATACTTTGTTACCTGTTTGAAGAAGCATTGT-GTCGATTTCTCGTAGTTATCTGTATTGAGACT-TACCAAAGATATTATCGTCGAACAGAACCTCT-GCATATTTCACTTGCTAACAAGCTAGTCGTTC-AGCATTATCTGTTTGCACTTGGTCCAAGATAG-ACTTTAATATGACCTTCTCAACTCTTAATCTG-5
+5-tcgtcaaatccattccatcgttaccatctcag-agtggataaactcacactctgaagactcaacc-ctagtaaaaaccagaagtatcatgcacactgt-cgacgaaattctacagcatcagctccttcacg-ttatgaaacaatggacaaacttcttcgtaaca-cagctaaagagcatcaatagacataactctga-atggtttctataatagcagcttgtcttggaga-cgtataaagtgaacgattgttcgatcagcaag-tcgtaatagacaaacgtgaaccaggttctatc-tgaaattatactggaagagttgagaattagac-3
+                                                                                                                                                                                                                                                                                                                 3-5-ATGACCTTCTCAACTCTTAATCTG
